@@ -1,10 +1,10 @@
-# Power BI Clean Build Guide
+# Power BI Visual Build Guide
 
-Use this guide with the clean Power BI project:
+Use this guide with the Power BI project:
 
 `powerbi/EHR_Readmission_Quality_Analytics.pbip`
 
-This version is designed as a stable Power BI semantic model: clean tables, grouped measures, and blank pages. Build the visuals manually in Power BI Desktop using the mockups in `assets/`.
+This version is designed as a stable Power BI semantic model with curated reporting tables, grouped measures, and prepared report pages. Build or refine the visuals in Power BI Desktop using the reference previews in `assets/`.
 
 ## 1. Open and Prepare
 
@@ -71,7 +71,7 @@ Use this section to repair the exact issues that usually appear when building th
 | Completion bars show `1` instead of `78.7%` and `82.3%` | `completion_rate` is being counted | Open the dropdown beside `completion_rate` and choose **Average** or **Maximum**. Format the value as Percentage with 1 decimal. |
 | Cohort charts have long titles like `Index Admissions, Readmissions 30D...` | Too many measures were added to the same visual | Keep only the one required measure in Values/Y-axis. Move extra measures to Tooltips only. |
 | Filters appear as a long checkbox tree | The slicer style is List or a hierarchy was used | Use separate slicers. For each slicer: Format visual > Slicer settings > Style = **Dropdown**. Do not combine fields into one hierarchy slicer. |
-| Service-line labels look different from the mockup | Axis/category labels or data labels are using default settings | Y-axis values on, Y-axis title off, X-axis title off, X-axis labels off or very light, Data labels on, position Outside end, 1 decimal percentage. |
+| Service-line labels look different from the reference preview | Axis/category labels or data labels are using default settings | Y-axis values on, Y-axis title off, X-axis title off, X-axis labels off or very light, Data labels on, position Outside end, 1 decimal percentage. |
 | Numbers show `1K` instead of `1,102` | Display units are set to Auto | Format visual > Callout value or Data labels > Display units = **None**. |
 
 ## 4. Page 1: Readmission Overview
@@ -390,7 +390,7 @@ Expected values:
 | Prior utilization >= 2 encounters | 7.4% |
 | Chronic kidney disease | 7.2% |
 
-Optional interview talking point: the `Average Medication Count` measure remains available under `dashboard_kpis` > `03 Cohort Profile`. Use it in tooltips or add a small optional chart only if you have extra space; it is not part of the main mockup layout.
+Optional interview talking point: the `Average Medication Count` measure remains available under `dashboard_kpis` > `03 Cohort Profile`. Use it in tooltips or add a small optional chart only if you have extra space; it is not part of the main page layout.
 
 ### Table: Encounter-Level Sample
 

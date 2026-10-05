@@ -15,12 +15,12 @@ Among adult inpatient encounters in a synthetic EHR dataset, what operational an
 - Python/pandas data generation, cleaning, feature engineering, aggregation, and validation.
 - SQLite validation that rebuilds cohort-level outputs from raw EHR-style tables.
 - Power BI-ready reporting tables for readmission monitoring and care-quality review.
-- Power BI theme, semantic model, grouped DAX measures, build instructions, and static page mockups for a verified interactive report.
+- Power BI theme, semantic model, grouped DAX measures, build instructions, and static reference previews for the report pages.
 - Responsible interpretation using synthetic data only.
 
 ![Dashboard preview](assets/dashboard-preview.png)
 
-Additional report mockups:
+Additional report previews:
 
 - [Readmission Overview](assets/powerbi-page-1-readmission-overview.png)
 - [Care Quality and Data Quality](assets/powerbi-page-2-quality-data.png)
@@ -66,7 +66,7 @@ The derived high-risk tier had a 13.8% readmission rate, compared with 6.6% in t
 │   ├── 02_cohort_logic.sql
 │   ├── 03_quality_checks.sql
 │   ├── 04_sqlite_cohort_validation.sql
-│   ├── create_powerbi_mockups.py
+│   ├── create_powerbi_previews.py
 │   ├── build_sqlite_database.py
 │   ├── README.md
 │   └── build_ehr_readmission_dataset.py
@@ -90,7 +90,7 @@ The derived high-risk tier had a 13.8% readmission rate, compared with 6.6% in t
 pip install -r requirements.txt
 python pipeline/build_ehr_readmission_dataset.py
 python pipeline/build_sqlite_database.py
-python pipeline/create_powerbi_mockups.py
+python pipeline/create_powerbi_previews.py
 python -m unittest discover -s tests -v
 ```
 

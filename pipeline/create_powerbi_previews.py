@@ -1,4 +1,4 @@
-"""Create static Power BI layout mockups from processed reporting tables."""
+"""Create static Power BI reference previews from processed reporting tables."""
 
 from __future__ import annotations
 
