@@ -1,0 +1,821 @@
+condition_id,patient_id,condition_code,condition_name,onset_date,chronic_flag
+C000001,P00002,I10,Essential hypertension,2022-04-10,True
+C000002,P00004,E11,Type 2 diabetes mellitus,2021-07-28,True
+C000003,P00004,E66,Obesity,2020-02-11,True
+C000004,P00005,E11,Type 2 diabetes mellitus,2025-07-10,True
+C000005,P00006,E66,Obesity,2023-04-13,True
+C000006,P00008,J44,Chronic obstructive pulmonary disease,2020-12-06,True
+C000007,P00010,I10,Essential hypertension,2023-03-17,True
+C000008,P00010,E66,Obesity,2023-04-01,True
+C000009,P00011,I10,Essential hypertension,2021-01-16,True
+C000010,P00012,I10,Essential hypertension,2020-11-24,True
+C000011,P00015,J44,Chronic obstructive pulmonary disease,2020-06-13,True
+C000012,P00016,E66,Obesity,2021-01-13,True
+C000013,P00018,E11,Type 2 diabetes mellitus,2021-08-11,True
+C000014,P00020,I10,Essential hypertension,2023-04-27,True
+C000015,P00020,J44,Chronic obstructive pulmonary disease,2022-10-30,True
+C000016,P00020,E66,Obesity,2021-04-01,True
+C000017,P00021,I50,Heart failure,2021-12-26,True
+C000018,P00021,E66,Obesity,2023-12-26,True
+C000019,P00023,E11,Type 2 diabetes mellitus,2023-04-28,True
+C000020,P00023,I10,Essential hypertension,2020-10-31,True
+C000021,P00025,E11,Type 2 diabetes mellitus,2021-10-17,True
+C000022,P00025,I50,Heart failure,2020-11-24,True
+C000023,P00026,E11,Type 2 diabetes mellitus,2020-10-07,True
+C000024,P00026,I10,Essential hypertension,2024-12-27,True
+C000025,P00027,I10,Essential hypertension,2021-01-21,True
+C000026,P00028,J44,Chronic obstructive pulmonary disease,2025-05-13,True
+C000027,P00030,E11,Type 2 diabetes mellitus,2024-03-13,True
+C000028,P00030,I10,Essential hypertension,2025-01-11,True
+C000029,P00031,E11,Type 2 diabetes mellitus,2023-07-02,True
+C000030,P00033,N18,Chronic kidney disease,2021-03-31,True
+C000031,P00034,J44,Chronic obstructive pulmonary disease,2023-11-05,True
+C000032,P00036,I50,Heart failure,2021-09-15,True
+C000033,P00039,J44,Chronic obstructive pulmonary disease,2023-01-29,True
+C000034,P00041,I10,Essential hypertension,2020-12-28,True
+C000035,P00043,I10,Essential hypertension,2025-01-10,True
+C000036,P00043,J44,Chronic obstructive pulmonary disease,2023-10-26,True
+C000037,P00045,E11,Type 2 diabetes mellitus,2023-12-12,True
+C000038,P00046,I10,Essential hypertension,2020-01-11,True
+C000039,P00052,E66,Obesity,2022-07-03,True
+C000040,P00054,I10,Essential hypertension,2023-03-25,True
+C000041,P00054,E66,Obesity,2024-01-01,True
+C000042,P00056,E66,Obesity,2021-04-10,True
+C000043,P00059,I10,Essential hypertension,2022-06-15,True
+C000044,P00063,I50,Heart failure,2025-09-30,True
+C000045,P00065,I10,Essential hypertension,2022-05-15,True
+C000046,P00065,I50,Heart failure,2024-03-12,True
+C000047,P00066,E66,Obesity,2023-09-22,True
+C000048,P00067,E11,Type 2 diabetes mellitus,2023-08-24,True
+C000049,P00067,I10,Essential hypertension,2023-05-04,True
+C000050,P00068,I10,Essential hypertension,2021-11-04,True
+C000051,P00069,I10,Essential hypertension,2025-09-27,True
+C000052,P00069,I50,Heart failure,2022-03-12,True
+C000053,P00071,E11,Type 2 diabetes mellitus,2020-07-15,True
+C000054,P00072,E66,Obesity,2025-06-22,True
+C000055,P00073,I10,Essential hypertension,2020-05-30,True
+C000056,P00074,E11,Type 2 diabetes mellitus,2021-05-28,True
+C000057,P00075,E11,Type 2 diabetes mellitus,2020-02-09,True
+C000058,P00076,E66,Obesity,2022-02-07,True
+C000059,P00078,N18,Chronic kidney disease,2020-03-04,True
+C000060,P00080,I10,Essential hypertension,2022-10-11,True
+C000061,P00081,I10,Essential hypertension,2024-12-01,True
+C000062,P00082,I10,Essential hypertension,2020-11-16,True
+C000063,P00087,I10,Essential hypertension,2023-04-08,True
+C000064,P00087,N18,Chronic kidney disease,2023-11-30,True
+C000065,P00087,E66,Obesity,2020-12-12,True
+C000066,P00089,I10,Essential hypertension,2022-08-12,True
+C000067,P00090,I10,Essential hypertension,2022-12-25,True
+C000068,P00091,I10,Essential hypertension,2024-11-02,True
+C000069,P00091,I50,Heart failure,2023-08-28,True
+C000070,P00091,N18,Chronic kidney disease,2023-11-05,True
+C000071,P00093,I10,Essential hypertension,2024-08-26,True
+C000072,P00093,I50,Heart failure,2020-04-10,True
+C000073,P00094,I10,Essential hypertension,2022-08-29,True
+C000074,P00094,E66,Obesity,2021-09-17,True
+C000075,P00096,E66,Obesity,2022-05-04,True
+C000076,P00098,I10,Essential hypertension,2022-05-27,True
+C000077,P00099,E11,Type 2 diabetes mellitus,2022-05-23,True
+C000078,P00099,E66,Obesity,2021-12-11,True
+C000079,P00101,E11,Type 2 diabetes mellitus,2022-03-05,True
+C000080,P00101,E66,Obesity,2025-09-03,True
+C000081,P00102,E66,Obesity,2021-01-25,True
+C000082,P00103,E11,Type 2 diabetes mellitus,2022-02-10,True
+C000083,P00103,I10,Essential hypertension,2021-08-17,True
+C000084,P00106,I10,Essential hypertension,2020-02-23,True
+C000085,P00107,J44,Chronic obstructive pulmonary disease,2021-09-18,True
+C000086,P00108,I10,Essential hypertension,2025-01-23,True
+C000087,P00108,E66,Obesity,2022-03-27,True
+C000088,P00111,I10,Essential hypertension,2024-08-28,True
+C000089,P00111,I50,Heart failure,2025-03-30,True
+C000090,P00111,E66,Obesity,2025-07-30,True
+C000091,P00115,J44,Chronic obstructive pulmonary disease,2024-05-04,True
+C000092,P00118,E11,Type 2 diabetes mellitus,2025-01-26,True
+C000093,P00118,I10,Essential hypertension,2023-09-01,True
+C000094,P00119,E11,Type 2 diabetes mellitus,2023-07-09,True
+C000095,P00119,E66,Obesity,2024-03-02,True
+C000096,P00120,E66,Obesity,2024-07-31,True
+C000097,P00122,E11,Type 2 diabetes mellitus,2022-05-01,True
+C000098,P00126,E66,Obesity,2021-08-05,True
+C000099,P00128,E66,Obesity,2025-03-02,True
+C000100,P00129,I10,Essential hypertension,2025-07-25,True
+C000101,P00130,J44,Chronic obstructive pulmonary disease,2020-04-27,True
+C000102,P00130,E66,Obesity,2024-11-06,True
+C000103,P00131,E11,Type 2 diabetes mellitus,2022-07-23,True
+C000104,P00131,J44,Chronic obstructive pulmonary disease,2020-10-30,True
+C000105,P00132,E11,Type 2 diabetes mellitus,2021-10-28,True
+C000106,P00132,E66,Obesity,2021-09-25,True
+C000107,P00133,I10,Essential hypertension,2021-02-24,True
+C000108,P00134,E11,Type 2 diabetes mellitus,2023-05-02,True
+C000109,P00135,I10,Essential hypertension,2022-04-01,True
+C000110,P00135,N18,Chronic kidney disease,2024-10-14,True
+C000111,P00136,E66,Obesity,2020-03-20,True
+C000112,P00137,I10,Essential hypertension,2023-06-08,True
+C000113,P00138,E11,Type 2 diabetes mellitus,2024-11-27,True
+C000114,P00143,J44,Chronic obstructive pulmonary disease,2022-01-31,True
+C000115,P00144,N18,Chronic kidney disease,2020-07-28,True
+C000116,P00144,E66,Obesity,2025-09-10,True
+C000117,P00146,E11,Type 2 diabetes mellitus,2020-06-19,True
+C000118,P00146,J44,Chronic obstructive pulmonary disease,2020-08-22,True
+C000119,P00146,E66,Obesity,2022-12-10,True
+C000120,P00147,I10,Essential hypertension,2021-01-16,True
+C000121,P00148,I10,Essential hypertension,2021-02-22,True
+C000122,P00150,E11,Type 2 diabetes mellitus,2025-05-29,True
+C000123,P00151,I10,Essential hypertension,2024-10-06,True
+C000124,P00151,E66,Obesity,2025-08-24,True
+C000125,P00153,I10,Essential hypertension,2022-09-07,True
+C000126,P00153,J44,Chronic obstructive pulmonary disease,2021-10-11,True
+C000127,P00156,I10,Essential hypertension,2023-02-08,True
+C000128,P00156,I50,Heart failure,2025-03-25,True
+C000129,P00157,I50,Heart failure,2021-04-08,True
+C000130,P00161,E11,Type 2 diabetes mellitus,2022-03-25,True
+C000131,P00162,I50,Heart failure,2022-02-28,True
+C000132,P00164,J44,Chronic obstructive pulmonary disease,2023-09-02,True
+C000133,P00165,E11,Type 2 diabetes mellitus,2024-07-16,True
+C000134,P00167,E11,Type 2 diabetes mellitus,2023-06-17,True
+C000135,P00169,I10,Essential hypertension,2020-05-29,True
+C000136,P00169,I50,Heart failure,2021-06-24,True
+C000137,P00171,E66,Obesity,2022-12-11,True
+C000138,P00172,I50,Heart failure,2022-06-09,True
+C000139,P00173,I10,Essential hypertension,2023-10-19,True
+C000140,P00174,E66,Obesity,2022-01-15,True
+C000141,P00175,I10,Essential hypertension,2021-01-16,True
+C000142,P00175,N18,Chronic kidney disease,2021-11-28,True
+C000143,P00175,J44,Chronic obstructive pulmonary disease,2025-07-25,True
+C000144,P00176,I10,Essential hypertension,2023-01-18,True
+C000145,P00178,E11,Type 2 diabetes mellitus,2022-05-08,True
+C000146,P00178,N18,Chronic kidney disease,2022-09-07,True
+C000147,P00181,I50,Heart failure,2020-08-12,True
+C000148,P00183,E11,Type 2 diabetes mellitus,2023-07-19,True
+C000149,P00183,I10,Essential hypertension,2022-09-02,True
+C000150,P00183,N18,Chronic kidney disease,2022-05-07,True
+C000151,P00184,I10,Essential hypertension,2020-11-08,True
+C000152,P00184,J44,Chronic obstructive pulmonary disease,2024-07-12,True
+C000153,P00185,E11,Type 2 diabetes mellitus,2022-07-31,True
+C000154,P00185,I10,Essential hypertension,2025-03-30,True
+C000155,P00187,I50,Heart failure,2025-08-05,True
+C000156,P00189,E66,Obesity,2024-07-02,True
+C000157,P00190,I10,Essential hypertension,2025-08-22,True
+C000158,P00191,E66,Obesity,2023-03-18,True
+C000159,P00192,E66,Obesity,2024-07-14,True
+C000160,P00194,I10,Essential hypertension,2024-09-14,True
+C000161,P00198,E66,Obesity,2022-02-09,True
+C000162,P00199,I50,Heart failure,2022-03-17,True
+C000163,P00200,I10,Essential hypertension,2024-03-02,True
+C000164,P00202,I10,Essential hypertension,2023-09-07,True
+C000165,P00203,J44,Chronic obstructive pulmonary disease,2022-11-18,True
+C000166,P00205,E11,Type 2 diabetes mellitus,2023-02-04,True
+C000167,P00207,I10,Essential hypertension,2022-10-28,True
+C000168,P00209,I10,Essential hypertension,2023-08-28,True
+C000169,P00209,J44,Chronic obstructive pulmonary disease,2020-10-26,True
+C000170,P00209,E66,Obesity,2021-02-03,True
+C000171,P00212,I10,Essential hypertension,2021-07-19,True
+C000172,P00212,I50,Heart failure,2025-04-03,True
+C000173,P00214,E11,Type 2 diabetes mellitus,2024-01-08,True
+C000174,P00214,I10,Essential hypertension,2022-07-29,True
+C000175,P00216,I10,Essential hypertension,2025-05-11,True
+C000176,P00217,E11,Type 2 diabetes mellitus,2025-03-19,True
+C000177,P00217,I10,Essential hypertension,2022-11-26,True
+C000178,P00217,N18,Chronic kidney disease,2024-03-11,True
+C000179,P00217,E66,Obesity,2020-04-21,True
+C000180,P00218,I50,Heart failure,2023-09-15,True
+C000181,P00218,E66,Obesity,2022-03-06,True
+C000182,P00219,I10,Essential hypertension,2024-11-10,True
+C000183,P00220,E66,Obesity,2022-03-03,True
+C000184,P00221,N18,Chronic kidney disease,2020-10-29,True
+C000185,P00223,I50,Heart failure,2020-07-10,True
+C000186,P00224,I10,Essential hypertension,2021-08-28,True
+C000187,P00225,E66,Obesity,2021-10-09,True
+C000188,P00226,E11,Type 2 diabetes mellitus,2025-09-15,True
+C000189,P00227,I10,Essential hypertension,2021-07-21,True
+C000190,P00228,E11,Type 2 diabetes mellitus,2025-01-15,True
+C000191,P00229,I10,Essential hypertension,2024-08-30,True
+C000192,P00231,I50,Heart failure,2023-07-28,True
+C000193,P00232,E66,Obesity,2021-04-13,True
+C000194,P00233,E11,Type 2 diabetes mellitus,2021-11-04,True
+C000195,P00233,I10,Essential hypertension,2023-07-12,True
+C000196,P00233,J44,Chronic obstructive pulmonary disease,2024-06-30,True
+C000197,P00234,I10,Essential hypertension,2022-05-02,True
+C000198,P00237,I10,Essential hypertension,2023-07-25,True
+C000199,P00238,I10,Essential hypertension,2024-01-14,True
+C000200,P00239,I10,Essential hypertension,2022-03-07,True
+C000201,P00239,J44,Chronic obstructive pulmonary disease,2023-07-31,True
+C000202,P00240,I10,Essential hypertension,2025-03-14,True
+C000203,P00241,I50,Heart failure,2020-06-10,True
+C000204,P00242,I10,Essential hypertension,2020-02-04,True
+C000205,P00243,E11,Type 2 diabetes mellitus,2021-06-28,True
+C000206,P00244,I10,Essential hypertension,2025-01-05,True
+C000207,P00244,E66,Obesity,2023-02-25,True
+C000208,P00245,I10,Essential hypertension,2023-12-22,True
+C000209,P00246,E66,Obesity,2021-06-03,True
+C000210,P00247,J44,Chronic obstructive pulmonary disease,2025-08-16,True
+C000211,P00248,I50,Heart failure,2020-10-09,True
+C000212,P00251,N18,Chronic kidney disease,2020-02-14,True
+C000213,P00252,I10,Essential hypertension,2021-06-15,True
+C000214,P00253,I10,Essential hypertension,2022-06-22,True
+C000215,P00255,E66,Obesity,2024-09-11,True
+C000216,P00257,E11,Type 2 diabetes mellitus,2024-12-22,True
+C000217,P00257,I10,Essential hypertension,2025-01-24,True
+C000218,P00259,I10,Essential hypertension,2020-04-14,True
+C000219,P00260,I10,Essential hypertension,2023-05-29,True
+C000220,P00260,J44,Chronic obstructive pulmonary disease,2025-05-15,True
+C000221,P00261,I10,Essential hypertension,2021-09-20,True
+C000222,P00262,I10,Essential hypertension,2022-04-03,True
+C000223,P00262,N18,Chronic kidney disease,2022-11-11,True
+C000224,P00265,I10,Essential hypertension,2023-04-05,True
+C000225,P00266,E11,Type 2 diabetes mellitus,2024-03-06,True
+C000226,P00266,I10,Essential hypertension,2024-01-26,True
+C000227,P00268,I50,Heart failure,2021-11-21,True
+C000228,P00268,N18,Chronic kidney disease,2025-05-25,True
+C000229,P00269,I10,Essential hypertension,2022-07-04,True
+C000230,P00269,I50,Heart failure,2025-01-25,True
+C000231,P00270,E11,Type 2 diabetes mellitus,2023-09-28,True
+C000232,P00270,I10,Essential hypertension,2021-05-12,True
+C000233,P00270,E66,Obesity,2020-12-18,True
+C000234,P00271,E66,Obesity,2022-10-22,True
+C000235,P00274,I10,Essential hypertension,2022-08-27,True
+C000236,P00274,I50,Heart failure,2023-04-14,True
+C000237,P00274,E66,Obesity,2024-09-18,True
+C000238,P00275,E66,Obesity,2022-11-29,True
+C000239,P00277,I10,Essential hypertension,2025-04-23,True
+C000240,P00278,I10,Essential hypertension,2022-02-17,True
+C000241,P00279,E11,Type 2 diabetes mellitus,2021-08-06,True
+C000242,P00279,I50,Heart failure,2025-02-10,True
+C000243,P00279,J44,Chronic obstructive pulmonary disease,2022-06-28,True
+C000244,P00281,E66,Obesity,2022-08-04,True
+C000245,P00282,I10,Essential hypertension,2021-12-30,True
+C000246,P00282,I50,Heart failure,2021-04-12,True
+C000247,P00283,I10,Essential hypertension,2020-12-16,True
+C000248,P00285,E66,Obesity,2021-06-15,True
+C000249,P00287,I10,Essential hypertension,2024-10-05,True
+C000250,P00289,E66,Obesity,2021-08-15,True
+C000251,P00290,J44,Chronic obstructive pulmonary disease,2025-07-29,True
+C000252,P00290,E66,Obesity,2022-11-23,True
+C000253,P00293,E11,Type 2 diabetes mellitus,2020-06-19,True
+C000254,P00296,E66,Obesity,2022-11-05,True
+C000255,P00297,I10,Essential hypertension,2021-10-29,True
+C000256,P00299,E66,Obesity,2020-06-20,True
+C000257,P00300,I10,Essential hypertension,2025-08-04,True
+C000258,P00302,I50,Heart failure,2021-10-26,True
+C000259,P00302,J44,Chronic obstructive pulmonary disease,2021-07-22,True
+C000260,P00304,I10,Essential hypertension,2023-01-10,True
+C000261,P00306,E66,Obesity,2022-06-18,True
+C000262,P00309,J44,Chronic obstructive pulmonary disease,2024-02-01,True
+C000263,P00310,I10,Essential hypertension,2023-12-21,True
+C000264,P00312,E11,Type 2 diabetes mellitus,2024-03-30,True
+C000265,P00315,E11,Type 2 diabetes mellitus,2022-09-24,True
+C000266,P00315,I10,Essential hypertension,2023-01-21,True
+C000267,P00315,E66,Obesity,2020-11-01,True
+C000268,P00316,E66,Obesity,2020-12-11,True
+C000269,P00317,E11,Type 2 diabetes mellitus,2021-07-03,True
+C000270,P00317,I10,Essential hypertension,2025-02-26,True
+C000271,P00318,I10,Essential hypertension,2022-03-27,True
+C000272,P00319,E11,Type 2 diabetes mellitus,2023-09-24,True
+C000273,P00321,E11,Type 2 diabetes mellitus,2020-01-31,True
+C000274,P00323,I10,Essential hypertension,2022-07-26,True
+C000275,P00324,I10,Essential hypertension,2023-03-11,True
+C000276,P00324,E66,Obesity,2021-10-21,True
+C000277,P00325,I10,Essential hypertension,2020-12-15,True
+C000278,P00326,I50,Heart failure,2024-11-10,True
+C000279,P00328,I10,Essential hypertension,2024-01-14,True
+C000280,P00332,N18,Chronic kidney disease,2022-10-05,True
+C000281,P00333,I10,Essential hypertension,2020-03-15,True
+C000282,P00335,E66,Obesity,2024-07-05,True
+C000283,P00337,E11,Type 2 diabetes mellitus,2023-05-18,True
+C000284,P00337,N18,Chronic kidney disease,2022-09-04,True
+C000285,P00337,E66,Obesity,2024-12-01,True
+C000286,P00339,I50,Heart failure,2024-06-24,True
+C000287,P00341,E11,Type 2 diabetes mellitus,2020-01-11,True
+C000288,P00341,J44,Chronic obstructive pulmonary disease,2024-03-18,True
+C000289,P00341,E66,Obesity,2023-08-08,True
+C000290,P00342,I10,Essential hypertension,2023-03-08,True
+C000291,P00343,E11,Type 2 diabetes mellitus,2021-04-22,True
+C000292,P00343,I10,Essential hypertension,2020-12-12,True
+C000293,P00344,I10,Essential hypertension,2022-09-27,True
+C000294,P00346,E66,Obesity,2022-04-11,True
+C000295,P00347,I10,Essential hypertension,2024-12-24,True
+C000296,P00348,I50,Heart failure,2025-02-23,True
+C000297,P00352,E11,Type 2 diabetes mellitus,2021-05-23,True
+C000298,P00354,I50,Heart failure,2023-02-26,True
+C000299,P00357,E66,Obesity,2025-04-14,True
+C000300,P00362,I10,Essential hypertension,2025-04-24,True
+C000301,P00362,I50,Heart failure,2021-10-04,True
+C000302,P00363,I10,Essential hypertension,2020-07-04,True
+C000303,P00363,E66,Obesity,2020-11-12,True
+C000304,P00368,E11,Type 2 diabetes mellitus,2021-04-29,True
+C000305,P00370,E11,Type 2 diabetes mellitus,2025-02-01,True
+C000306,P00370,I10,Essential hypertension,2023-07-05,True
+C000307,P00370,N18,Chronic kidney disease,2025-05-25,True
+C000308,P00371,I10,Essential hypertension,2023-09-23,True
+C000309,P00372,I10,Essential hypertension,2021-12-11,True
+C000310,P00372,I50,Heart failure,2022-07-08,True
+C000311,P00373,E66,Obesity,2021-01-03,True
+C000312,P00375,E66,Obesity,2024-04-24,True
+C000313,P00376,I10,Essential hypertension,2020-06-04,True
+C000314,P00378,E11,Type 2 diabetes mellitus,2023-09-11,True
+C000315,P00378,I10,Essential hypertension,2021-12-03,True
+C000316,P00378,J44,Chronic obstructive pulmonary disease,2021-10-07,True
+C000317,P00380,I10,Essential hypertension,2022-11-26,True
+C000318,P00382,J44,Chronic obstructive pulmonary disease,2021-12-16,True
+C000319,P00384,I10,Essential hypertension,2025-04-13,True
+C000320,P00384,I50,Heart failure,2021-05-12,True
+C000321,P00385,E11,Type 2 diabetes mellitus,2022-10-01,True
+C000322,P00385,I10,Essential hypertension,2023-10-15,True
+C000323,P00386,E11,Type 2 diabetes mellitus,2020-06-27,True
+C000324,P00386,I10,Essential hypertension,2025-08-08,True
+C000325,P00386,E66,Obesity,2020-09-25,True
+C000326,P00388,I50,Heart failure,2020-11-13,True
+C000327,P00389,I10,Essential hypertension,2021-05-14,True
+C000328,P00390,E66,Obesity,2023-09-20,True
+C000329,P00392,N18,Chronic kidney disease,2025-09-14,True
+C000330,P00392,E66,Obesity,2025-04-23,True
+C000331,P00394,E66,Obesity,2024-03-06,True
+C000332,P00395,E11,Type 2 diabetes mellitus,2022-06-18,True
+C000333,P00395,I10,Essential hypertension,2025-07-15,True
+C000334,P00395,I50,Heart failure,2021-07-08,True
+C000335,P00397,I10,Essential hypertension,2024-12-01,True
+C000336,P00397,N18,Chronic kidney disease,2024-10-25,True
+C000337,P00399,I10,Essential hypertension,2022-07-09,True
+C000338,P00399,N18,Chronic kidney disease,2025-03-14,True
+C000339,P00400,J44,Chronic obstructive pulmonary disease,2020-07-26,True
+C000340,P00400,E66,Obesity,2022-11-20,True
+C000341,P00401,E11,Type 2 diabetes mellitus,2024-03-30,True
+C000342,P00401,I10,Essential hypertension,2025-05-02,True
+C000343,P00401,N18,Chronic kidney disease,2025-06-08,True
+C000344,P00401,E66,Obesity,2025-08-03,True
+C000345,P00402,I50,Heart failure,2021-05-16,True
+C000346,P00404,I50,Heart failure,2020-07-26,True
+C000347,P00404,J44,Chronic obstructive pulmonary disease,2024-10-02,True
+C000348,P00405,I10,Essential hypertension,2024-05-08,True
+C000349,P00406,I10,Essential hypertension,2022-12-19,True
+C000350,P00406,E66,Obesity,2020-07-13,True
+C000351,P00407,E11,Type 2 diabetes mellitus,2024-01-09,True
+C000352,P00411,E66,Obesity,2020-08-16,True
+C000353,P00412,I10,Essential hypertension,2020-11-26,True
+C000354,P00413,E66,Obesity,2023-06-04,True
+C000355,P00414,E11,Type 2 diabetes mellitus,2021-06-18,True
+C000356,P00414,I10,Essential hypertension,2022-11-26,True
+C000357,P00415,E11,Type 2 diabetes mellitus,2023-01-30,True
+C000358,P00415,I10,Essential hypertension,2021-02-10,True
+C000359,P00415,E66,Obesity,2025-04-04,True
+C000360,P00416,I10,Essential hypertension,2024-11-08,True
+C000361,P00416,I50,Heart failure,2022-04-03,True
+C000362,P00416,N18,Chronic kidney disease,2021-01-27,True
+C000363,P00421,I10,Essential hypertension,2024-01-21,True
+C000364,P00422,I10,Essential hypertension,2021-10-02,True
+C000365,P00422,N18,Chronic kidney disease,2022-02-17,True
+C000366,P00422,E66,Obesity,2025-07-24,True
+C000367,P00423,I10,Essential hypertension,2024-12-29,True
+C000368,P00423,E66,Obesity,2023-09-19,True
+C000369,P00425,E11,Type 2 diabetes mellitus,2020-03-23,True
+C000370,P00426,E11,Type 2 diabetes mellitus,2025-07-21,True
+C000371,P00426,I10,Essential hypertension,2025-05-30,True
+C000372,P00426,I50,Heart failure,2024-12-02,True
+C000373,P00427,J44,Chronic obstructive pulmonary disease,2023-07-03,True
+C000374,P00427,E66,Obesity,2024-08-07,True
+C000375,P00430,N18,Chronic kidney disease,2023-08-24,True
+C000376,P00431,N18,Chronic kidney disease,2020-11-18,True
+C000377,P00432,I10,Essential hypertension,2021-01-07,True
+C000378,P00434,I10,Essential hypertension,2020-08-26,True
+C000379,P00434,J44,Chronic obstructive pulmonary disease,2023-08-12,True
+C000380,P00435,I10,Essential hypertension,2025-05-29,True
+C000381,P00435,N18,Chronic kidney disease,2024-01-15,True
+C000382,P00436,I10,Essential hypertension,2024-02-20,True
+C000383,P00438,E11,Type 2 diabetes mellitus,2025-05-28,True
+C000384,P00439,I10,Essential hypertension,2021-10-05,True
+C000385,P00439,I50,Heart failure,2025-02-26,True
+C000386,P00439,E66,Obesity,2021-07-01,True
+C000387,P00443,I10,Essential hypertension,2025-08-30,True
+C000388,P00444,I50,Heart failure,2022-10-31,True
+C000389,P00444,J44,Chronic obstructive pulmonary disease,2020-02-05,True
+C000390,P00445,E66,Obesity,2022-02-05,True
+C000391,P00447,E66,Obesity,2020-03-18,True
+C000392,P00450,I10,Essential hypertension,2020-12-02,True
+C000393,P00453,N18,Chronic kidney disease,2022-06-11,True
+C000394,P00454,I10,Essential hypertension,2024-06-09,True
+C000395,P00455,I10,Essential hypertension,2022-06-01,True
+C000396,P00455,I50,Heart failure,2020-12-03,True
+C000397,P00455,E66,Obesity,2022-09-28,True
+C000398,P00457,E66,Obesity,2023-07-03,True
+C000399,P00460,I10,Essential hypertension,2023-11-29,True
+C000400,P00461,J44,Chronic obstructive pulmonary disease,2025-09-03,True
+C000401,P00463,I10,Essential hypertension,2025-02-02,True
+C000402,P00463,E66,Obesity,2020-04-27,True
+C000403,P00464,E11,Type 2 diabetes mellitus,2020-10-26,True
+C000404,P00464,I10,Essential hypertension,2025-08-28,True
+C000405,P00465,E11,Type 2 diabetes mellitus,2023-04-05,True
+C000406,P00467,I10,Essential hypertension,2022-03-12,True
+C000407,P00467,E66,Obesity,2023-07-11,True
+C000408,P00468,I10,Essential hypertension,2020-02-08,True
+C000409,P00468,J44,Chronic obstructive pulmonary disease,2020-12-11,True
+C000410,P00468,E66,Obesity,2023-06-13,True
+C000411,P00469,I50,Heart failure,2020-12-02,True
+C000412,P00469,E66,Obesity,2020-08-25,True
+C000413,P00471,I10,Essential hypertension,2023-11-11,True
+C000414,P00471,J44,Chronic obstructive pulmonary disease,2024-12-09,True
+C000415,P00473,J44,Chronic obstructive pulmonary disease,2024-07-08,True
+C000416,P00473,E66,Obesity,2021-12-26,True
+C000417,P00474,E11,Type 2 diabetes mellitus,2024-11-15,True
+C000418,P00474,I10,Essential hypertension,2023-01-04,True
+C000419,P00476,E66,Obesity,2025-06-05,True
+C000420,P00478,I10,Essential hypertension,2024-07-11,True
+C000421,P00478,E66,Obesity,2020-07-27,True
+C000422,P00479,N18,Chronic kidney disease,2025-06-09,True
+C000423,P00480,J44,Chronic obstructive pulmonary disease,2025-09-27,True
+C000424,P00483,E11,Type 2 diabetes mellitus,2023-06-03,True
+C000425,P00484,E11,Type 2 diabetes mellitus,2020-02-21,True
+C000426,P00485,E11,Type 2 diabetes mellitus,2022-08-09,True
+C000427,P00485,J44,Chronic obstructive pulmonary disease,2022-10-26,True
+C000428,P00488,I10,Essential hypertension,2020-10-28,True
+C000429,P00488,N18,Chronic kidney disease,2023-04-03,True
+C000430,P00488,J44,Chronic obstructive pulmonary disease,2020-11-28,True
+C000431,P00488,E66,Obesity,2025-08-20,True
+C000432,P00489,E66,Obesity,2025-03-07,True
+C000433,P00490,N18,Chronic kidney disease,2025-02-02,True
+C000434,P00490,E66,Obesity,2021-03-22,True
+C000435,P00491,I10,Essential hypertension,2023-07-04,True
+C000436,P00491,E66,Obesity,2024-11-25,True
+C000437,P00492,I10,Essential hypertension,2022-09-30,True
+C000438,P00493,E11,Type 2 diabetes mellitus,2023-02-28,True
+C000439,P00493,I10,Essential hypertension,2022-07-19,True
+C000440,P00494,J44,Chronic obstructive pulmonary disease,2023-02-19,True
+C000441,P00495,E11,Type 2 diabetes mellitus,2024-11-15,True
+C000442,P00498,I10,Essential hypertension,2021-10-15,True
+C000443,P00499,E66,Obesity,2023-02-14,True
+C000444,P00501,E11,Type 2 diabetes mellitus,2020-11-05,True
+C000445,P00502,I10,Essential hypertension,2020-10-12,True
+C000446,P00503,J44,Chronic obstructive pulmonary disease,2021-09-03,True
+C000447,P00503,E66,Obesity,2023-06-01,True
+C000448,P00504,E11,Type 2 diabetes mellitus,2024-10-18,True
+C000449,P00505,N18,Chronic kidney disease,2020-10-11,True
+C000450,P00506,E11,Type 2 diabetes mellitus,2020-06-11,True
+C000451,P00506,I10,Essential hypertension,2025-04-08,True
+C000452,P00507,E66,Obesity,2023-01-12,True
+C000453,P00508,J44,Chronic obstructive pulmonary disease,2023-09-05,True
+C000454,P00508,E66,Obesity,2023-08-16,True
+C000455,P00510,J44,Chronic obstructive pulmonary disease,2023-02-03,True
+C000456,P00510,E66,Obesity,2023-06-24,True
+C000457,P00512,I10,Essential hypertension,2023-09-03,True
+C000458,P00514,I10,Essential hypertension,2021-12-07,True
+C000459,P00514,I50,Heart failure,2025-03-31,True
+C000460,P00514,E66,Obesity,2022-05-07,True
+C000461,P00515,I10,Essential hypertension,2025-05-09,True
+C000462,P00515,I50,Heart failure,2023-09-12,True
+C000463,P00515,J44,Chronic obstructive pulmonary disease,2020-07-26,True
+C000464,P00516,I10,Essential hypertension,2022-07-16,True
+C000465,P00517,I50,Heart failure,2024-03-14,True
+C000466,P00521,J44,Chronic obstructive pulmonary disease,2024-06-22,True
+C000467,P00522,E11,Type 2 diabetes mellitus,2021-03-27,True
+C000468,P00522,I10,Essential hypertension,2023-05-15,True
+C000469,P00522,I50,Heart failure,2020-03-19,True
+C000470,P00523,I10,Essential hypertension,2023-03-18,True
+C000471,P00523,I50,Heart failure,2024-10-03,True
+C000472,P00523,J44,Chronic obstructive pulmonary disease,2021-12-13,True
+C000473,P00525,I10,Essential hypertension,2020-12-24,True
+C000474,P00527,I10,Essential hypertension,2024-06-11,True
+C000475,P00527,N18,Chronic kidney disease,2023-12-01,True
+C000476,P00528,J44,Chronic obstructive pulmonary disease,2021-03-20,True
+C000477,P00530,I10,Essential hypertension,2020-06-12,True
+C000478,P00531,E66,Obesity,2021-02-01,True
+C000479,P00532,I10,Essential hypertension,2023-06-10,True
+C000480,P00532,I50,Heart failure,2020-10-03,True
+C000481,P00533,I10,Essential hypertension,2024-05-10,True
+C000482,P00534,I10,Essential hypertension,2024-01-29,True
+C000483,P00535,N18,Chronic kidney disease,2020-04-21,True
+C000484,P00539,E11,Type 2 diabetes mellitus,2021-05-14,True
+C000485,P00539,I10,Essential hypertension,2023-05-19,True
+C000486,P00539,J44,Chronic obstructive pulmonary disease,2024-02-07,True
+C000487,P00539,E66,Obesity,2020-04-22,True
+C000488,P00543,E11,Type 2 diabetes mellitus,2020-06-26,True
+C000489,P00543,I10,Essential hypertension,2021-07-15,True
+C000490,P00544,I10,Essential hypertension,2024-03-20,True
+C000491,P00545,E11,Type 2 diabetes mellitus,2022-05-08,True
+C000492,P00546,E11,Type 2 diabetes mellitus,2025-06-12,True
+C000493,P00546,N18,Chronic kidney disease,2024-01-15,True
+C000494,P00547,I50,Heart failure,2023-06-05,True
+C000495,P00547,E66,Obesity,2023-03-16,True
+C000496,P00548,E11,Type 2 diabetes mellitus,2024-11-06,True
+C000497,P00549,I10,Essential hypertension,2025-05-11,True
+C000498,P00551,J44,Chronic obstructive pulmonary disease,2025-08-25,True
+C000499,P00553,I10,Essential hypertension,2020-02-06,True
+C000500,P00553,I50,Heart failure,2022-12-26,True
+C000501,P00555,E66,Obesity,2021-03-27,True
+C000502,P00556,I10,Essential hypertension,2022-02-07,True
+C000503,P00556,I50,Heart failure,2023-06-21,True
+C000504,P00557,N18,Chronic kidney disease,2021-04-26,True
+C000505,P00558,E66,Obesity,2024-03-12,True
+C000506,P00559,E11,Type 2 diabetes mellitus,2021-12-11,True
+C000507,P00559,I10,Essential hypertension,2025-03-20,True
+C000508,P00559,N18,Chronic kidney disease,2023-11-13,True
+C000509,P00559,E66,Obesity,2020-01-19,True
+C000510,P00560,I10,Essential hypertension,2022-05-16,True
+C000511,P00561,J44,Chronic obstructive pulmonary disease,2023-11-23,True
+C000512,P00563,E66,Obesity,2023-03-11,True
+C000513,P00564,I10,Essential hypertension,2021-09-27,True
+C000514,P00564,J44,Chronic obstructive pulmonary disease,2020-03-04,True
+C000515,P00569,I10,Essential hypertension,2022-01-06,True
+C000516,P00570,I50,Heart failure,2022-09-18,True
+C000517,P00571,J44,Chronic obstructive pulmonary disease,2021-05-02,True
+C000518,P00572,E11,Type 2 diabetes mellitus,2020-11-15,True
+C000519,P00573,E66,Obesity,2021-02-22,True
+C000520,P00574,I10,Essential hypertension,2024-01-07,True
+C000521,P00575,I10,Essential hypertension,2024-03-24,True
+C000522,P00575,J44,Chronic obstructive pulmonary disease,2023-12-15,True
+C000523,P00575,E66,Obesity,2020-12-09,True
+C000524,P00576,I10,Essential hypertension,2022-06-16,True
+C000525,P00577,I50,Heart failure,2021-10-28,True
+C000526,P00577,N18,Chronic kidney disease,2023-06-21,True
+C000527,P00578,I10,Essential hypertension,2024-05-05,True
+C000528,P00580,I10,Essential hypertension,2021-09-21,True
+C000529,P00581,E66,Obesity,2023-04-21,True
+C000530,P00583,I50,Heart failure,2021-12-25,True
+C000531,P00583,N18,Chronic kidney disease,2023-12-09,True
+C000532,P00585,I10,Essential hypertension,2022-01-13,True
+C000533,P00585,N18,Chronic kidney disease,2025-07-11,True
+C000534,P00586,I10,Essential hypertension,2023-12-17,True
+C000535,P00587,I10,Essential hypertension,2023-05-30,True
+C000536,P00589,E11,Type 2 diabetes mellitus,2022-02-11,True
+C000537,P00593,I10,Essential hypertension,2025-01-28,True
+C000538,P00593,N18,Chronic kidney disease,2021-02-13,True
+C000539,P00596,E66,Obesity,2021-04-03,True
+C000540,P00598,I10,Essential hypertension,2020-03-29,True
+C000541,P00598,N18,Chronic kidney disease,2024-11-07,True
+C000542,P00603,I10,Essential hypertension,2022-03-08,True
+C000543,P00608,E11,Type 2 diabetes mellitus,2021-06-11,True
+C000544,P00608,I10,Essential hypertension,2025-06-01,True
+C000545,P00609,I10,Essential hypertension,2025-06-21,True
+C000546,P00609,I50,Heart failure,2025-07-13,True
+C000547,P00610,I50,Heart failure,2021-11-24,True
+C000548,P00610,N18,Chronic kidney disease,2020-08-23,True
+C000549,P00611,I10,Essential hypertension,2020-07-07,True
+C000550,P00611,J44,Chronic obstructive pulmonary disease,2020-09-02,True
+C000551,P00612,J44,Chronic obstructive pulmonary disease,2022-12-12,True
+C000552,P00614,E11,Type 2 diabetes mellitus,2021-06-09,True
+C000553,P00616,E11,Type 2 diabetes mellitus,2022-08-21,True
+C000554,P00618,E11,Type 2 diabetes mellitus,2022-06-13,True
+C000555,P00618,I10,Essential hypertension,2021-07-23,True
+C000556,P00618,E66,Obesity,2020-09-02,True
+C000557,P00619,E66,Obesity,2025-02-11,True
+C000558,P00620,N18,Chronic kidney disease,2020-04-07,True
+C000559,P00622,E11,Type 2 diabetes mellitus,2024-08-05,True
+C000560,P00622,I10,Essential hypertension,2022-05-05,True
+C000561,P00623,I10,Essential hypertension,2024-06-01,True
+C000562,P00623,E66,Obesity,2024-01-18,True
+C000563,P00626,I10,Essential hypertension,2025-03-02,True
+C000564,P00626,E66,Obesity,2021-02-09,True
+C000565,P00627,I10,Essential hypertension,2023-05-31,True
+C000566,P00630,E11,Type 2 diabetes mellitus,2023-12-02,True
+C000567,P00630,I50,Heart failure,2020-08-16,True
+C000568,P00633,E66,Obesity,2024-02-02,True
+C000569,P00634,J44,Chronic obstructive pulmonary disease,2020-11-24,True
+C000570,P00635,I10,Essential hypertension,2024-09-06,True
+C000571,P00636,I10,Essential hypertension,2024-07-15,True
+C000572,P00636,E66,Obesity,2020-08-24,True
+C000573,P00637,I10,Essential hypertension,2023-06-12,True
+C000574,P00637,I50,Heart failure,2023-06-17,True
+C000575,P00637,N18,Chronic kidney disease,2024-05-13,True
+C000576,P00638,I10,Essential hypertension,2024-07-24,True
+C000577,P00640,I10,Essential hypertension,2021-12-30,True
+C000578,P00642,E11,Type 2 diabetes mellitus,2025-08-26,True
+C000579,P00642,J44,Chronic obstructive pulmonary disease,2022-03-04,True
+C000580,P00643,I10,Essential hypertension,2020-01-30,True
+C000581,P00644,I10,Essential hypertension,2024-01-04,True
+C000582,P00645,E66,Obesity,2021-03-06,True
+C000583,P00647,I50,Heart failure,2024-04-28,True
+C000584,P00648,I10,Essential hypertension,2024-07-09,True
+C000585,P00649,E11,Type 2 diabetes mellitus,2023-12-08,True
+C000586,P00649,I10,Essential hypertension,2021-01-13,True
+C000587,P00650,I10,Essential hypertension,2025-06-24,True
+C000588,P00650,N18,Chronic kidney disease,2020-02-03,True
+C000589,P00651,E66,Obesity,2022-01-27,True
+C000590,P00653,I10,Essential hypertension,2025-06-14,True
+C000591,P00655,I10,Essential hypertension,2022-07-14,True
+C000592,P00657,E11,Type 2 diabetes mellitus,2020-04-02,True
+C000593,P00659,I10,Essential hypertension,2021-11-05,True
+C000594,P00659,J44,Chronic obstructive pulmonary disease,2024-01-06,True
+C000595,P00661,J44,Chronic obstructive pulmonary disease,2023-05-21,True
+C000596,P00662,I50,Heart failure,2020-12-29,True
+C000597,P00662,N18,Chronic kidney disease,2022-02-09,True
+C000598,P00663,I10,Essential hypertension,2022-05-11,True
+C000599,P00663,N18,Chronic kidney disease,2024-04-30,True
+C000600,P00665,I10,Essential hypertension,2025-01-20,True
+C000601,P00665,N18,Chronic kidney disease,2020-04-04,True
+C000602,P00666,J44,Chronic obstructive pulmonary disease,2021-06-04,True
+C000603,P00671,E11,Type 2 diabetes mellitus,2020-12-29,True
+C000604,P00672,E11,Type 2 diabetes mellitus,2024-08-09,True
+C000605,P00673,E11,Type 2 diabetes mellitus,2022-12-29,True
+C000606,P00676,I50,Heart failure,2025-01-21,True
+C000607,P00679,E11,Type 2 diabetes mellitus,2020-03-08,True
+C000608,P00679,I10,Essential hypertension,2025-04-28,True
+C000609,P00679,J44,Chronic obstructive pulmonary disease,2024-01-05,True
+C000610,P00680,I10,Essential hypertension,2021-10-13,True
+C000611,P00681,J44,Chronic obstructive pulmonary disease,2020-05-16,True
+C000612,P00682,E11,Type 2 diabetes mellitus,2020-09-21,True
+C000613,P00682,N18,Chronic kidney disease,2021-08-08,True
+C000614,P00684,N18,Chronic kidney disease,2025-03-06,True
+C000615,P00684,J44,Chronic obstructive pulmonary disease,2023-05-20,True
+C000616,P00686,E11,Type 2 diabetes mellitus,2022-03-15,True
+C000617,P00687,E11,Type 2 diabetes mellitus,2025-07-15,True
+C000618,P00687,I10,Essential hypertension,2022-09-28,True
+C000619,P00688,I50,Heart failure,2021-07-22,True
+C000620,P00689,E11,Type 2 diabetes mellitus,2020-03-16,True
+C000621,P00689,I10,Essential hypertension,2022-03-13,True
+C000622,P00689,I50,Heart failure,2020-04-16,True
+C000623,P00689,N18,Chronic kidney disease,2021-02-08,True
+C000624,P00690,E66,Obesity,2022-02-09,True
+C000625,P00693,E11,Type 2 diabetes mellitus,2024-06-05,True
+C000626,P00693,I10,Essential hypertension,2022-04-01,True
+C000627,P00693,E66,Obesity,2023-04-15,True
+C000628,P00694,I10,Essential hypertension,2023-05-23,True
+C000629,P00695,I10,Essential hypertension,2022-05-28,True
+C000630,P00696,N18,Chronic kidney disease,2023-10-29,True
+C000631,P00696,E66,Obesity,2023-11-04,True
+C000632,P00698,E66,Obesity,2023-06-13,True
+C000633,P00700,I10,Essential hypertension,2024-06-04,True
+C000634,P00700,J44,Chronic obstructive pulmonary disease,2025-02-25,True
+C000635,P00702,E66,Obesity,2021-12-24,True
+C000636,P00705,J44,Chronic obstructive pulmonary disease,2023-10-22,True
+C000637,P00706,I50,Heart failure,2021-07-20,True
+C000638,P00707,N18,Chronic kidney disease,2024-10-07,True
+C000639,P00708,I10,Essential hypertension,2025-05-29,True
+C000640,P00708,N18,Chronic kidney disease,2024-11-21,True
+C000641,P00709,I10,Essential hypertension,2023-10-08,True
+C000642,P00711,I10,Essential hypertension,2025-05-20,True
+C000643,P00715,E11,Type 2 diabetes mellitus,2021-04-19,True
+C000644,P00716,E11,Type 2 diabetes mellitus,2021-10-03,True
+C000645,P00716,I10,Essential hypertension,2022-03-05,True
+C000646,P00716,I50,Heart failure,2025-08-07,True
+C000647,P00718,E11,Type 2 diabetes mellitus,2023-03-18,True
+C000648,P00718,J44,Chronic obstructive pulmonary disease,2024-01-05,True
+C000649,P00719,E11,Type 2 diabetes mellitus,2024-03-29,True
+C000650,P00719,I10,Essential hypertension,2022-08-20,True
+C000651,P00719,E66,Obesity,2024-12-06,True
+C000652,P00720,I10,Essential hypertension,2023-06-13,True
+C000653,P00720,J44,Chronic obstructive pulmonary disease,2021-09-19,True
+C000654,P00722,I10,Essential hypertension,2020-12-30,True
+C000655,P00722,N18,Chronic kidney disease,2024-12-07,True
+C000656,P00723,E66,Obesity,2021-01-03,True
+C000657,P00727,I50,Heart failure,2025-05-19,True
+C000658,P00728,I10,Essential hypertension,2024-01-15,True
+C000659,P00729,N18,Chronic kidney disease,2025-02-03,True
+C000660,P00731,E11,Type 2 diabetes mellitus,2023-11-17,True
+C000661,P00732,I50,Heart failure,2022-12-04,True
+C000662,P00732,E66,Obesity,2024-04-08,True
+C000663,P00733,E11,Type 2 diabetes mellitus,2024-02-02,True
+C000664,P00734,J44,Chronic obstructive pulmonary disease,2023-03-14,True
+C000665,P00735,I50,Heart failure,2022-10-10,True
+C000666,P00736,I10,Essential hypertension,2022-06-11,True
+C000667,P00736,J44,Chronic obstructive pulmonary disease,2020-02-05,True
+C000668,P00736,E66,Obesity,2024-06-07,True
+C000669,P00737,E11,Type 2 diabetes mellitus,2024-03-04,True
+C000670,P00738,E66,Obesity,2024-07-09,True
+C000671,P00739,E11,Type 2 diabetes mellitus,2022-11-24,True
+C000672,P00739,I10,Essential hypertension,2023-12-12,True
+C000673,P00739,E66,Obesity,2021-07-19,True
+C000674,P00740,I10,Essential hypertension,2021-07-06,True
+C000675,P00741,I10,Essential hypertension,2021-04-22,True
+C000676,P00742,I10,Essential hypertension,2025-04-24,True
+C000677,P00743,N18,Chronic kidney disease,2025-06-25,True
+C000678,P00744,J44,Chronic obstructive pulmonary disease,2021-03-23,True
+C000679,P00746,E66,Obesity,2025-02-05,True
+C000680,P00747,E11,Type 2 diabetes mellitus,2025-09-07,True
+C000681,P00749,I10,Essential hypertension,2023-10-16,True
+C000682,P00749,I50,Heart failure,2022-07-15,True
+C000683,P00749,N18,Chronic kidney disease,2020-01-13,True
+C000684,P00751,E11,Type 2 diabetes mellitus,2023-03-17,True
+C000685,P00751,I10,Essential hypertension,2022-02-20,True
+C000686,P00751,N18,Chronic kidney disease,2024-11-05,True
+C000687,P00752,E11,Type 2 diabetes mellitus,2024-02-15,True
+C000688,P00753,I10,Essential hypertension,2021-04-20,True
+C000689,P00754,I50,Heart failure,2023-06-15,True
+C000690,P00754,E66,Obesity,2021-05-08,True
+C000691,P00755,I10,Essential hypertension,2025-05-08,True
+C000692,P00758,I10,Essential hypertension,2023-08-08,True
+C000693,P00759,E66,Obesity,2024-03-31,True
+C000694,P00761,I10,Essential hypertension,2025-06-21,True
+C000695,P00762,I10,Essential hypertension,2024-10-05,True
+C000696,P00764,I10,Essential hypertension,2023-06-30,True
+C000697,P00765,E11,Type 2 diabetes mellitus,2022-12-30,True
+C000698,P00767,J44,Chronic obstructive pulmonary disease,2024-08-04,True
+C000699,P00768,E11,Type 2 diabetes mellitus,2025-09-27,True
+C000700,P00770,N18,Chronic kidney disease,2022-11-22,True
+C000701,P00771,I10,Essential hypertension,2021-01-28,True
+C000702,P00772,I10,Essential hypertension,2025-02-26,True
+C000703,P00773,E11,Type 2 diabetes mellitus,2020-12-19,True
+C000704,P00774,E11,Type 2 diabetes mellitus,2022-07-11,True
+C000705,P00774,I10,Essential hypertension,2023-05-10,True
+C000706,P00774,J44,Chronic obstructive pulmonary disease,2020-09-27,True
+C000707,P00775,E66,Obesity,2024-08-17,True
+C000708,P00777,I10,Essential hypertension,2021-04-18,True
+C000709,P00779,E66,Obesity,2024-05-01,True
+C000710,P00781,I10,Essential hypertension,2020-11-12,True
+C000711,P00781,J44,Chronic obstructive pulmonary disease,2020-05-15,True
+C000712,P00782,I50,Heart failure,2024-03-18,True
+C000713,P00782,E66,Obesity,2021-10-11,True
+C000714,P00783,I10,Essential hypertension,2022-08-26,True
+C000715,P00787,I10,Essential hypertension,2022-02-05,True
+C000716,P00787,E66,Obesity,2025-05-21,True
+C000717,P00788,I10,Essential hypertension,2022-11-17,True
+C000718,P00788,E66,Obesity,2022-05-03,True
+C000719,P00789,E11,Type 2 diabetes mellitus,2025-07-31,True
+C000720,P00789,J44,Chronic obstructive pulmonary disease,2023-11-01,True
+C000721,P00790,E11,Type 2 diabetes mellitus,2024-01-05,True
+C000722,P00790,I10,Essential hypertension,2025-02-02,True
+C000723,P00790,N18,Chronic kidney disease,2021-10-21,True
+C000724,P00790,E66,Obesity,2021-01-09,True
+C000725,P00794,E66,Obesity,2020-03-07,True
+C000726,P00795,E11,Type 2 diabetes mellitus,2025-09-13,True
+C000727,P00795,I10,Essential hypertension,2025-09-21,True
+C000728,P00796,I10,Essential hypertension,2024-04-21,True
+C000729,P00797,I10,Essential hypertension,2023-12-26,True
+C000730,P00797,N18,Chronic kidney disease,2025-04-20,True
+C000731,P00797,J44,Chronic obstructive pulmonary disease,2020-03-29,True
+C000732,P00800,I50,Heart failure,2022-04-30,True
+C000733,P00802,E11,Type 2 diabetes mellitus,2022-10-29,True
+C000734,P00802,N18,Chronic kidney disease,2024-11-22,True
+C000735,P00803,E11,Type 2 diabetes mellitus,2023-06-29,True
+C000736,P00805,E11,Type 2 diabetes mellitus,2023-03-10,True
+C000737,P00806,I10,Essential hypertension,2023-05-14,True
+C000738,P00807,E11,Type 2 diabetes mellitus,2022-04-28,True
+C000739,P00808,E66,Obesity,2025-06-01,True
+C000740,P00809,I10,Essential hypertension,2025-04-07,True
+C000741,P00809,J44,Chronic obstructive pulmonary disease,2021-08-15,True
+C000742,P00810,I10,Essential hypertension,2025-02-23,True
+C000743,P00810,J44,Chronic obstructive pulmonary disease,2025-09-25,True
+C000744,P00811,I50,Heart failure,2023-10-17,True
+C000745,P00812,I10,Essential hypertension,2021-11-29,True
+C000746,P00813,J44,Chronic obstructive pulmonary disease,2020-10-03,True
+C000747,P00815,I10,Essential hypertension,2020-07-10,True
+C000748,P00816,I10,Essential hypertension,2022-06-04,True
+C000749,P00816,N18,Chronic kidney disease,2024-01-14,True
+C000750,P00817,I10,Essential hypertension,2021-03-06,True
+C000751,P00818,E66,Obesity,2024-05-25,True
+C000752,P00819,I10,Essential hypertension,2024-07-25,True
+C000753,P00820,J44,Chronic obstructive pulmonary disease,2024-05-16,True
+C000754,P00821,E66,Obesity,2021-11-30,True
+C000755,P00822,E11,Type 2 diabetes mellitus,2020-06-06,True
+C000756,P00822,I10,Essential hypertension,2021-12-12,True
+C000757,P00824,E11,Type 2 diabetes mellitus,2024-06-26,True
+C000758,P00824,I10,Essential hypertension,2022-11-26,True
+C000759,P00824,E66,Obesity,2022-03-11,True
+C000760,P00825,I10,Essential hypertension,2022-10-20,True
+C000761,P00827,I10,Essential hypertension,2025-08-04,True
+C000762,P00829,I10,Essential hypertension,2022-04-21,True
+C000763,P00830,E11,Type 2 diabetes mellitus,2023-12-21,True
+C000764,P00832,J44,Chronic obstructive pulmonary disease,2021-04-10,True
+C000765,P00833,I10,Essential hypertension,2021-03-24,True
+C000766,P00833,N18,Chronic kidney disease,2020-10-14,True
+C000767,P00834,I10,Essential hypertension,2022-03-21,True
+C000768,P00842,J44,Chronic obstructive pulmonary disease,2023-12-24,True
+C000769,P00842,E66,Obesity,2025-03-08,True
+C000770,P00843,E11,Type 2 diabetes mellitus,2023-01-05,True
+C000771,P00843,I10,Essential hypertension,2020-09-09,True
+C000772,P00844,E66,Obesity,2023-10-13,True
+C000773,P00845,E66,Obesity,2024-12-09,True
+C000774,P00847,I10,Essential hypertension,2021-01-23,True
+C000775,P00848,E11,Type 2 diabetes mellitus,2024-09-17,True
+C000776,P00848,I50,Heart failure,2021-11-27,True
+C000777,P00848,N18,Chronic kidney disease,2024-04-20,True
+C000778,P00849,I10,Essential hypertension,2023-10-09,True
+C000779,P00849,I50,Heart failure,2020-07-15,True
+C000780,P00852,I10,Essential hypertension,2022-01-13,True
+C000781,P00853,J44,Chronic obstructive pulmonary disease,2020-06-03,True
+C000782,P00855,I10,Essential hypertension,2023-07-24,True
+C000783,P00856,E66,Obesity,2021-01-10,True
+C000784,P00858,E66,Obesity,2023-01-17,True
+C000785,P00859,E11,Type 2 diabetes mellitus,2021-08-14,True
+C000786,P00859,I50,Heart failure,2021-07-25,True
+C000787,P00860,I10,Essential hypertension,2020-07-28,True
+C000788,P00860,N18,Chronic kidney disease,2021-10-23,True
+C000789,P00861,E66,Obesity,2021-04-01,True
+C000790,P00863,I10,Essential hypertension,2024-04-06,True
+C000791,P00865,I10,Essential hypertension,2021-12-23,True
+C000792,P00865,N18,Chronic kidney disease,2020-11-10,True
+C000793,P00866,I50,Heart failure,2020-05-18,True
+C000794,P00866,J44,Chronic obstructive pulmonary disease,2021-06-22,True
+C000795,P00870,I10,Essential hypertension,2020-05-10,True
+C000796,P00872,E11,Type 2 diabetes mellitus,2021-06-27,True
+C000797,P00873,E66,Obesity,2024-04-22,True
+C000798,P00874,E11,Type 2 diabetes mellitus,2022-03-12,True
+C000799,P00876,E66,Obesity,2021-06-17,True
+C000800,P00877,I10,Essential hypertension,2021-02-22,True
+C000801,P00877,N18,Chronic kidney disease,2020-11-14,True
+C000802,P00881,E11,Type 2 diabetes mellitus,2020-03-12,True
+C000803,P00882,I10,Essential hypertension,2020-10-07,True
+C000804,P00884,E11,Type 2 diabetes mellitus,2021-08-23,True
+C000805,P00884,I10,Essential hypertension,2021-09-24,True
+C000806,P00885,E66,Obesity,2020-03-10,True
+C000807,P00886,E11,Type 2 diabetes mellitus,2021-12-21,True
+C000808,P00888,I10,Essential hypertension,2020-02-22,True
+C000809,P00890,I10,Essential hypertension,2025-07-15,True
+C000810,P00890,N18,Chronic kidney disease,2024-04-10,True
+C000811,P00891,E11,Type 2 diabetes mellitus,2023-06-12,True
+C000812,P00891,I50,Heart failure,2021-03-22,True
+C000813,P00893,E11,Type 2 diabetes mellitus,2025-03-23,True
+C000814,P00893,I10,Essential hypertension,2021-07-17,True
+C000815,P00893,I50,Heart failure,2020-09-07,True
+C000816,P00895,I10,Essential hypertension,2024-06-24,True
+C000817,P00896,E66,Obesity,2021-02-12,True
+C000818,P00897,I10,Essential hypertension,2021-08-25,True
+C000819,P00898,I10,Essential hypertension,2020-08-15,True
+C000820,P00900,E66,Obesity,2023-11-01,True

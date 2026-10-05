@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "EHR_Readmission_Quality_Analytics_CLEAN"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "af9f7d3f-a143-49fb-9293-e0687ead81fd"
+  }
+}

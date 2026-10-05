@@ -1,0 +1,52 @@
+table readmission_summary_by_service
+	lineageTag: 8952445f-e783-4b40-8351-82d5b9ee2dad
+
+	column service_line
+		dataType: string
+		lineageTag: 5b0ccdc3-161a-4520-98d0-7cf92bf7f54b
+		summarizeBy: none
+		sourceColumn: service_line
+
+	column index_admissions
+		dataType: int64
+		formatString: #,0
+		lineageTag: e50e8f43-5e38-41e0-8b70-b9756d02e1b3
+		summarizeBy: none
+		sourceColumn: index_admissions
+
+	column readmissions_30d
+		dataType: int64
+		formatString: #,0
+		lineageTag: 0990e598-4307-4ae0-b0fc-e5f0ee14f4b3
+		summarizeBy: none
+		sourceColumn: readmissions_30d
+
+	column avg_length_of_stay
+		dataType: double
+		formatString: 0.0
+		lineageTag: 50cbb5ee-6306-4905-8634-dd76fb284273
+		summarizeBy: none
+		sourceColumn: avg_length_of_stay
+
+	column high_risk_encounters
+		dataType: int64
+		formatString: #,0
+		lineageTag: f2c48af0-7ba7-4bf0-9f6c-d0f85fa3283b
+		summarizeBy: none
+		sourceColumn: high_risk_encounters
+
+	column readmission_rate
+		dataType: double
+		formatString: 0.0
+		lineageTag: 7484abe1-bbdc-4ad2-a166-79876febf730
+		summarizeBy: none
+		sourceColumn: readmission_rate
+
+	partition readmission_summary_by_service = m
+		mode: import
+		source =
+				let
+				    Source = #table(type table [service_line = text, index_admissions = Int64.Type, readmissions_30d = Int64.Type, avg_length_of_stay = number, high_risk_encounters = Int64.Type, readmission_rate = number], {{"General Medicine", 407, 32, 3.1, 42, 0.079}, {"Cardiology", 206, 16, 3.2, 24, 0.078}, {"General Surgery", 174, 12, 3.1, 30, 0.069}, {"Pulmonary", 178, 12, 3.2, 19, 0.067}, {"Endocrinology", 137, 8, 3.0, 15, 0.058}})
+				in
+				    Source
+

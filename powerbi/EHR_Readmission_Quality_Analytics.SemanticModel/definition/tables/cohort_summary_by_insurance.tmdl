@@ -1,0 +1,45 @@
+table cohort_summary_by_insurance
+	lineageTag: db234821-d9d1-4ff9-a6e8-de677d973b15
+
+	column insurance_type
+		dataType: string
+		lineageTag: cae3bc49-24f5-4eb3-b199-53569e8c193a
+		summarizeBy: none
+		sourceColumn: insurance_type
+
+	column index_admissions
+		dataType: int64
+		formatString: #,0
+		lineageTag: 72c9deba-01a9-439b-81aa-6d7639ec7440
+		summarizeBy: none
+		sourceColumn: index_admissions
+
+	column readmissions_30d
+		dataType: int64
+		formatString: #,0
+		lineageTag: e2ae33ad-da8c-473d-ba78-5d783bffaf16
+		summarizeBy: none
+		sourceColumn: readmissions_30d
+
+	column avg_length_of_stay
+		dataType: double
+		formatString: 0.0
+		lineageTag: b42768f0-1271-4798-b61d-4cae99f3e2c1
+		summarizeBy: none
+		sourceColumn: avg_length_of_stay
+
+	column readmission_rate
+		dataType: double
+		formatString: 0.0
+		lineageTag: be0a5b84-64d6-4fbf-b69e-6d42edfba7e3
+		summarizeBy: none
+		sourceColumn: readmission_rate
+
+	partition cohort_summary_by_insurance = m
+		mode: import
+		source =
+				let
+				    Source = #table(type table [insurance_type = text, index_admissions = Int64.Type, readmissions_30d = Int64.Type, avg_length_of_stay = number, readmission_rate = number], {{"Medicare", 471, 28, 3.1, 0.059}, {"Commercial", 342, 31, 3.2, 0.091}, {"Medicaid", 227, 16, 3.2, 0.07}, {"Self-pay", 62, 5, 3.1, 0.081}})
+				in
+				    Source
+

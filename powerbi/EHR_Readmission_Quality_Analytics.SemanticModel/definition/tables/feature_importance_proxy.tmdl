@@ -1,0 +1,24 @@
+table feature_importance_proxy
+	lineageTag: a6548605-52c0-465b-8cf2-4e0175491e08
+
+	column feature
+		dataType: string
+		lineageTag: 650d5302-e7d9-4308-af0a-c80f2e146301
+		summarizeBy: none
+		sourceColumn: feature
+
+	column readmission_rate
+		dataType: double
+		formatString: 0.0%;-0.0%;0.0%
+		lineageTag: 8c944033-a51f-469c-af81-c4e5ab476af6
+		summarizeBy: none
+		sourceColumn: readmission_rate
+
+	partition feature_importance_proxy = m
+		mode: import
+		source =
+				let
+				    Source = #table(type table [feature = text, readmission_rate = number], {{"Heart failure", 0.15}, {"High risk tier", 0.138}, {"Medication count >= 6", 0.079}, {"Prior utilization >= 2", 0.074}, {"Chronic kidney disease", 0.072}})
+				in
+				    Source
+

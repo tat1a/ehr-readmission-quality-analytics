@@ -1,0 +1,5 @@
+insurance_type,index_admissions,readmissions_30d,avg_length_of_stay,readmission_rate
+Medicare,471,28,3.1,0.059
+Commercial,342,31,3.2,0.091
+Medicaid,227,16,3.2,0.07
+Self-pay,62,5,3.1,0.081

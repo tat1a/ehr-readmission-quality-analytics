@@ -1,0 +1,58 @@
+table quality_measure_summary
+	lineageTag: b2493722-bc94-4e64-8f92-041a7e748474
+
+	column measure
+		dataType: string
+		lineageTag: 976b6636-c53f-48bd-8dd8-c9e11b5f9df5
+		summarizeBy: none
+		sourceColumn: measure
+
+	column denominator
+		dataType: int64
+		formatString: #,0
+		lineageTag: f2536482-fc33-4cb5-9be7-5fcaf26799d1
+		summarizeBy: none
+		sourceColumn: denominator
+
+	column numerator
+		dataType: int64
+		formatString: #,0
+		lineageTag: a80572cf-5551-44f5-8036-7c25526fdb91
+		summarizeBy: none
+		sourceColumn: numerator
+
+	column gap_count
+		dataType: int64
+		formatString: #,0
+		lineageTag: 782b24c9-409d-46ca-a015-4ff3bc9344c8
+		summarizeBy: none
+		sourceColumn: gap_count
+
+	column completion_rate
+		dataType: double
+		formatString: 0.0%;-0.0%;0.0%
+		lineageTag: 48b37533-47ee-40c6-8d3c-f0d9ff1b27fa
+		summarizeBy: none
+		sourceColumn: completion_rate
+
+	column 'Measure Label' =
+			
+			SWITCH(
+			    quality_measure_summary[measure],
+			    "A1c documented for diabetes encounters", "A1c documented",
+			    "Blood pressure documented for hypertension encounters", "BP documented",
+			    quality_measure_summary[measure]
+			)
+		lineageTag: a39a0575-1fe3-478e-b79a-8ce2f6bfb5b5
+		summarizeBy: none
+
+		annotation SummarizationSetBy = Automatic
+
+	partition quality_measure_summary = m
+		mode: import
+		source =
+				let
+				    Source = #table(type table [measure = text, denominator = Int64.Type, numerator = Int64.Type, gap_count = Int64.Type, completion_rate = number], {{"A1c documented for diabetes encounters", 169, 133, 36, 0.787}, {"Blood pressure documented for hypertension encounters", 345, 284, 61, 0.823}})
+				in
+				    Source
+

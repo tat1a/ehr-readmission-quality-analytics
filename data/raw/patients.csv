@@ -1,0 +1,901 @@
+patient_id,birth_date,sex,race_group,ethnicity,insurance_type
+P00001,1965-03-19,Female,White,Not Hispanic or Latino,Commercial
+P00002,1964-03-06,Male,White,Not Hispanic or Latino,Commercial
+P00003,1984-04-24,Female,White,Not Hispanic or Latino,Medicaid
+P00004,1980-01-25,Male,Black,Not Hispanic or Latino,Commercial
+P00005,1948-12-23,Male,Asian,Not Hispanic or Latino,Medicare
+P00006,1945-01-08,Female,White,Not Hispanic or Latino,Medicare
+P00007,1973-08-12,Female,Black,Unknown,Medicaid
+P00008,1966-05-23,Male,Black,Not Hispanic or Latino,Commercial
+P00009,1940-03-19,Female,White,Not Hispanic or Latino,Medicaid
+P00010,1953-12-31,Female,Asian,Unknown,Commercial
+P00011,1948-03-25,Female,White,Not Hispanic or Latino,Medicaid
+P00012,1963-11-02,Male,White,Not Hispanic or Latino,Commercial
+P00013,1974-01-08,Female,White,Not Hispanic or Latino,Commercial
+P00014,1964-07-15,Female,White,Not Hispanic or Latino,Medicare
+P00015,1966-08-11,Male,White,Not Hispanic or Latino,Medicare
+P00016,1936-10-20,Male,White,Not Hispanic or Latino,Medicare
+P00017,2005-10-13,Female,White,Hispanic or Latino,Medicaid
+P00018,1976-12-28,Female,White,Not Hispanic or Latino,Commercial
+P00019,1939-05-19,Male,White,Not Hispanic or Latino,Medicare
+P00020,1955-05-08,Male,White,Not Hispanic or Latino,Medicare
+P00021,1986-04-24,Female,Black,Not Hispanic or Latino,Medicaid
+P00022,1976-01-18,Female,White,Not Hispanic or Latino,Commercial
+P00023,1969-07-15,Male,Black,Hispanic or Latino,Medicare
+P00024,1995-08-28,Female,White,Not Hispanic or Latino,Medicare
+P00025,1982-09-30,Female,Unknown,Not Hispanic or Latino,Self-pay
+P00026,1974-04-09,Female,White,Hispanic or Latino,Commercial
+P00027,1962-09-19,Female,Unknown,Not Hispanic or Latino,Medicaid
+P00028,1943-07-20,Female,White,Not Hispanic or Latino,Commercial
+P00029,2000-04-26,Female,White,Not Hispanic or Latino,Medicare
+P00030,1981-04-23,Male,White,Not Hispanic or Latino,Medicaid
+P00031,2004-09-27,Male,Asian,Not Hispanic or Latino,Medicare
+P00032,2007-05-17,Female,White,Unknown,Commercial
+P00033,1975-01-28,Female,White,Not Hispanic or Latino,Medicaid
+P00034,1982-10-25,Male,Other,Not Hispanic or Latino,Medicaid
+P00035,2006-09-27,Female,Asian,Not Hispanic or Latino,Medicare
+P00036,1952-12-27,Female,White,Not Hispanic or Latino,Commercial
+P00037,1997-03-02,Male,Asian,Not Hispanic or Latino,Medicaid
+P00038,1983-06-18,Male,White,Not Hispanic or Latino,Self-pay
+P00039,1963-06-04,Female,White,Not Hispanic or Latino,Medicare
+P00040,1994-07-23,Female,Asian,Not Hispanic or Latino,Commercial
+P00041,1975-06-04,Male,Other,Not Hispanic or Latino,Medicare
+P00042,1941-07-30,Male,White,Not Hispanic or Latino,Medicare
+P00043,1946-12-17,Female,White,Unknown,Medicare
+P00044,1936-09-20,Female,White,Unknown,Commercial
+P00045,1952-05-10,Male,White,Hispanic or Latino,Medicare
+P00046,1961-08-16,Male,Asian,Not Hispanic or Latino,Medicaid
+P00047,2006-04-08,Male,Black,Not Hispanic or Latino,Commercial
+P00048,1984-12-08,Female,White,Hispanic or Latino,Medicare
+P00049,1965-08-30,Male,White,Not Hispanic or Latino,Medicare
+P00050,1943-12-21,Male,White,Not Hispanic or Latino,Medicare
+P00051,1944-07-26,Male,Black,Not Hispanic or Latino,Medicaid
+P00052,1948-12-23,Female,Black,Not Hispanic or Latino,Medicare
+P00053,1936-03-14,Female,Black,Hispanic or Latino,Medicare
+P00054,1985-07-12,Male,White,Not Hispanic or Latino,Medicaid
+P00055,1967-04-21,Female,Black,Hispanic or Latino,Medicaid
+P00056,2001-09-20,Male,White,Unknown,Medicaid
+P00057,2003-07-17,Female,White,Not Hispanic or Latino,Medicaid
+P00058,1994-07-09,Male,Black,Not Hispanic or Latino,Medicaid
+P00059,1943-11-26,Male,White,Not Hispanic or Latino,Medicare
+P00060,1977-05-12,Female,White,Not Hispanic or Latino,Medicaid
+P00061,1981-09-05,Female,Other,Not Hispanic or Latino,Medicare
+P00062,1948-06-06,Male,White,Not Hispanic or Latino,Commercial
+P00063,1939-09-17,Female,White,Not Hispanic or Latino,Commercial
+P00064,1962-10-10,Female,Asian,Not Hispanic or Latino,Medicare
+P00065,1979-04-22,Female,White,Not Hispanic or Latino,Medicare
+P00066,1946-10-03,Female,White,Not Hispanic or Latino,Medicare
+P00067,1953-02-25,Female,Black,Hispanic or Latino,Medicare
+P00068,1967-12-06,Male,White,Not Hispanic or Latino,Medicaid
+P00069,1936-08-15,Female,Unknown,Not Hispanic or Latino,Self-pay
+P00070,1981-10-07,Male,White,Not Hispanic or Latino,Medicare
+P00071,1983-06-26,Male,White,Not Hispanic or Latino,Commercial
+P00072,1973-02-17,Female,Other,Not Hispanic or Latino,Commercial
+P00073,1955-06-04,Female,White,Unknown,Commercial
+P00074,1939-03-08,Female,White,Not Hispanic or Latino,Medicare
+P00075,1999-07-23,Female,Other,Not Hispanic or Latino,Medicaid
+P00076,1983-06-16,Male,White,Not Hispanic or Latino,Self-pay
+P00077,1964-04-10,Female,White,Not Hispanic or Latino,Medicaid
+P00078,1939-12-11,Female,Other,Not Hispanic or Latino,Medicare
+P00079,1996-02-18,Male,White,Not Hispanic or Latino,Medicaid
+P00080,2002-08-10,Male,Asian,Not Hispanic or Latino,Medicare
+P00081,1981-10-06,Female,White,Not Hispanic or Latino,Commercial
+P00082,1968-08-12,Male,Black,Not Hispanic or Latino,Commercial
+P00083,1977-04-04,Female,White,Hispanic or Latino,Commercial
+P00084,1973-04-16,Male,Black,Not Hispanic or Latino,Medicare
+P00085,1942-06-26,Female,White,Not Hispanic or Latino,Medicare
+P00086,1974-05-19,Male,White,Unknown,Medicare
+P00087,1977-03-31,Male,Asian,Hispanic or Latino,Commercial
+P00088,1989-09-09,Male,White,Not Hispanic or Latino,Commercial
+P00089,1976-07-08,Female,Asian,Hispanic or Latino,Commercial
+P00090,1975-03-21,Female,White,Not Hispanic or Latino,Medicare
+P00091,1956-04-21,Male,White,Not Hispanic or Latino,Medicare
+P00092,1971-09-26,Female,White,Not Hispanic or Latino,Medicaid
+P00093,1959-10-24,Male,White,Not Hispanic or Latino,Medicaid
+P00094,1952-12-09,Female,White,Not Hispanic or Latino,Medicare
+P00095,1952-09-03,Female,White,Not Hispanic or Latino,Commercial
+P00096,1969-01-11,Male,Asian,Not Hispanic or Latino,Commercial
+P00097,1984-07-26,Male,Unknown,Not Hispanic or Latino,Commercial
+P00098,1969-01-17,Female,Other,Hispanic or Latino,Medicaid
+P00099,1964-07-07,Male,White,Not Hispanic or Latino,Medicare
+P00100,1964-03-19,Female,Asian,Not Hispanic or Latino,Medicaid
+P00101,1950-02-21,Female,Unknown,Hispanic or Latino,Medicare
+P00102,1985-12-12,Male,Unknown,Not Hispanic or Latino,Self-pay
+P00103,1973-09-18,Female,Other,Not Hispanic or Latino,Self-pay
+P00104,1936-09-15,Female,Asian,Not Hispanic or Latino,Medicare
+P00105,1974-02-25,Male,Black,Not Hispanic or Latino,Commercial
+P00106,1985-03-18,Male,Unknown,Hispanic or Latino,Medicare
+P00107,1968-08-28,Male,Unknown,Not Hispanic or Latino,Medicaid
+P00108,1981-11-02,Female,White,Not Hispanic or Latino,Medicare
+P00109,1969-02-15,Male,Black,Not Hispanic or Latino,Self-pay
+P00110,1984-11-04,Male,White,Hispanic or Latino,Medicaid
+P00111,1964-05-19,Female,Black,Not Hispanic or Latino,Medicare
+P00112,1992-04-11,Male,Asian,Not Hispanic or Latino,Medicare
+P00113,1970-11-20,Male,Black,Not Hispanic or Latino,Medicaid
+P00114,1979-08-05,Female,White,Not Hispanic or Latino,Commercial
+P00115,2002-04-07,Female,Black,Hispanic or Latino,Commercial
+P00116,2001-01-15,Male,White,Not Hispanic or Latino,Commercial
+P00117,1995-04-21,Female,Other,Not Hispanic or Latino,Commercial
+P00118,1953-07-08,Female,Other,Not Hispanic or Latino,Medicaid
+P00119,1973-07-23,Female,Asian,Not Hispanic or Latino,Medicaid
+P00120,2002-01-02,Male,Black,Not Hispanic or Latino,Medicare
+P00121,1958-02-08,Male,Black,Hispanic or Latino,Medicare
+P00122,1996-07-16,Male,White,Not Hispanic or Latino,Medicare
+P00123,1996-03-08,Female,Asian,Not Hispanic or Latino,Medicaid
+P00124,1983-10-01,Male,Unknown,Hispanic or Latino,Commercial
+P00125,1990-08-24,Female,White,Not Hispanic or Latino,Medicare
+P00126,1997-06-23,Female,Other,Unknown,Medicare
+P00127,1940-07-27,Male,Black,Not Hispanic or Latino,Medicaid
+P00128,1955-02-11,Female,Black,Not Hispanic or Latino,Commercial
+P00129,1941-03-05,Male,Unknown,Not Hispanic or Latino,Medicare
+P00130,2001-07-25,Female,White,Unknown,Medicare
+P00131,1949-04-12,Female,Asian,Not Hispanic or Latino,Medicare
+P00132,1978-12-14,Male,Black,Not Hispanic or Latino,Medicare
+P00133,1980-09-27,Male,White,Not Hispanic or Latino,Medicaid
+P00134,1975-06-04,Female,Unknown,Hispanic or Latino,Medicare
+P00135,1962-04-16,Female,Black,Not Hispanic or Latino,Medicaid
+P00136,1965-11-15,Female,Black,Not Hispanic or Latino,Medicare
+P00137,1989-07-11,Male,Other,Unknown,Medicare
+P00138,1996-06-21,Female,Other,Not Hispanic or Latino,Commercial
+P00139,1966-10-11,Female,White,Not Hispanic or Latino,Medicaid
+P00140,1956-07-07,Female,Black,Not Hispanic or Latino,Medicare
+P00141,1982-11-27,Female,Asian,Unknown,Medicare
+P00142,1972-05-11,Male,Other,Unknown,Medicare
+P00143,1967-03-18,Female,Other,Not Hispanic or Latino,Medicare
+P00144,1954-10-01,Male,Black,Not Hispanic or Latino,Medicare
+P00145,2001-08-08,Female,White,Not Hispanic or Latino,Self-pay
+P00146,1942-06-16,Male,White,Not Hispanic or Latino,Medicare
+P00147,1948-04-27,Male,Black,Hispanic or Latino,Commercial
+P00148,1987-12-03,Male,Asian,Unknown,Commercial
+P00149,1985-07-27,Female,White,Not Hispanic or Latino,Commercial
+P00150,1952-01-09,Male,Black,Not Hispanic or Latino,Medicare
+P00151,1961-05-31,Female,White,Hispanic or Latino,Commercial
+P00152,1952-11-24,Male,Black,Not Hispanic or Latino,Medicare
+P00153,1973-04-08,Female,Black,Not Hispanic or Latino,Medicare
+P00154,1979-08-16,Male,White,Not Hispanic or Latino,Medicaid
+P00155,1953-11-13,Male,Other,Not Hispanic or Latino,Commercial
+P00156,1954-03-06,Male,Black,Not Hispanic or Latino,Medicare
+P00157,1948-02-20,Male,White,Not Hispanic or Latino,Commercial
+P00158,1985-02-07,Male,Other,Hispanic or Latino,Medicaid
+P00159,1953-08-30,Female,Other,Hispanic or Latino,Medicare
+P00160,1964-01-11,Male,White,Unknown,Medicare
+P00161,1951-01-31,Male,Unknown,Not Hispanic or Latino,Commercial
+P00162,1978-04-07,Female,White,Not Hispanic or Latino,Commercial
+P00163,1975-11-12,Male,White,Hispanic or Latino,Medicare
+P00164,1987-12-20,Female,Black,Not Hispanic or Latino,Medicare
+P00165,1993-11-21,Male,White,Not Hispanic or Latino,Commercial
+P00166,1977-06-12,Female,White,Not Hispanic or Latino,Medicare
+P00167,1981-10-14,Male,White,Not Hispanic or Latino,Medicare
+P00168,2002-03-07,Female,White,Hispanic or Latino,Medicare
+P00169,1948-10-15,Female,Unknown,Hispanic or Latino,Medicare
+P00170,2005-01-08,Male,White,Not Hispanic or Latino,Medicaid
+P00171,1975-04-24,Male,Asian,Not Hispanic or Latino,Medicare
+P00172,1982-04-27,Male,White,Not Hispanic or Latino,Commercial
+P00173,1982-06-05,Male,Asian,Not Hispanic or Latino,Medicare
+P00174,1964-08-30,Female,Black,Hispanic or Latino,Commercial
+P00175,1945-01-21,Female,Other,Not Hispanic or Latino,Medicaid
+P00176,1950-09-11,Female,Black,Not Hispanic or Latino,Medicaid
+P00177,1995-05-24,Male,White,Not Hispanic or Latino,Commercial
+P00178,2006-03-16,Female,Unknown,Not Hispanic or Latino,Medicare
+P00179,1962-08-16,Male,White,Not Hispanic or Latino,Medicare
+P00180,1965-01-06,Female,Other,Not Hispanic or Latino,Medicare
+P00181,1977-08-04,Female,White,Hispanic or Latino,Commercial
+P00182,1944-07-16,Male,White,Not Hispanic or Latino,Commercial
+P00183,1947-05-02,Male,Black,Not Hispanic or Latino,Medicare
+P00184,1946-10-06,Male,Black,Not Hispanic or Latino,Medicare
+P00185,1949-06-21,Male,Black,Not Hispanic or Latino,Medicare
+P00186,1947-09-03,Male,White,Not Hispanic or Latino,Medicaid
+P00187,1944-10-06,Male,White,Not Hispanic or Latino,Self-pay
+P00188,1938-03-22,Male,White,Not Hispanic or Latino,Commercial
+P00189,1984-10-17,Male,White,Not Hispanic or Latino,Self-pay
+P00190,1964-07-05,Male,White,Not Hispanic or Latino,Medicare
+P00191,1989-03-09,Male,White,Not Hispanic or Latino,Medicare
+P00192,1971-08-11,Male,White,Not Hispanic or Latino,Medicare
+P00193,2003-08-25,Female,White,Not Hispanic or Latino,Medicare
+P00194,1973-03-30,Male,White,Not Hispanic or Latino,Commercial
+P00195,1994-01-16,Female,White,Hispanic or Latino,Medicare
+P00196,1996-02-14,Male,Other,Not Hispanic or Latino,Medicare
+P00197,2005-02-04,Male,Asian,Not Hispanic or Latino,Commercial
+P00198,1976-08-22,Female,White,Not Hispanic or Latino,Medicare
+P00199,1945-04-30,Female,Other,Not Hispanic or Latino,Medicare
+P00200,1973-08-20,Female,White,Unknown,Medicaid
+P00201,1954-01-08,Male,Unknown,Not Hispanic or Latino,Medicare
+P00202,1950-04-14,Male,Black,Not Hispanic or Latino,Medicare
+P00203,1975-05-13,Male,White,Not Hispanic or Latino,Commercial
+P00204,2002-08-14,Male,White,Not Hispanic or Latino,Medicaid
+P00205,1940-04-16,Female,White,Not Hispanic or Latino,Medicaid
+P00206,1945-04-20,Male,White,Not Hispanic or Latino,Medicaid
+P00207,1976-06-23,Male,White,Hispanic or Latino,Medicare
+P00208,1967-08-31,Female,Other,Not Hispanic or Latino,Commercial
+P00209,1966-05-16,Female,Black,Unknown,Commercial
+P00210,1943-04-03,Male,Other,Not Hispanic or Latino,Medicare
+P00211,2002-09-19,Male,White,Not Hispanic or Latino,Medicare
+P00212,1936-10-18,Female,Other,Not Hispanic or Latino,Commercial
+P00213,1951-02-17,Male,Black,Not Hispanic or Latino,Commercial
+P00214,1952-06-26,Female,Other,Hispanic or Latino,Medicare
+P00215,1957-12-16,Male,Unknown,Unknown,Medicare
+P00216,1940-03-28,Male,White,Not Hispanic or Latino,Commercial
+P00217,1952-02-16,Female,Asian,Not Hispanic or Latino,Commercial
+P00218,1984-02-09,Female,Unknown,Unknown,Medicare
+P00219,1943-02-25,Female,White,Not Hispanic or Latino,Commercial
+P00220,1997-06-21,Female,Asian,Not Hispanic or Latino,Self-pay
+P00221,1941-06-13,Male,Black,Not Hispanic or Latino,Medicare
+P00222,1946-03-16,Female,White,Unknown,Commercial
+P00223,1976-04-12,Female,White,Not Hispanic or Latino,Commercial
+P00224,1985-06-27,Female,White,Not Hispanic or Latino,Medicare
+P00225,1991-05-20,Female,White,Not Hispanic or Latino,Medicare
+P00226,1998-11-17,Male,Other,Not Hispanic or Latino,Commercial
+P00227,1938-10-29,Female,Unknown,Not Hispanic or Latino,Medicaid
+P00228,1943-05-17,Female,White,Not Hispanic or Latino,Commercial
+P00229,1975-12-22,Male,Other,Hispanic or Latino,Medicaid
+P00230,1974-10-12,Female,Unknown,Not Hispanic or Latino,Commercial
+P00231,1951-10-10,Male,White,Not Hispanic or Latino,Medicare
+P00232,1956-12-26,Female,Asian,Not Hispanic or Latino,Commercial
+P00233,1946-04-06,Male,White,Hispanic or Latino,Commercial
+P00234,1943-08-14,Male,Unknown,Not Hispanic or Latino,Medicare
+P00235,1949-05-03,Male,White,Not Hispanic or Latino,Self-pay
+P00236,1956-03-18,Female,Asian,Not Hispanic or Latino,Medicare
+P00237,1952-09-18,Female,Asian,Unknown,Commercial
+P00238,1972-09-07,Female,Unknown,Hispanic or Latino,Medicaid
+P00239,1985-10-16,Male,White,Not Hispanic or Latino,Medicaid
+P00240,1950-06-29,Male,Other,Not Hispanic or Latino,Medicaid
+P00241,1973-09-01,Male,Black,Not Hispanic or Latino,Commercial
+P00242,1985-07-13,Male,Black,Not Hispanic or Latino,Commercial
+P00243,1954-04-06,Male,Other,Not Hispanic or Latino,Commercial
+P00244,1963-12-18,Male,White,Not Hispanic or Latino,Medicaid
+P00245,1972-09-26,Male,White,Unknown,Commercial
+P00246,1984-11-09,Male,White,Not Hispanic or Latino,Medicare
+P00247,1998-01-14,Male,Black,Not Hispanic or Latino,Commercial
+P00248,1984-08-08,Male,Black,Not Hispanic or Latino,Medicaid
+P00249,2005-06-03,Female,Black,Not Hispanic or Latino,Medicaid
+P00250,1971-06-02,Female,White,Not Hispanic or Latino,Commercial
+P00251,1982-07-12,Male,Other,Not Hispanic or Latino,Medicare
+P00252,1981-07-04,Male,White,Not Hispanic or Latino,Medicaid
+P00253,1976-08-07,Female,Asian,Not Hispanic or Latino,Commercial
+P00254,1973-06-26,Male,White,Hispanic or Latino,Medicare
+P00255,1974-02-17,Male,Other,Hispanic or Latino,Commercial
+P00256,2006-08-05,Female,Asian,Not Hispanic or Latino,Commercial
+P00257,1984-12-23,Female,Black,Not Hispanic or Latino,Commercial
+P00258,1943-05-04,Male,Asian,Not Hispanic or Latino,Medicare
+P00259,1981-12-27,Male,Asian,Not Hispanic or Latino,Medicare
+P00260,1970-03-10,Male,Other,Not Hispanic or Latino,Self-pay
+P00261,1947-01-05,Female,Black,Not Hispanic or Latino,Medicaid
+P00262,1938-10-20,Male,Asian,Unknown,Medicare
+P00263,1968-03-18,Male,Unknown,Hispanic or Latino,Medicare
+P00264,1975-10-15,Female,Asian,Not Hispanic or Latino,Commercial
+P00265,1976-07-19,Male,Black,Unknown,Medicare
+P00266,1967-06-07,Male,Asian,Not Hispanic or Latino,Commercial
+P00267,1946-07-27,Female,White,Hispanic or Latino,Medicare
+P00268,1950-11-01,Female,White,Not Hispanic or Latino,Medicare
+P00269,1952-06-27,Male,White,Not Hispanic or Latino,Self-pay
+P00270,1987-09-11,Female,White,Hispanic or Latino,Medicare
+P00271,1956-08-10,Male,Asian,Unknown,Medicare
+P00272,1986-03-26,Female,Black,Not Hispanic or Latino,Medicare
+P00273,1981-12-01,Male,White,Hispanic or Latino,Commercial
+P00274,1952-09-24,Male,White,Not Hispanic or Latino,Medicare
+P00275,1979-10-18,Male,White,Not Hispanic or Latino,Commercial
+P00276,1959-11-10,Female,White,Not Hispanic or Latino,Commercial
+P00277,1958-10-15,Female,White,Not Hispanic or Latino,Commercial
+P00278,1942-10-01,Female,Black,Not Hispanic or Latino,Medicare
+P00279,1956-07-26,Male,Unknown,Hispanic or Latino,Commercial
+P00280,1968-02-24,Male,White,Hispanic or Latino,Medicare
+P00281,1936-07-28,Male,Black,Not Hispanic or Latino,Commercial
+P00282,1937-10-13,Female,Unknown,Not Hispanic or Latino,Medicaid
+P00283,1964-07-09,Female,White,Not Hispanic or Latino,Commercial
+P00284,1984-01-24,Female,Asian,Not Hispanic or Latino,Medicare
+P00285,1996-08-05,Female,Black,Not Hispanic or Latino,Medicare
+P00286,1994-01-04,Male,White,Not Hispanic or Latino,Medicare
+P00287,1969-03-15,Female,White,Not Hispanic or Latino,Medicare
+P00288,1996-02-10,Male,White,Hispanic or Latino,Medicaid
+P00289,1967-08-20,Male,Black,Hispanic or Latino,Medicare
+P00290,1999-07-05,Male,Other,Not Hispanic or Latino,Medicare
+P00291,1965-09-06,Male,White,Hispanic or Latino,Commercial
+P00292,2004-06-30,Female,Other,Not Hispanic or Latino,Medicaid
+P00293,1978-01-11,Female,Unknown,Not Hispanic or Latino,Medicare
+P00294,2002-01-10,Male,White,Not Hispanic or Latino,Commercial
+P00295,1962-03-10,Male,White,Not Hispanic or Latino,Medicare
+P00296,1991-03-22,Female,White,Not Hispanic or Latino,Medicaid
+P00297,1988-03-10,Male,Black,Not Hispanic or Latino,Commercial
+P00298,1940-08-01,Female,Black,Not Hispanic or Latino,Medicare
+P00299,1985-03-15,Female,Asian,Not Hispanic or Latino,Medicaid
+P00300,1947-12-01,Female,White,Not Hispanic or Latino,Medicare
+P00301,1998-09-10,Female,White,Not Hispanic or Latino,Commercial
+P00302,2004-07-30,Male,White,Not Hispanic or Latino,Medicare
+P00303,1942-09-10,Female,White,Not Hispanic or Latino,Medicare
+P00304,1955-09-03,Male,Black,Not Hispanic or Latino,Medicaid
+P00305,1977-12-16,Male,Black,Not Hispanic or Latino,Medicaid
+P00306,1992-03-11,Female,White,Not Hispanic or Latino,Commercial
+P00307,1994-03-13,Female,White,Not Hispanic or Latino,Commercial
+P00308,1983-08-02,Female,Other,Not Hispanic or Latino,Medicare
+P00309,1975-12-11,Male,White,Not Hispanic or Latino,Medicare
+P00310,1959-10-22,Male,White,Not Hispanic or Latino,Medicaid
+P00311,1971-05-02,Female,Black,Not Hispanic or Latino,Commercial
+P00312,1992-01-04,Male,White,Not Hispanic or Latino,Commercial
+P00313,1970-12-09,Male,Other,Not Hispanic or Latino,Medicaid
+P00314,1963-11-12,Female,White,Not Hispanic or Latino,Self-pay
+P00315,1951-02-07,Female,Unknown,Not Hispanic or Latino,Medicare
+P00316,1981-01-29,Male,Other,Not Hispanic or Latino,Self-pay
+P00317,1949-01-06,Male,White,Hispanic or Latino,Medicare
+P00318,1980-03-27,Female,Black,Not Hispanic or Latino,Medicaid
+P00319,1989-02-16,Male,White,Not Hispanic or Latino,Medicare
+P00320,1992-09-04,Female,White,Not Hispanic or Latino,Medicare
+P00321,2006-06-20,Female,Black,Unknown,Commercial
+P00322,2003-08-02,Female,Unknown,Not Hispanic or Latino,Medicaid
+P00323,1948-05-02,Male,Asian,Not Hispanic or Latino,Commercial
+P00324,1944-01-28,Male,Unknown,Not Hispanic or Latino,Commercial
+P00325,1941-02-09,Female,Black,Unknown,Medicare
+P00326,1959-08-05,Male,Other,Hispanic or Latino,Commercial
+P00327,2001-08-17,Female,Unknown,Unknown,Self-pay
+P00328,1959-02-15,Male,Asian,Not Hispanic or Latino,Medicaid
+P00329,1960-06-30,Female,Unknown,Not Hispanic or Latino,Medicare
+P00330,1966-09-14,Female,Black,Not Hispanic or Latino,Commercial
+P00331,1957-04-20,Male,White,Not Hispanic or Latino,Commercial
+P00332,1959-07-02,Female,White,Unknown,Commercial
+P00333,1959-04-14,Male,White,Unknown,Medicare
+P00334,1984-09-24,Male,Black,Hispanic or Latino,Medicare
+P00335,1976-04-28,Male,White,Not Hispanic or Latino,Medicare
+P00336,1944-09-05,Female,White,Hispanic or Latino,Medicaid
+P00337,1941-05-03,Male,Asian,Not Hispanic or Latino,Commercial
+P00338,2006-08-18,Male,White,Not Hispanic or Latino,Medicare
+P00339,1992-01-19,Male,Other,Not Hispanic or Latino,Medicare
+P00340,1971-07-31,Female,Black,Not Hispanic or Latino,Commercial
+P00341,1943-02-22,Male,Black,Not Hispanic or Latino,Commercial
+P00342,2005-06-09,Female,Black,Hispanic or Latino,Medicaid
+P00343,1997-01-29,Female,White,Not Hispanic or Latino,Commercial
+P00344,1994-08-08,Female,White,Hispanic or Latino,Commercial
+P00345,1947-06-26,Male,Black,Unknown,Medicaid
+P00346,1986-11-07,Male,White,Not Hispanic or Latino,Medicaid
+P00347,1979-10-03,Female,White,Not Hispanic or Latino,Medicare
+P00348,1952-03-01,Female,White,Not Hispanic or Latino,Commercial
+P00349,1988-03-30,Male,Black,Not Hispanic or Latino,Medicare
+P00350,1942-05-22,Male,White,Not Hispanic or Latino,Medicare
+P00351,1984-01-07,Male,White,Not Hispanic or Latino,Medicaid
+P00352,1968-01-16,Male,Black,Not Hispanic or Latino,Commercial
+P00353,1984-01-13,Male,Black,Not Hispanic or Latino,Medicare
+P00354,1981-10-30,Female,Black,Not Hispanic or Latino,Medicare
+P00355,1991-08-17,Male,Black,Not Hispanic or Latino,Self-pay
+P00356,1995-07-13,Female,Black,Unknown,Commercial
+P00357,1999-09-18,Female,White,Not Hispanic or Latino,Medicare
+P00358,1984-06-09,Female,Asian,Not Hispanic or Latino,Medicare
+P00359,1977-11-07,Female,White,Not Hispanic or Latino,Medicare
+P00360,1974-05-14,Male,Asian,Not Hispanic or Latino,Medicare
+P00361,1969-01-20,Male,White,Not Hispanic or Latino,Medicare
+P00362,1960-05-27,Female,Asian,Hispanic or Latino,Commercial
+P00363,1967-12-14,Female,Unknown,Not Hispanic or Latino,Medicare
+P00364,1956-05-07,Female,White,Not Hispanic or Latino,Commercial
+P00365,1960-07-20,Male,White,Unknown,Commercial
+P00366,1959-04-17,Female,White,Not Hispanic or Latino,Self-pay
+P00367,1980-04-10,Male,Unknown,Not Hispanic or Latino,Medicaid
+P00368,1965-07-22,Female,White,Unknown,Medicaid
+P00369,1978-05-03,Male,Black,Not Hispanic or Latino,Medicaid
+P00370,1951-01-28,Female,White,Not Hispanic or Latino,Medicare
+P00371,1983-02-22,Male,White,Not Hispanic or Latino,Medicare
+P00372,1949-06-20,Male,White,Not Hispanic or Latino,Commercial
+P00373,1963-02-14,Male,Black,Hispanic or Latino,Medicaid
+P00374,1975-01-16,Female,White,Not Hispanic or Latino,Medicaid
+P00375,1989-09-25,Male,Other,Unknown,Medicare
+P00376,1951-09-16,Female,White,Not Hispanic or Latino,Self-pay
+P00377,1940-03-09,Female,Unknown,Not Hispanic or Latino,Commercial
+P00378,1980-12-15,Female,White,Not Hispanic or Latino,Medicaid
+P00379,1941-03-07,Male,White,Not Hispanic or Latino,Medicare
+P00380,1944-01-01,Male,Other,Not Hispanic or Latino,Medicaid
+P00381,1948-09-11,Female,White,Hispanic or Latino,Medicaid
+P00382,1937-11-19,Male,White,Hispanic or Latino,Commercial
+P00383,1993-10-10,Male,Other,Not Hispanic or Latino,Medicare
+P00384,1956-12-30,Female,White,Not Hispanic or Latino,Commercial
+P00385,1975-01-31,Female,Asian,Not Hispanic or Latino,Medicare
+P00386,1961-11-13,Female,Black,Not Hispanic or Latino,Medicare
+P00387,1985-10-27,Male,Black,Not Hispanic or Latino,Commercial
+P00388,1969-11-28,Male,White,Not Hispanic or Latino,Commercial
+P00389,1975-05-13,Female,White,Unknown,Medicaid
+P00390,1961-08-27,Male,White,Hispanic or Latino,Self-pay
+P00391,1991-07-19,Male,White,Not Hispanic or Latino,Commercial
+P00392,1943-05-20,Female,Other,Not Hispanic or Latino,Medicare
+P00393,1972-08-18,Female,Asian,Not Hispanic or Latino,Self-pay
+P00394,2000-01-10,Female,Black,Unknown,Medicare
+P00395,1939-06-19,Male,Black,Not Hispanic or Latino,Medicare
+P00396,1985-03-27,Male,White,Not Hispanic or Latino,Medicare
+P00397,1975-08-22,Female,White,Hispanic or Latino,Medicare
+P00398,1988-06-07,Female,Asian,Not Hispanic or Latino,Commercial
+P00399,1971-07-21,Male,Unknown,Not Hispanic or Latino,Medicare
+P00400,1980-09-07,Female,Unknown,Hispanic or Latino,Medicaid
+P00401,1948-05-01,Female,Black,Not Hispanic or Latino,Medicare
+P00402,1948-11-29,Female,White,Hispanic or Latino,Medicare
+P00403,1977-06-06,Male,White,Hispanic or Latino,Medicare
+P00404,1967-12-01,Female,White,Not Hispanic or Latino,Medicaid
+P00405,2000-01-05,Male,Black,Not Hispanic or Latino,Commercial
+P00406,1969-12-16,Male,White,Not Hispanic or Latino,Commercial
+P00407,1974-01-13,Female,White,Not Hispanic or Latino,Medicare
+P00408,1961-05-20,Male,Black,Not Hispanic or Latino,Medicare
+P00409,1990-02-26,Male,Unknown,Not Hispanic or Latino,Medicare
+P00410,2000-11-30,Female,White,Not Hispanic or Latino,Commercial
+P00411,1971-11-10,Female,Asian,Unknown,Commercial
+P00412,1968-08-15,Male,White,Not Hispanic or Latino,Medicaid
+P00413,1990-09-01,Female,White,Not Hispanic or Latino,Medicare
+P00414,1952-10-07,Male,Black,Not Hispanic or Latino,Commercial
+P00415,1962-05-16,Male,White,Not Hispanic or Latino,Commercial
+P00416,1941-04-11,Female,White,Hispanic or Latino,Commercial
+P00417,1974-11-15,Female,White,Not Hispanic or Latino,Medicare
+P00418,1988-03-19,Female,White,Not Hispanic or Latino,Medicare
+P00419,1976-03-27,Female,White,Not Hispanic or Latino,Medicaid
+P00420,1990-10-30,Female,Black,Not Hispanic or Latino,Commercial
+P00421,1958-08-13,Male,Black,Unknown,Commercial
+P00422,1964-11-27,Female,Black,Not Hispanic or Latino,Commercial
+P00423,1991-08-22,Female,Unknown,Not Hispanic or Latino,Commercial
+P00424,1996-08-04,Male,Unknown,Not Hispanic or Latino,Commercial
+P00425,1995-04-14,Female,White,Not Hispanic or Latino,Medicaid
+P00426,1955-03-05,Male,White,Not Hispanic or Latino,Commercial
+P00427,1946-10-27,Male,Other,Unknown,Medicare
+P00428,1960-01-09,Female,Asian,Not Hispanic or Latino,Commercial
+P00429,1995-12-03,Female,White,Not Hispanic or Latino,Medicare
+P00430,1980-02-01,Male,White,Not Hispanic or Latino,Medicare
+P00431,1963-10-27,Male,White,Not Hispanic or Latino,Self-pay
+P00432,1981-11-03,Female,Asian,Not Hispanic or Latino,Commercial
+P00433,1993-11-21,Female,White,Not Hispanic or Latino,Medicare
+P00434,1944-02-22,Female,White,Unknown,Medicaid
+P00435,1983-05-16,Female,Unknown,Not Hispanic or Latino,Medicare
+P00436,1951-06-02,Male,White,Not Hispanic or Latino,Medicaid
+P00437,1946-06-22,Female,Black,Not Hispanic or Latino,Medicaid
+P00438,1989-04-17,Female,Unknown,Not Hispanic or Latino,Medicare
+P00439,1959-12-15,Male,White,Not Hispanic or Latino,Commercial
+P00440,1970-08-21,Male,White,Not Hispanic or Latino,Medicare
+P00441,1977-04-05,Female,Asian,Not Hispanic or Latino,Medicare
+P00442,1939-01-19,Male,Other,Not Hispanic or Latino,Medicare
+P00443,1977-02-26,Male,Unknown,Not Hispanic or Latino,Medicare
+P00444,1973-01-04,Male,Other,Hispanic or Latino,Commercial
+P00445,1962-03-31,Female,White,Not Hispanic or Latino,Medicare
+P00446,1987-04-17,Male,Other,Not Hispanic or Latino,Medicare
+P00447,1966-01-20,Female,White,Not Hispanic or Latino,Medicare
+P00448,1966-08-31,Male,White,Not Hispanic or Latino,Medicaid
+P00449,1974-07-05,Male,Other,Not Hispanic or Latino,Medicare
+P00450,1976-05-27,Male,Black,Not Hispanic or Latino,Commercial
+P00451,1971-03-19,Female,White,Not Hispanic or Latino,Commercial
+P00452,1967-09-01,Male,Asian,Unknown,Self-pay
+P00453,1993-09-02,Female,Asian,Not Hispanic or Latino,Commercial
+P00454,1957-04-08,Female,White,Not Hispanic or Latino,Medicare
+P00455,1951-06-09,Male,Black,Not Hispanic or Latino,Medicare
+P00456,1983-02-19,Female,White,Hispanic or Latino,Commercial
+P00457,1983-08-16,Female,Black,Not Hispanic or Latino,Commercial
+P00458,2001-03-22,Female,Other,Not Hispanic or Latino,Medicare
+P00459,1987-06-19,Female,Black,Not Hispanic or Latino,Medicare
+P00460,1970-09-05,Female,White,Not Hispanic or Latino,Medicaid
+P00461,1986-03-18,Male,Black,Not Hispanic or Latino,Medicare
+P00462,1979-03-13,Female,White,Hispanic or Latino,Self-pay
+P00463,1986-09-15,Male,Asian,Not Hispanic or Latino,Medicare
+P00464,1946-07-30,Female,Black,Not Hispanic or Latino,Self-pay
+P00465,1975-05-10,Female,White,Not Hispanic or Latino,Medicaid
+P00466,1939-09-13,Male,White,Not Hispanic or Latino,Medicare
+P00467,1943-03-09,Female,Black,Not Hispanic or Latino,Commercial
+P00468,1946-03-01,Female,White,Not Hispanic or Latino,Commercial
+P00469,1953-04-20,Male,Black,Not Hispanic or Latino,Medicare
+P00470,1989-10-03,Male,White,Not Hispanic or Latino,Medicaid
+P00471,1957-04-09,Female,White,Not Hispanic or Latino,Medicaid
+P00472,1984-02-23,Male,Unknown,Hispanic or Latino,Medicare
+P00473,1946-06-20,Female,Asian,Not Hispanic or Latino,Medicaid
+P00474,1948-08-29,Male,White,Hispanic or Latino,Medicare
+P00475,1983-05-03,Female,Unknown,Not Hispanic or Latino,Commercial
+P00476,1984-02-22,Male,White,Not Hispanic or Latino,Commercial
+P00477,1966-11-29,Female,White,Not Hispanic or Latino,Medicare
+P00478,1938-06-27,Male,Black,Not Hispanic or Latino,Commercial
+P00479,1943-10-01,Male,White,Hispanic or Latino,Medicaid
+P00480,1969-04-27,Female,White,Not Hispanic or Latino,Medicaid
+P00481,1966-09-13,Female,White,Not Hispanic or Latino,Commercial
+P00482,1950-12-30,Male,Asian,Not Hispanic or Latino,Medicaid
+P00483,1967-09-15,Female,White,Not Hispanic or Latino,Medicaid
+P00484,1982-09-30,Male,White,Not Hispanic or Latino,Self-pay
+P00485,1990-09-19,Male,White,Not Hispanic or Latino,Self-pay
+P00486,1981-05-13,Male,Black,Not Hispanic or Latino,Medicare
+P00487,1969-09-06,Female,White,Hispanic or Latino,Medicare
+P00488,1982-07-09,Female,Asian,Not Hispanic or Latino,Commercial
+P00489,1978-08-17,Female,Black,Not Hispanic or Latino,Medicare
+P00490,1941-07-30,Male,Black,Not Hispanic or Latino,Medicare
+P00491,1963-02-02,Female,Black,Not Hispanic or Latino,Commercial
+P00492,1966-09-08,Male,White,Not Hispanic or Latino,Commercial
+P00493,1947-04-11,Male,Asian,Not Hispanic or Latino,Medicare
+P00494,1951-12-02,Female,White,Not Hispanic or Latino,Commercial
+P00495,1953-08-31,Male,Black,Not Hispanic or Latino,Medicare
+P00496,1961-04-05,Female,Black,Unknown,Medicare
+P00497,1974-06-27,Female,White,Not Hispanic or Latino,Medicare
+P00498,1946-01-27,Male,White,Not Hispanic or Latino,Medicare
+P00499,1970-05-15,Female,Asian,Hispanic or Latino,Medicare
+P00500,1990-02-25,Female,White,Not Hispanic or Latino,Commercial
+P00501,1970-01-19,Female,Asian,Not Hispanic or Latino,Medicare
+P00502,1967-11-23,Male,Asian,Not Hispanic or Latino,Self-pay
+P00503,1971-06-05,Male,Black,Not Hispanic or Latino,Self-pay
+P00504,1971-04-25,Female,White,Not Hispanic or Latino,Commercial
+P00505,1939-07-13,Male,White,Not Hispanic or Latino,Commercial
+P00506,1948-07-19,Female,White,Not Hispanic or Latino,Medicare
+P00507,1962-09-18,Female,White,Not Hispanic or Latino,Self-pay
+P00508,1952-05-28,Male,White,Hispanic or Latino,Medicaid
+P00509,1977-06-05,Female,Unknown,Not Hispanic or Latino,Medicaid
+P00510,1999-09-23,Male,White,Not Hispanic or Latino,Commercial
+P00511,1964-12-31,Male,White,Not Hispanic or Latino,Commercial
+P00512,1961-02-14,Female,White,Hispanic or Latino,Medicare
+P00513,1972-10-31,Female,Asian,Not Hispanic or Latino,Medicare
+P00514,1959-09-05,Male,White,Hispanic or Latino,Medicare
+P00515,1954-03-05,Female,White,Not Hispanic or Latino,Medicare
+P00516,1959-02-12,Female,Black,Not Hispanic or Latino,Medicare
+P00517,1992-12-04,Female,Black,Not Hispanic or Latino,Medicaid
+P00518,1969-09-16,Female,Other,Not Hispanic or Latino,Commercial
+P00519,1993-02-13,Male,White,Hispanic or Latino,Medicare
+P00520,1969-08-08,Male,Asian,Not Hispanic or Latino,Medicare
+P00521,1956-07-16,Female,Unknown,Not Hispanic or Latino,Medicare
+P00522,1967-11-12,Male,Black,Not Hispanic or Latino,Medicaid
+P00523,1952-07-29,Male,Black,Not Hispanic or Latino,Medicare
+P00524,1988-09-04,Male,Black,Not Hispanic or Latino,Medicare
+P00525,1963-04-28,Male,Black,Hispanic or Latino,Commercial
+P00526,1987-12-11,Female,White,Not Hispanic or Latino,Medicare
+P00527,1956-12-08,Male,Asian,Not Hispanic or Latino,Medicare
+P00528,1945-04-26,Female,White,Not Hispanic or Latino,Medicare
+P00529,1961-11-08,Male,Asian,Not Hispanic or Latino,Commercial
+P00530,1937-10-21,Male,White,Not Hispanic or Latino,Commercial
+P00531,1973-10-15,Female,White,Not Hispanic or Latino,Medicaid
+P00532,1961-12-21,Female,White,Not Hispanic or Latino,Self-pay
+P00533,1974-11-23,Female,White,Hispanic or Latino,Medicare
+P00534,1970-04-24,Male,White,Not Hispanic or Latino,Commercial
+P00535,2005-11-01,Female,Black,Not Hispanic or Latino,Commercial
+P00536,1982-04-18,Male,White,Not Hispanic or Latino,Self-pay
+P00537,1967-06-27,Female,White,Not Hispanic or Latino,Medicare
+P00538,1976-02-23,Male,Asian,Not Hispanic or Latino,Commercial
+P00539,1957-08-18,Female,White,Unknown,Medicaid
+P00540,1998-12-27,Male,White,Not Hispanic or Latino,Medicare
+P00541,1952-01-12,Male,Asian,Not Hispanic or Latino,Medicare
+P00542,1987-10-03,Female,Black,Not Hispanic or Latino,Commercial
+P00543,1974-06-16,Male,Black,Not Hispanic or Latino,Commercial
+P00544,1956-05-25,Male,White,Not Hispanic or Latino,Self-pay
+P00545,1952-12-03,Female,Black,Not Hispanic or Latino,Commercial
+P00546,1960-01-25,Male,White,Not Hispanic or Latino,Commercial
+P00547,1952-01-07,Male,Other,Not Hispanic or Latino,Medicare
+P00548,1941-09-10,Female,White,Not Hispanic or Latino,Medicare
+P00549,1974-04-23,Female,Other,Not Hispanic or Latino,Medicaid
+P00550,1986-02-08,Male,Other,Not Hispanic or Latino,Commercial
+P00551,1971-01-05,Male,White,Not Hispanic or Latino,Medicaid
+P00552,1979-09-20,Male,White,Not Hispanic or Latino,Medicare
+P00553,1946-01-15,Male,Black,Not Hispanic or Latino,Commercial
+P00554,2005-12-08,Male,White,Not Hispanic or Latino,Medicare
+P00555,1982-12-17,Male,White,Hispanic or Latino,Medicaid
+P00556,1945-06-26,Female,Unknown,Hispanic or Latino,Commercial
+P00557,1995-08-02,Male,White,Not Hispanic or Latino,Commercial
+P00558,1940-07-13,Female,Black,Not Hispanic or Latino,Medicaid
+P00559,1964-04-10,Male,Asian,Hispanic or Latino,Commercial
+P00560,1939-03-18,Female,Asian,Hispanic or Latino,Medicare
+P00561,1983-08-10,Female,Black,Not Hispanic or Latino,Medicaid
+P00562,2007-01-25,Female,Black,Not Hispanic or Latino,Commercial
+P00563,2006-08-15,Female,Black,Hispanic or Latino,Medicare
+P00564,1948-11-23,Female,White,Not Hispanic or Latino,Commercial
+P00565,1964-11-30,Female,Black,Hispanic or Latino,Commercial
+P00566,1941-05-09,Female,White,Not Hispanic or Latino,Medicare
+P00567,1973-08-27,Female,Asian,Not Hispanic or Latino,Medicare
+P00568,1994-06-21,Male,White,Not Hispanic or Latino,Medicaid
+P00569,1983-07-28,Male,White,Hispanic or Latino,Medicare
+P00570,1939-10-21,Male,White,Not Hispanic or Latino,Medicare
+P00571,1945-04-23,Female,White,Hispanic or Latino,Self-pay
+P00572,1975-06-13,Male,Other,Not Hispanic or Latino,Commercial
+P00573,1961-08-17,Male,Black,Not Hispanic or Latino,Medicaid
+P00574,1940-03-16,Male,Unknown,Not Hispanic or Latino,Medicare
+P00575,1953-11-02,Female,White,Not Hispanic or Latino,Medicaid
+P00576,1951-12-28,Male,White,Not Hispanic or Latino,Commercial
+P00577,1945-05-03,Female,Other,Not Hispanic or Latino,Medicare
+P00578,1975-10-26,Male,Other,Not Hispanic or Latino,Medicare
+P00579,1971-09-17,Male,White,Hispanic or Latino,Medicaid
+P00580,1974-08-12,Female,Asian,Hispanic or Latino,Commercial
+P00581,1958-07-04,Male,White,Hispanic or Latino,Medicare
+P00582,2001-04-12,Female,Black,Hispanic or Latino,Medicare
+P00583,1982-04-14,Female,White,Not Hispanic or Latino,Self-pay
+P00584,2001-09-09,Male,White,Not Hispanic or Latino,Commercial
+P00585,1980-03-13,Male,Asian,Unknown,Medicare
+P00586,1965-12-29,Male,White,Not Hispanic or Latino,Commercial
+P00587,1992-10-16,Male,White,Not Hispanic or Latino,Medicaid
+P00588,1943-03-11,Male,White,Not Hispanic or Latino,Self-pay
+P00589,1997-11-30,Female,White,Not Hispanic or Latino,Medicare
+P00590,1980-12-27,Male,White,Not Hispanic or Latino,Medicaid
+P00591,1999-06-05,Female,White,Not Hispanic or Latino,Medicare
+P00592,1988-12-10,Female,White,Not Hispanic or Latino,Commercial
+P00593,1937-02-02,Male,Unknown,Not Hispanic or Latino,Commercial
+P00594,1963-07-22,Male,White,Hispanic or Latino,Medicare
+P00595,1960-10-16,Female,White,Not Hispanic or Latino,Medicare
+P00596,1956-02-12,Male,Black,Unknown,Commercial
+P00597,2006-08-31,Female,Unknown,Hispanic or Latino,Medicare
+P00598,1941-10-19,Female,White,Not Hispanic or Latino,Commercial
+P00599,1996-06-15,Female,Black,Not Hispanic or Latino,Medicaid
+P00600,1994-08-06,Male,White,Not Hispanic or Latino,Medicare
+P00601,1963-08-21,Female,Unknown,Not Hispanic or Latino,Commercial
+P00602,1970-12-21,Male,White,Not Hispanic or Latino,Commercial
+P00603,1936-05-31,Male,Asian,Hispanic or Latino,Medicare
+P00604,1965-01-26,Male,Asian,Not Hispanic or Latino,Medicaid
+P00605,1975-08-01,Female,White,Not Hispanic or Latino,Medicare
+P00606,1978-03-26,Male,White,Not Hispanic or Latino,Commercial
+P00607,1985-01-29,Female,White,Not Hispanic or Latino,Medicare
+P00608,1965-08-03,Male,White,Not Hispanic or Latino,Medicaid
+P00609,1973-09-04,Female,Black,Not Hispanic or Latino,Commercial
+P00610,1960-05-03,Female,White,Not Hispanic or Latino,Medicaid
+P00611,1939-11-20,Female,White,Not Hispanic or Latino,Medicare
+P00612,1959-04-19,Female,White,Not Hispanic or Latino,Commercial
+P00613,1976-05-26,Female,Other,Not Hispanic or Latino,Commercial
+P00614,1965-07-13,Female,White,Not Hispanic or Latino,Medicaid
+P00615,1936-12-22,Female,Asian,Hispanic or Latino,Medicare
+P00616,1986-02-05,Male,White,Not Hispanic or Latino,Medicare
+P00617,1947-07-15,Female,Black,Unknown,Medicare
+P00618,1966-03-09,Female,White,Not Hispanic or Latino,Medicare
+P00619,2006-06-28,Male,White,Not Hispanic or Latino,Commercial
+P00620,1963-12-28,Male,White,Not Hispanic or Latino,Medicare
+P00621,1986-10-08,Female,Black,Not Hispanic or Latino,Commercial
+P00622,1972-10-13,Male,Black,Not Hispanic or Latino,Medicare
+P00623,1939-06-11,Female,Black,Not Hispanic or Latino,Medicare
+P00624,1993-11-09,Female,Black,Not Hispanic or Latino,Medicare
+P00625,1974-06-01,Female,White,Not Hispanic or Latino,Commercial
+P00626,1979-05-14,Female,White,Hispanic or Latino,Commercial
+P00627,1943-06-09,Female,White,Not Hispanic or Latino,Medicare
+P00628,1987-12-09,Female,Black,Not Hispanic or Latino,Commercial
+P00629,1965-12-19,Female,White,Not Hispanic or Latino,Commercial
+P00630,1971-10-15,Male,White,Not Hispanic or Latino,Medicaid
+P00631,1984-10-08,Male,Unknown,Not Hispanic or Latino,Medicare
+P00632,1977-05-18,Female,Black,Not Hispanic or Latino,Medicaid
+P00633,2002-01-07,Female,White,Not Hispanic or Latino,Medicare
+P00634,1949-06-12,Female,Black,Hispanic or Latino,Commercial
+P00635,2000-11-16,Female,White,Not Hispanic or Latino,Commercial
+P00636,1938-05-19,Female,White,Not Hispanic or Latino,Self-pay
+P00637,1939-11-18,Female,White,Not Hispanic or Latino,Commercial
+P00638,1969-11-13,Female,Unknown,Not Hispanic or Latino,Medicare
+P00639,1986-08-08,Female,White,Not Hispanic or Latino,Medicaid
+P00640,1989-12-14,Female,Black,Not Hispanic or Latino,Medicaid
+P00641,1937-05-18,Male,Unknown,Not Hispanic or Latino,Self-pay
+P00642,1942-09-06,Female,White,Hispanic or Latino,Medicare
+P00643,1962-11-12,Female,White,Unknown,Medicare
+P00644,1971-03-12,Male,Black,Not Hispanic or Latino,Medicare
+P00645,1984-08-05,Male,Asian,Not Hispanic or Latino,Medicare
+P00646,1964-06-04,Male,White,Not Hispanic or Latino,Medicare
+P00647,1950-12-23,Male,White,Not Hispanic or Latino,Commercial
+P00648,1946-07-14,Female,Other,Not Hispanic or Latino,Commercial
+P00649,1946-03-24,Male,Asian,Not Hispanic or Latino,Commercial
+P00650,1974-10-06,Female,Black,Unknown,Commercial
+P00651,1963-04-19,Male,White,Not Hispanic or Latino,Commercial
+P00652,1966-02-09,Female,White,Not Hispanic or Latino,Medicaid
+P00653,1938-06-05,Male,White,Hispanic or Latino,Medicare
+P00654,1958-11-09,Female,White,Not Hispanic or Latino,Medicaid
+P00655,1991-05-15,Female,White,Not Hispanic or Latino,Medicare
+P00656,1969-02-08,Male,Unknown,Not Hispanic or Latino,Medicare
+P00657,1960-05-20,Male,White,Hispanic or Latino,Medicaid
+P00658,1962-06-24,Female,White,Not Hispanic or Latino,Medicare
+P00659,1955-01-04,Male,Black,Not Hispanic or Latino,Medicare
+P00660,1992-06-27,Male,White,Not Hispanic or Latino,Commercial
+P00661,1965-11-14,Female,White,Not Hispanic or Latino,Medicare
+P00662,1952-08-11,Male,White,Not Hispanic or Latino,Commercial
+P00663,1972-12-31,Female,Asian,Not Hispanic or Latino,Commercial
+P00664,2005-12-03,Female,Unknown,Hispanic or Latino,Medicaid
+P00665,1938-11-08,Male,Black,Not Hispanic or Latino,Medicare
+P00666,1983-02-09,Male,White,Not Hispanic or Latino,Commercial
+P00667,1988-12-12,Male,White,Not Hispanic or Latino,Medicare
+P00668,1979-06-28,Male,Asian,Not Hispanic or Latino,Commercial
+P00669,1946-10-04,Female,Asian,Not Hispanic or Latino,Medicare
+P00670,2007-01-12,Male,White,Not Hispanic or Latino,Commercial
+P00671,1970-07-02,Male,Black,Not Hispanic or Latino,Medicaid
+P00672,1987-01-05,Male,White,Not Hispanic or Latino,Medicaid
+P00673,1980-08-09,Female,Other,Not Hispanic or Latino,Commercial
+P00674,1970-10-16,Female,White,Not Hispanic or Latino,Medicaid
+P00675,1984-01-25,Male,Black,Not Hispanic or Latino,Commercial
+P00676,1950-11-03,Male,White,Not Hispanic or Latino,Commercial
+P00677,1997-09-03,Male,Black,Not Hispanic or Latino,Medicaid
+P00678,1978-10-08,Male,White,Not Hispanic or Latino,Commercial
+P00679,1983-05-22,Male,Asian,Not Hispanic or Latino,Medicaid
+P00680,1973-04-06,Male,Black,Not Hispanic or Latino,Self-pay
+P00681,1998-04-07,Female,White,Not Hispanic or Latino,Commercial
+P00682,1981-06-01,Female,White,Not Hispanic or Latino,Medicaid
+P00683,2002-12-23,Male,Asian,Not Hispanic or Latino,Medicaid
+P00684,1961-09-03,Female,White,Not Hispanic or Latino,Medicaid
+P00685,1943-11-01,Male,White,Hispanic or Latino,Medicaid
+P00686,1940-07-18,Female,Asian,Not Hispanic or Latino,Commercial
+P00687,1963-07-12,Male,White,Not Hispanic or Latino,Medicare
+P00688,1944-04-19,Male,White,Not Hispanic or Latino,Commercial
+P00689,1961-07-31,Female,White,Not Hispanic or Latino,Medicaid
+P00690,1951-03-31,Female,Black,Not Hispanic or Latino,Medicaid
+P00691,2000-07-14,Female,White,Hispanic or Latino,Medicare
+P00692,1991-01-19,Male,White,Hispanic or Latino,Commercial
+P00693,1968-04-10,Male,White,Hispanic or Latino,Medicare
+P00694,1973-09-06,Female,Black,Not Hispanic or Latino,Medicare
+P00695,1995-06-26,Male,White,Not Hispanic or Latino,Commercial
+P00696,1967-12-21,Male,Other,Hispanic or Latino,Medicaid
+P00697,1962-04-11,Female,White,Not Hispanic or Latino,Medicare
+P00698,2006-03-03,Male,Black,Not Hispanic or Latino,Commercial
+P00699,1989-11-18,Female,Unknown,Not Hispanic or Latino,Commercial
+P00700,1955-03-02,Male,White,Not Hispanic or Latino,Medicare
+P00701,1965-10-20,Male,White,Unknown,Medicare
+P00702,2002-10-13,Female,Other,Not Hispanic or Latino,Commercial
+P00703,1980-01-29,Male,Other,Not Hispanic or Latino,Medicare
+P00704,1938-12-29,Female,Unknown,Not Hispanic or Latino,Medicare
+P00705,1938-11-16,Male,Asian,Not Hispanic or Latino,Medicare
+P00706,1971-08-31,Female,Asian,Not Hispanic or Latino,Medicare
+P00707,1957-05-31,Female,White,Not Hispanic or Latino,Medicare
+P00708,1956-07-14,Male,White,Not Hispanic or Latino,Commercial
+P00709,1976-06-19,Female,White,Not Hispanic or Latino,Commercial
+P00710,1968-11-30,Female,Black,Not Hispanic or Latino,Commercial
+P00711,1955-11-23,Male,Black,Not Hispanic or Latino,Commercial
+P00712,1964-08-09,Female,Asian,Not Hispanic or Latino,Commercial
+P00713,1965-02-04,Male,Asian,Not Hispanic or Latino,Commercial
+P00714,2003-07-24,Female,Black,Not Hispanic or Latino,Medicare
+P00715,1960-02-25,Male,Unknown,Not Hispanic or Latino,Medicare
+P00716,1960-04-25,Male,Other,Hispanic or Latino,Medicaid
+P00717,2006-06-22,Male,White,Hispanic or Latino,Commercial
+P00718,1963-09-05,Female,Asian,Not Hispanic or Latino,Commercial
+P00719,1937-08-17,Female,White,Not Hispanic or Latino,Medicaid
+P00720,1967-07-30,Male,Asian,Not Hispanic or Latino,Medicaid
+P00721,1970-12-11,Male,Black,Not Hispanic or Latino,Medicare
+P00722,1959-08-30,Female,White,Not Hispanic or Latino,Medicaid
+P00723,1970-11-29,Female,White,Unknown,Commercial
+P00724,1949-03-13,Male,Unknown,Not Hispanic or Latino,Self-pay
+P00725,1972-02-28,Male,Unknown,Not Hispanic or Latino,Medicare
+P00726,1971-06-26,Male,White,Not Hispanic or Latino,Medicare
+P00727,1943-10-28,Male,Black,Not Hispanic or Latino,Medicare
+P00728,1977-08-22,Male,Asian,Not Hispanic or Latino,Medicaid
+P00729,1967-06-18,Female,Black,Not Hispanic or Latino,Commercial
+P00730,1984-11-15,Male,Black,Not Hispanic or Latino,Medicare
+P00731,1970-01-28,Male,Black,Not Hispanic or Latino,Medicare
+P00732,1978-12-05,Female,White,Not Hispanic or Latino,Medicare
+P00733,1977-05-25,Female,Other,Not Hispanic or Latino,Medicaid
+P00734,1939-02-18,Male,White,Not Hispanic or Latino,Medicare
+P00735,1973-06-24,Female,White,Not Hispanic or Latino,Medicare
+P00736,1961-12-27,Female,Asian,Not Hispanic or Latino,Medicare
+P00737,1967-01-22,Female,Black,Not Hispanic or Latino,Medicaid
+P00738,1994-11-15,Female,Black,Hispanic or Latino,Commercial
+P00739,1961-07-07,Female,Black,Hispanic or Latino,Medicare
+P00740,1936-03-28,Male,Black,Hispanic or Latino,Commercial
+P00741,2003-10-18,Male,White,Unknown,Medicare
+P00742,1962-03-13,Male,Black,Hispanic or Latino,Commercial
+P00743,1967-01-23,Male,Black,Not Hispanic or Latino,Medicare
+P00744,1961-10-12,Male,Black,Not Hispanic or Latino,Medicaid
+P00745,1977-07-23,Male,Asian,Not Hispanic or Latino,Medicare
+P00746,1982-08-06,Male,White,Hispanic or Latino,Medicare
+P00747,1944-02-09,Male,White,Hispanic or Latino,Medicare
+P00748,1997-10-31,Female,Black,Not Hispanic or Latino,Commercial
+P00749,1938-09-20,Male,Unknown,Not Hispanic or Latino,Commercial
+P00750,1969-04-20,Male,White,Not Hispanic or Latino,Medicaid
+P00751,1939-01-02,Male,Black,Hispanic or Latino,Medicare
+P00752,1992-05-06,Male,Black,Not Hispanic or Latino,Medicare
+P00753,1992-10-20,Male,Other,Not Hispanic or Latino,Self-pay
+P00754,1992-10-21,Male,White,Not Hispanic or Latino,Medicare
+P00755,2003-07-01,Female,Black,Hispanic or Latino,Commercial
+P00756,1955-05-03,Male,Black,Not Hispanic or Latino,Medicare
+P00757,1972-07-15,Female,White,Not Hispanic or Latino,Medicare
+P00758,1995-01-25,Female,Black,Not Hispanic or Latino,Medicaid
+P00759,2001-03-20,Male,Black,Not Hispanic or Latino,Medicare
+P00760,1979-09-18,Male,Black,Not Hispanic or Latino,Medicare
+P00761,1977-10-28,Female,Black,Not Hispanic or Latino,Medicaid
+P00762,1950-09-22,Male,Unknown,Hispanic or Latino,Commercial
+P00763,1977-12-15,Male,White,Not Hispanic or Latino,Medicaid
+P00764,1979-01-20,Female,White,Not Hispanic or Latino,Medicare
+P00765,2004-02-07,Female,Black,Unknown,Commercial
+P00766,1974-03-11,Female,Other,Hispanic or Latino,Medicare
+P00767,1972-05-20,Female,Other,Not Hispanic or Latino,Medicare
+P00768,1972-03-05,Male,White,Not Hispanic or Latino,Medicare
+P00769,2006-10-13,Female,Other,Not Hispanic or Latino,Commercial
+P00770,1974-04-22,Male,Black,Unknown,Medicare
+P00771,1982-06-08,Male,White,Not Hispanic or Latino,Medicare
+P00772,1944-02-08,Male,White,Not Hispanic or Latino,Medicaid
+P00773,2006-11-03,Female,Other,Unknown,Medicare
+P00774,1959-09-29,Female,White,Not Hispanic or Latino,Self-pay
+P00775,1977-06-26,Male,Asian,Not Hispanic or Latino,Medicare
+P00776,1939-02-13,Male,White,Unknown,Medicare
+P00777,1978-01-24,Male,Asian,Not Hispanic or Latino,Medicare
+P00778,1985-02-22,Female,White,Not Hispanic or Latino,Medicare
+P00779,1956-05-06,Male,White,Not Hispanic or Latino,Commercial
+P00780,1994-07-09,Female,White,Hispanic or Latino,Medicaid
+P00781,1982-01-08,Male,White,Not Hispanic or Latino,Medicare
+P00782,2007-02-02,Female,Asian,Not Hispanic or Latino,Self-pay
+P00783,1991-01-17,Male,Black,Hispanic or Latino,Medicare
+P00784,1966-05-07,Male,White,Not Hispanic or Latino,Medicare
+P00785,1983-08-22,Male,White,Not Hispanic or Latino,Medicaid
+P00786,2004-09-24,Female,Other,Not Hispanic or Latino,Commercial
+P00787,1967-06-22,Male,White,Not Hispanic or Latino,Medicare
+P00788,1951-09-05,Male,Black,Not Hispanic or Latino,Medicare
+P00789,1940-01-13,Male,White,Unknown,Commercial
+P00790,1943-09-23,Female,White,Not Hispanic or Latino,Medicaid
+P00791,1981-09-26,Male,Other,Not Hispanic or Latino,Medicare
+P00792,1949-04-08,Male,Unknown,Not Hispanic or Latino,Medicaid
+P00793,1997-09-25,Male,Other,Hispanic or Latino,Medicare
+P00794,1967-01-16,Female,Asian,Not Hispanic or Latino,Medicare
+P00795,1982-08-19,Female,Black,Not Hispanic or Latino,Medicare
+P00796,1960-06-20,Male,Black,Not Hispanic or Latino,Medicare
+P00797,1973-10-21,Male,Black,Not Hispanic or Latino,Medicare
+P00798,1973-06-05,Male,Black,Hispanic or Latino,Commercial
+P00799,2002-03-16,Male,White,Not Hispanic or Latino,Commercial
+P00800,1948-02-11,Female,Unknown,Not Hispanic or Latino,Commercial
+P00801,2003-12-26,Male,White,Not Hispanic or Latino,Commercial
+P00802,1945-01-27,Female,Asian,Not Hispanic or Latino,Medicare
+P00803,1962-11-09,Male,White,Hispanic or Latino,Medicare
+P00804,1991-08-22,Male,White,Not Hispanic or Latino,Commercial
+P00805,1989-09-23,Male,Black,Not Hispanic or Latino,Medicare
+P00806,1954-06-25,Female,Asian,Not Hispanic or Latino,Commercial
+P00807,1980-02-13,Male,Asian,Not Hispanic or Latino,Medicaid
+P00808,1984-04-06,Female,White,Not Hispanic or Latino,Medicaid
+P00809,1984-12-20,Female,White,Not Hispanic or Latino,Self-pay
+P00810,1950-02-20,Female,Unknown,Hispanic or Latino,Medicaid
+P00811,1943-09-20,Female,White,Hispanic or Latino,Commercial
+P00812,1949-02-23,Male,Other,Not Hispanic or Latino,Self-pay
+P00813,1958-11-14,Male,Unknown,Unknown,Medicare
+P00814,1978-06-17,Female,White,Not Hispanic or Latino,Medicare
+P00815,1959-12-30,Female,Other,Not Hispanic or Latino,Medicaid
+P00816,1951-01-14,Male,Black,Not Hispanic or Latino,Medicaid
+P00817,1950-07-03,Male,Black,Not Hispanic or Latino,Commercial
+P00818,2002-09-18,Male,White,Not Hispanic or Latino,Commercial
+P00819,1962-04-29,Female,White,Not Hispanic or Latino,Medicare
+P00820,1970-01-24,Male,Other,Not Hispanic or Latino,Medicaid
+P00821,2006-12-11,Female,White,Not Hispanic or Latino,Medicare
+P00822,2002-10-13,Male,White,Not Hispanic or Latino,Self-pay
+P00823,1980-08-27,Female,White,Not Hispanic or Latino,Medicaid
+P00824,1969-05-24,Male,White,Not Hispanic or Latino,Medicaid
+P00825,2004-03-04,Male,White,Hispanic or Latino,Commercial
+P00826,1966-04-20,Male,Other,Not Hispanic or Latino,Medicare
+P00827,1952-09-29,Male,Black,Not Hispanic or Latino,Commercial
+P00828,1950-01-24,Male,Black,Not Hispanic or Latino,Medicare
+P00829,1956-05-04,Male,Asian,Hispanic or Latino,Medicaid
+P00830,1990-08-01,Male,White,Not Hispanic or Latino,Commercial
+P00831,1970-03-28,Male,White,Not Hispanic or Latino,Medicaid
+P00832,1975-06-03,Female,White,Hispanic or Latino,Medicaid
+P00833,1947-10-23,Female,Asian,Hispanic or Latino,Medicaid
+P00834,2004-05-24,Female,White,Not Hispanic or Latino,Commercial
+P00835,2006-06-15,Male,White,Hispanic or Latino,Medicaid
+P00836,1973-10-08,Female,White,Unknown,Medicare
+P00837,1970-08-04,Female,White,Hispanic or Latino,Medicare
+P00838,1986-10-10,Male,White,Not Hispanic or Latino,Medicaid
+P00839,1944-07-08,Male,Black,Not Hispanic or Latino,Medicare
+P00840,1955-10-14,Male,Black,Not Hispanic or Latino,Medicaid
+P00841,1957-02-04,Female,White,Hispanic or Latino,Medicaid
+P00842,1962-03-03,Male,Other,Not Hispanic or Latino,Commercial
+P00843,1945-12-26,Male,White,Not Hispanic or Latino,Commercial
+P00844,1988-06-06,Female,Other,Not Hispanic or Latino,Commercial
+P00845,1968-06-05,Male,Asian,Not Hispanic or Latino,Commercial
+P00846,1948-05-28,Female,Unknown,Not Hispanic or Latino,Self-pay
+P00847,1961-10-02,Male,White,Not Hispanic or Latino,Commercial
+P00848,1984-09-05,Female,White,Not Hispanic or Latino,Medicare
+P00849,1953-02-17,Male,White,Not Hispanic or Latino,Commercial
+P00850,1988-10-13,Male,Black,Unknown,Medicare
+P00851,1947-01-29,Male,White,Not Hispanic or Latino,Commercial
+P00852,1955-11-12,Female,White,Not Hispanic or Latino,Commercial
+P00853,1941-11-11,Female,Black,Not Hispanic or Latino,Medicaid
+P00854,1967-01-16,Male,White,Not Hispanic or Latino,Medicare
+P00855,1997-03-09,Male,White,Not Hispanic or Latino,Medicare
+P00856,1980-07-01,Female,Other,Not Hispanic or Latino,Medicare
+P00857,1966-09-20,Male,Black,Not Hispanic or Latino,Medicare
+P00858,1972-03-08,Male,White,Not Hispanic or Latino,Medicare
+P00859,1977-12-02,Female,Asian,Unknown,Commercial
+P00860,1939-12-06,Male,White,Not Hispanic or Latino,Medicaid
+P00861,1965-09-19,Male,Black,Not Hispanic or Latino,Commercial
+P00862,1974-10-08,Female,Unknown,Hispanic or Latino,Medicaid
+P00863,1981-09-10,Female,Black,Unknown,Self-pay
+P00864,1941-05-30,Male,Black,Not Hispanic or Latino,Commercial
+P00865,1991-07-12,Male,White,Not Hispanic or Latino,Medicare
+P00866,1945-08-08,Female,Unknown,Not Hispanic or Latino,Commercial
+P00867,1958-02-08,Female,White,Not Hispanic or Latino,Commercial
+P00868,1974-04-12,Male,White,Not Hispanic or Latino,Medicare
+P00869,1976-03-08,Female,Other,Not Hispanic or Latino,Self-pay
+P00870,1981-10-10,Female,White,Not Hispanic or Latino,Medicaid
+P00871,1995-09-03,Male,White,Hispanic or Latino,Commercial
+P00872,1952-01-11,Male,Black,Not Hispanic or Latino,Medicare
+P00873,1978-07-18,Female,White,Hispanic or Latino,Commercial
+P00874,1980-11-22,Female,White,Not Hispanic or Latino,Commercial
+P00875,1961-10-25,Female,White,Not Hispanic or Latino,Medicare
+P00876,1967-05-01,Female,White,Hispanic or Latino,Medicaid
+P00877,1947-12-16,Male,White,Not Hispanic or Latino,Commercial
+P00878,1958-03-18,Female,Unknown,Not Hispanic or Latino,Self-pay
+P00879,1966-06-30,Female,White,Hispanic or Latino,Medicaid
+P00880,1990-09-03,Female,Black,Not Hispanic or Latino,Commercial
+P00881,1936-07-28,Female,White,Not Hispanic or Latino,Medicaid
+P00882,1973-10-19,Male,Black,Not Hispanic or Latino,Medicare
+P00883,1980-06-27,Female,White,Hispanic or Latino,Medicare
+P00884,1949-11-28,Male,White,Not Hispanic or Latino,Commercial
+P00885,1985-12-06,Female,Black,Not Hispanic or Latino,Commercial
+P00886,1949-09-02,Female,Asian,Not Hispanic or Latino,Medicare
+P00887,1976-11-18,Male,White,Not Hispanic or Latino,Commercial
+P00888,1970-04-23,Male,White,Not Hispanic or Latino,Commercial
+P00889,1969-11-01,Female,Asian,Unknown,Medicare
+P00890,1942-06-11,Male,Black,Not Hispanic or Latino,Commercial
+P00891,1938-01-09,Male,Unknown,Unknown,Commercial
+P00892,1959-12-24,Male,Asian,Not Hispanic or Latino,Medicare
+P00893,1977-09-12,Male,Other,Not Hispanic or Latino,Medicaid
+P00894,1972-04-24,Female,Other,Not Hispanic or Latino,Medicare
+P00895,1963-04-22,Female,White,Not Hispanic or Latino,Medicare
+P00896,1989-12-09,Female,Unknown,Not Hispanic or Latino,Medicare
+P00897,1949-02-10,Female,White,Not Hispanic or Latino,Medicare
+P00898,1953-02-04,Female,Black,Unknown,Medicaid
+P00899,2006-10-13,Female,Black,Not Hispanic or Latino,Medicaid
+P00900,1963-11-12,Female,Asian,Not Hispanic or Latino,Medicaid

@@ -1,0 +1,6 @@
+service_line,index_admissions,readmissions_30d,avg_length_of_stay,high_risk_encounters,readmission_rate
+General Medicine,407,32,3.1,42,0.079
+Cardiology,206,16,3.2,24,0.078
+General Surgery,174,12,3.1,30,0.069
+Pulmonary,178,12,3.2,19,0.067
+Endocrinology,137,8,3.0,15,0.058

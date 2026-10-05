@@ -1,0 +1,24 @@
+table operational_flag_summary
+	lineageTag: 9874e060-8387-49db-9c09-ab63e24abe41
+
+	column flag_name
+		dataType: string
+		lineageTag: 461b985b-03f0-4dd7-9897-388bb7e10ec8
+		summarizeBy: none
+		sourceColumn: flag_name
+
+	column encounter_count
+		dataType: int64
+		formatString: #,0
+		lineageTag: f1c9b31d-2c6b-44cf-bb4c-a81a10e545d3
+		summarizeBy: none
+		sourceColumn: encounter_count
+
+	partition operational_flag_summary = m
+		mode: import
+		source =
+				let
+				    Source = #table(type table [flag_name = text, encounter_count = Int64.Type], {{"Prior utilization >= 2 encounters", 901}, {"Long stay encounters", 144}, {"High risk tier encounters", 130}, {"High medication count encounters", 38}})
+				in
+				    Source
+

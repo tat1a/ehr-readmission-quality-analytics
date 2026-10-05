@@ -1,0 +1,52 @@
+table risk_tier_summary
+	lineageTag: 71102e43-8091-41d3-a7ce-0b23de1c267f
+
+	column risk_tier
+		dataType: string
+		lineageTag: 29fb736b-c426-413d-9b06-ee00b2f667b5
+		summarizeBy: none
+		sourceColumn: risk_tier
+
+	column index_admissions
+		dataType: int64
+		formatString: #,0
+		lineageTag: f12cd035-ada9-4282-935b-e2bfe2aa1203
+		summarizeBy: none
+		sourceColumn: index_admissions
+
+	column readmissions_30d
+		dataType: int64
+		formatString: #,0
+		lineageTag: 11c71048-89aa-4350-8fa3-a1078fc73f58
+		summarizeBy: none
+		sourceColumn: readmissions_30d
+
+	column avg_prior_encounters
+		dataType: double
+		formatString: 0.0
+		lineageTag: 016652ea-c3ab-4b0a-902a-e10a510e931e
+		summarizeBy: none
+		sourceColumn: avg_prior_encounters
+
+	column avg_medication_count
+		dataType: double
+		formatString: 0.0
+		lineageTag: 4b7f812a-4a3a-4026-a584-6b9c2d452bf3
+		summarizeBy: none
+		sourceColumn: avg_medication_count
+
+	column readmission_rate
+		dataType: double
+		formatString: 0.0
+		lineageTag: ff768e3c-ca45-4592-be9e-78eca6341eba
+		summarizeBy: none
+		sourceColumn: readmission_rate
+
+	partition risk_tier_summary = m
+		mode: import
+		source =
+				let
+				    Source = #table(type table [risk_tier = text, index_admissions = Int64.Type, readmissions_30d = Int64.Type, avg_prior_encounters = number, avg_medication_count = number, readmission_rate = number], {{"High", 130, 18, 4.4, 3.6, 0.138}, {"Low", 295, 17, 1.5, 2.2, 0.058}, {"Moderate", 677, 45, 3.8, 2.5, 0.066}})
+				in
+				    Source
+

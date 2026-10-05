@@ -1,0 +1,4 @@
+risk_tier,index_admissions,readmissions_30d,avg_prior_encounters,avg_medication_count,readmission_rate
+High,130,18,4.4,3.6,0.138
+Low,295,17,1.5,2.2,0.058
+Moderate,677,45,3.8,2.5,0.066

@@ -1,0 +1,37 @@
+table data_quality_summary
+	lineageTag: 956c77d2-ee75-4b08-b20e-3e8b2c6f1d35
+
+	column check_name
+		dataType: string
+		lineageTag: 846e6178-a58b-40a1-86f2-8dd20f0dee4e
+		summarizeBy: none
+		sourceColumn: check_name
+
+	column issue_count
+		dataType: int64
+		formatString: #,0
+		lineageTag: d9783786-882c-40de-b847-7ae4d25a6ae5
+		summarizeBy: none
+		sourceColumn: issue_count
+
+	column 'Check Label' =
+			
+			SWITCH(
+			    data_quality_summary[check_name],
+			    "Missing BP among hypertension encounters", "Missing BP: hypertension",
+			    "Missing A1c among diabetes encounters", "Missing A1c: diabetes",
+			    data_quality_summary[check_name]
+			)
+		lineageTag: ac89b946-318e-4a3c-8b06-4a7118e499a2
+		summarizeBy: none
+
+		annotation SummarizationSetBy = Automatic
+
+	partition data_quality_summary = m
+		mode: import
+		source =
+				let
+				    Source = #table(type table [check_name = text, issue_count = Int64.Type], {{"Missing BP among hypertension encounters", 61}, {"Missing A1c among diabetes encounters", 36}})
+				in
+				    Source
+

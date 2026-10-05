@@ -1,0 +1,6 @@
+feature,readmission_rate
+Heart failure,0.15
+High risk tier,0.138
+Medication count >= 6,0.079
+Prior utilization >= 2,0.074
+Chronic kidney disease,0.072

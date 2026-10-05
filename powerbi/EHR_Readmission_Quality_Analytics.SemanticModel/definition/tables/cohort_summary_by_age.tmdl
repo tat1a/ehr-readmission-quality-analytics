@@ -1,0 +1,52 @@
+table cohort_summary_by_age
+	lineageTag: 913eda1d-7597-4698-9886-f8780d61f08f
+
+	column age_group
+		dataType: string
+		lineageTag: b98d5644-32ae-40a4-85b5-3128066a9277
+		summarizeBy: none
+		sourceColumn: age_group
+
+	column index_admissions
+		dataType: int64
+		formatString: #,0
+		lineageTag: 0e1c684a-e69e-4747-9d07-3143968c2e85
+		summarizeBy: none
+		sourceColumn: index_admissions
+
+	column readmissions_30d
+		dataType: int64
+		formatString: #,0
+		lineageTag: 042b292b-e565-4799-9c73-d6e8fbf7307d
+		summarizeBy: none
+		sourceColumn: readmissions_30d
+
+	column avg_length_of_stay
+		dataType: double
+		formatString: 0.0
+		lineageTag: 97014817-06d8-4d5c-853b-db185bcd9ed3
+		summarizeBy: none
+		sourceColumn: avg_length_of_stay
+
+	column avg_medication_count
+		dataType: double
+		formatString: 0.0
+		lineageTag: b2ed2954-23e3-44c2-8f7b-62baa59819ca
+		summarizeBy: none
+		sourceColumn: avg_medication_count
+
+	column readmission_rate
+		dataType: double
+		formatString: 0.0
+		lineageTag: cde5f7ee-496e-418f-be72-01288b805310
+		summarizeBy: none
+		sourceColumn: readmission_rate
+
+	partition cohort_summary_by_age = m
+		mode: import
+		source =
+				let
+				    Source = #table(type table [age_group = text, index_admissions = Int64.Type, readmissions_30d = Int64.Type, avg_length_of_stay = number, avg_medication_count = number, readmission_rate = number], {{"18-39", 247, 12, 3.0, 2.2, 0.049}, {"40-64", 503, 39, 3.1, 2.5, 0.078}, {"65-79", 221, 20, 3.3, 2.9, 0.09}, {"80+", 131, 9, 3.2, 2.7, 0.069}})
+				in
+				    Source
+

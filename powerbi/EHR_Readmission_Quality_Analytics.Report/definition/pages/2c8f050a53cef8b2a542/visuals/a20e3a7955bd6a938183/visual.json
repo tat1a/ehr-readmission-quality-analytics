@@ -1,0 +1,208 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.12.0/schema.json",
+  "name": "a20e3a7955bd6a938183",
+  "position": {
+    "x": 411.66666666666669,
+    "y": 540,
+    "z": 7000,
+    "height": 473.33333333333337,
+    "width": 1266.6666666666667,
+    "tabOrder": 7000
+  },
+  "visual": {
+    "visualType": "tableEx",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "readmission_features"
+                    }
+                  },
+                  "Property": "encounter_id"
+                }
+              },
+              "queryRef": "readmission_features.encounter_id",
+              "nativeQueryRef": "encounter_id"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "readmission_features"
+                    }
+                  },
+                  "Property": "age_group"
+                }
+              },
+              "queryRef": "readmission_features.age_group",
+              "nativeQueryRef": "age_group"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "readmission_features"
+                    }
+                  },
+                  "Property": "service_line"
+                }
+              },
+              "queryRef": "readmission_features.service_line",
+              "nativeQueryRef": "service_line"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "readmission_features"
+                    }
+                  },
+                  "Property": "primary_diagnosis"
+                }
+              },
+              "queryRef": "readmission_features.primary_diagnosis",
+              "nativeQueryRef": "primary_diagnosis"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "readmission_features"
+                    }
+                  },
+                  "Property": "risk_tier"
+                }
+              },
+              "queryRef": "readmission_features.risk_tier",
+              "nativeQueryRef": "risk_tier"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "readmission_features"
+                    }
+                  },
+                  "Property": "length_of_stay_days"
+                }
+              },
+              "queryRef": "readmission_features.length_of_stay_days",
+              "nativeQueryRef": "length_of_stay_days"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "readmission_features"
+                    }
+                  },
+                  "Property": "readmitted_30d"
+                }
+              },
+              "queryRef": "readmission_features.readmitted_30d",
+              "nativeQueryRef": "readmitted_30d"
+            }
+          ]
+        }
+      }
+    },
+    "objects": {
+      "values": [
+        {
+          "properties": {
+            "urlIcon": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "columnHeaders": [
+        {
+          "properties": {
+            "columnAdjustment": {
+              "expr": {
+                "Literal": {
+                  "Value": "'growToFit'"
+                }
+              }
+            },
+            "backColor": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "Literal": {
+                      "Value": "'#2B4171'"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "grid": [
+        {
+          "properties": {
+            "gridVertical": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            },
+            "outlineColor": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "ThemeDataColor": {
+                      "ColorId": 3,
+                      "Percent": -0.5
+                    }
+                  }
+                }
+              }
+            },
+            "outlineStyle": {
+              "expr": {
+                "Literal": {
+                  "Value": "0D"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "visualContainerObjects": {
+      "stylePreset": [
+        {
+          "properties": {
+            "name": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Sparse'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

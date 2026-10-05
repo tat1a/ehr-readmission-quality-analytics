@@ -1,0 +1,56 @@
+Index Admissions =
+COUNTROWS('readmission_features')
+
+Readmissions 30D =
+SUM('readmission_features'[readmitted_30d])
+
+Readmission Rate =
+DIVIDE([Readmissions 30D], [Index Admissions])
+
+Average Length of Stay =
+AVERAGE('readmission_features'[length_of_stay_days])
+
+Average Prior Encounters =
+AVERAGE('readmission_features'[prior_encounters_180d])
+
+Average Medication Count =
+AVERAGE('readmission_features'[medication_count])
+
+High Risk Encounters =
+CALCULATE(
+    [Index Admissions],
+    'readmission_features'[risk_tier] = "High"
+)
+
+Diabetes A1c Completion =
+CALCULATE(
+    DIVIDE(
+        SUM('quality_measure_summary'[numerator]),
+        SUM('quality_measure_summary'[denominator])
+    ),
+    'quality_measure_summary'[measure] = "A1c documented for diabetes encounters"
+)
+
+Hypertension BP Completion =
+CALCULATE(
+    DIVIDE(
+        SUM('quality_measure_summary'[numerator]),
+        SUM('quality_measure_summary'[denominator])
+    ),
+    'quality_measure_summary'[measure] = "Blood pressure documented for hypertension encounters"
+)
+
+Quality Gap Count =
+SUM('quality_measure_summary'[gap_count])
+
+Data Quality Issue Count =
+SUM('data_quality_summary'[issue_count])
+
+Operational Flag Count =
+SUM('operational_flag_summary'[encounter_count])
+
+High Risk Readmission Rate =
+CALCULATE(
+    [Readmission Rate],
+    'readmission_features'[risk_tier] = "High"
+)

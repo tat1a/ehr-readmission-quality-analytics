@@ -1,0 +1,111 @@
+table dashboard_kpis
+	lineageTag: 0cdd9690-e1c3-4a2a-a2b0-a25d1833eb26
+
+	measure 'Index Admissions' = COUNTROWS(readmission_features)
+		formatString: #,0
+		displayFolder: 01 Readmission KPIs
+		lineageTag: 6c78e445-e84f-438b-b903-1300968fbbed
+
+	measure 'Readmissions 30D' = SUM(readmission_features[readmitted_30d])
+		formatString: #,0
+		displayFolder: 01 Readmission KPIs
+		lineageTag: ce5affba-082c-4df5-b258-c3977bb5502a
+
+	measure 'Readmission Rate' = DIVIDE([Readmissions 30D], [Index Admissions])
+		formatString: 0.0%;-0.0%;0.0%
+		displayFolder: 01 Readmission KPIs
+		lineageTag: bf49d593-9f27-49be-b372-3e06dc62d8cc
+
+	measure 'Average Length of Stay' = AVERAGE(readmission_features[length_of_stay_days])
+		formatString: 0.0
+		displayFolder: 01 Readmission KPIs
+		lineageTag: 50c1a5cb-4b1a-4898-bc3b-e84f15e4be99
+
+	measure 'High Risk Encounters' = CALCULATE([Index Admissions], readmission_features[risk_tier] = "High")
+		formatString: #,0
+		displayFolder: 01 Readmission KPIs
+		lineageTag: 4518df18-65c8-4f2e-9ad5-60cb298121a4
+
+	measure 'High Risk Readmission Rate' = CALCULATE([Readmission Rate], readmission_features[risk_tier] = "High")
+		formatString: 0.0%;-0.0%;0.0%
+		displayFolder: 01 Readmission KPIs
+		lineageTag: 07d57f95-370c-4ed1-ae76-6bce58d6e567
+
+	measure 'Diabetes A1c Completion' = CALCULATE(DIVIDE(SUM(quality_measure_summary[numerator]), SUM(quality_measure_summary[denominator])), quality_measure_summary[measure] = "A1c documented for diabetes encounters")
+		formatString: 0.0%;-0.0%;0.0%
+		displayFolder: 02 Care Quality
+		lineageTag: 0374045e-1925-4dab-a25d-b119b5983533
+
+	measure 'Hypertension BP Completion' = CALCULATE(DIVIDE(SUM(quality_measure_summary[numerator]), SUM(quality_measure_summary[denominator])), quality_measure_summary[measure] = "Blood pressure documented for hypertension encounters")
+		formatString: 0.0%;-0.0%;0.0%
+		displayFolder: 02 Care Quality
+		lineageTag: 6bc63ccf-6560-4751-a9b0-0fd2fbcd7d07
+
+	measure 'Quality Gap Count' = SUM(quality_measure_summary[gap_count])
+		formatString: #,0
+		displayFolder: 02 Care Quality
+		lineageTag: c989dc0f-6c13-4854-9f5b-32e9e3ed166b
+
+	measure 'Data Quality Issue Count' = SUM(data_quality_summary[issue_count])
+		formatString: #,0
+		displayFolder: 02 Care Quality
+		lineageTag: 1cc72574-d745-4ac9-bf95-55ea52396181
+
+	measure 'Operational Flag Count' = SUM(operational_flag_summary[encounter_count])
+		formatString: #,0
+		displayFolder: 04 Operational Flags
+		lineageTag: 92241e1c-de9f-4217-88d6-6c141dfd7751
+
+	measure 'Average Prior Encounters' = AVERAGE(readmission_features[prior_encounters_180d])
+		formatString: 0.0
+		displayFolder: 03 Cohort Profile
+		lineageTag: 314f76f8-37a7-4662-99ac-b648debd3a2e
+
+	measure 'Average Medication Count' = AVERAGE(readmission_features[medication_count])
+		formatString: 0.0
+		displayFolder: 03 Cohort Profile
+		lineageTag: 90adc494-533f-4a8c-b3df-f3e11e37cd65
+
+	column index_admissions
+		dataType: int64
+		formatString: #,0
+		lineageTag: 34c561bf-f8a1-4277-bfb7-b4acc0858abb
+		summarizeBy: none
+		sourceColumn: index_admissions
+
+	column readmissions_30d
+		dataType: int64
+		formatString: #,0
+		lineageTag: 159916ff-59a8-40af-9f23-b96d738f54fa
+		summarizeBy: none
+		sourceColumn: readmissions_30d
+
+	column readmission_rate
+		dataType: double
+		formatString: 0.0
+		lineageTag: 6d537f62-38de-4d6d-95a5-60aab68dbf8d
+		summarizeBy: none
+		sourceColumn: readmission_rate
+
+	column avg_length_of_stay
+		dataType: double
+		formatString: 0.0
+		lineageTag: b8ae42ae-9905-4b94-b5be-b5aa8c27fc1a
+		summarizeBy: none
+		sourceColumn: avg_length_of_stay
+
+	column high_risk_encounters
+		dataType: int64
+		formatString: #,0
+		lineageTag: bc722378-cca9-4380-941e-27511a10b081
+		summarizeBy: none
+		sourceColumn: high_risk_encounters
+
+	partition dashboard_kpis = m
+		mode: import
+		source =
+				let
+				    Source = #table(type table [index_admissions = Int64.Type, readmissions_30d = Int64.Type, readmission_rate = number, avg_length_of_stay = number, high_risk_encounters = Int64.Type], {{1102, 80, 0.073, 3.1, 130}})
+				in
+				    Source
+

@@ -1,0 +1,1103 @@
+encounter_id,patient_id,age_years,age_group,sex,race_group,ethnicity,insurance_type,service_line,primary_diagnosis,length_of_stay_days,prior_encounters_180d,medication_count,E11_flag,I10_flag,I50_flag,N18_flag,J44_flag,has_a1c,has_bp,risk_score,risk_tier,readmitted_30d
+E0000008,P00001,60,40-64,Female,White,Not Hispanic or Latino,Commercial,Pulmonary,COPD exacerbation,2.2,7,1,0,0,0,0,0,0,0,3,Moderate,0
+E0000014,P00002,60,40-64,Male,White,Not Hispanic or Latino,Commercial,Endocrinology,Hypoglycemia,2.4,4,3,0,1,0,0,0,0,0,3,Moderate,0
+E0000015,P00002,61,40-64,Male,White,Not Hispanic or Latino,Commercial,Pulmonary,Asthma exacerbation,3.2,2,2,0,1,0,0,0,0,1,2,Low,0
+E0000020,P00003,41,40-64,Female,White,Not Hispanic or Latino,Medicaid,Endocrinology,Hypoglycemia,3.4,2,1,0,0,0,0,0,0,0,2,Low,0
+E0000021,P00003,41,40-64,Female,White,Not Hispanic or Latino,Medicaid,General Surgery,Biliary disease,2.3,1,4,0,0,0,0,0,0,0,1,Low,0
+E0000022,P00003,42,40-64,Female,White,Not Hispanic or Latino,Medicaid,General Medicine,Cellulitis,3.1,1,3,0,0,0,0,0,0,0,1,Low,0
+E0000030,P00004,45,40-64,Male,Black,Not Hispanic or Latino,Commercial,Endocrinology,Hyperglycemia,3.2,7,3,1,0,0,0,0,1,0,5,Moderate,0
+E0000032,P00005,76,65-79,Male,Asian,Not Hispanic or Latino,Medicare,General Surgery,Abdominal pain,1.2,1,1,1,0,0,0,0,1,0,3,Moderate,0
+E0000038,P00006,80,80+,Female,White,Not Hispanic or Latino,Medicare,General Medicine,Electrolyte disorder,1.4,2,2,0,0,0,0,0,0,0,2,Low,0
+E0000042,P00007,52,40-64,Female,Black,Unknown,Medicaid,Cardiology,Heart failure exacerbation,2.2,3,3,0,0,0,0,0,0,0,3,Moderate,0
+E0000048,P00008,59,40-64,Male,Black,Not Hispanic or Latino,Commercial,General Medicine,Electrolyte disorder,2.1,3,1,0,0,0,0,1,0,0,5,Moderate,0
+E0000052,P00009,85,80+,Female,White,Not Hispanic or Latino,Medicaid,Endocrinology,Hypoglycemia,1.2,3,1,0,0,0,0,0,0,0,3,Moderate,0
+E0000060,P00010,71,65-79,Female,Asian,Unknown,Commercial,General Surgery,Biliary disease,2.3,7,1,0,1,0,0,0,0,0,3,Moderate,0
+E0000061,P00010,71,65-79,Female,Asian,Unknown,Commercial,Cardiology,Chest pain,5.2,7,3,0,1,0,0,0,0,1,4,Moderate,0
+E0000067,P00011,76,65-79,Female,White,Not Hispanic or Latino,Medicaid,Pulmonary,COPD exacerbation,1.2,4,4,0,1,0,0,0,0,1,3,Moderate,0
+E0000078,P00013,51,40-64,Female,White,Not Hispanic or Latino,Commercial,General Surgery,Biliary disease,3.2,5,1,0,0,0,0,0,0,0,3,Moderate,0
+E0000085,P00014,61,40-64,Female,White,Not Hispanic or Latino,Medicare,Cardiology,Heart failure exacerbation,4.2,6,2,0,0,0,0,0,0,0,3,Moderate,1
+E0000086,P00014,61,40-64,Female,White,Not Hispanic or Latino,Medicare,General Surgery,Biliary disease,4.3,7,2,0,0,0,0,0,0,0,3,Moderate,0
+E0000093,P00015,58,40-64,Male,White,Not Hispanic or Latino,Medicare,Cardiology,Chest pain,1.3,5,3,0,0,0,0,1,0,0,5,Moderate,0
+E0000100,P00016,88,80+,Male,White,Not Hispanic or Latino,Medicare,General Medicine,Cellulitis,1.2,6,3,0,0,0,0,0,0,0,3,Moderate,0
+E0000106,P00017,20,18-39,Female,White,Hispanic or Latino,Medicaid,Cardiology,Atrial fibrillation,3.1,5,2,0,0,0,0,0,0,0,3,Moderate,0
+E0000110,P00018,48,40-64,Female,White,Not Hispanic or Latino,Commercial,Cardiology,Heart failure exacerbation,3.4,3,3,1,0,0,0,0,1,0,5,Moderate,0
+E0000111,P00018,49,40-64,Female,White,Not Hispanic or Latino,Commercial,Endocrinology,Diabetes complication,1.1,1,2,1,0,0,0,0,1,0,3,Moderate,0
+E0000115,P00019,86,80+,Male,White,Not Hispanic or Latino,Medicare,Cardiology,Chest pain,1.4,2,2,0,0,0,0,0,0,0,2,Low,0
+E0000116,P00019,86,80+,Male,White,Not Hispanic or Latino,Medicare,Pulmonary,Asthma exacerbation,3.4,3,4,0,0,0,0,0,0,0,3,Moderate,0
+E0000122,P00020,70,65-79,Male,White,Not Hispanic or Latino,Medicare,General Medicine,Sepsis,2.2,4,3,0,1,0,0,1,0,1,5,Moderate,1
+E0000123,P00020,70,65-79,Male,White,Not Hispanic or Latino,Medicare,Endocrinology,Hypoglycemia,3.1,5,6,0,1,0,0,1,0,1,6,Moderate,0
+E0000128,P00021,39,18-39,Female,Black,Not Hispanic or Latino,Medicaid,General Surgery,Postoperative wound issue,2.2,3,1,0,0,1,0,0,0,0,7,High,0
+E0000129,P00021,39,18-39,Female,Black,Not Hispanic or Latino,Medicaid,Pulmonary,Asthma exacerbation,6.2,3,3,0,0,1,0,0,0,0,8,High,0
+E0000135,P00022,49,40-64,Female,White,Not Hispanic or Latino,Commercial,Pulmonary,Pneumonia,3.2,5,2,0,0,0,0,0,0,0,3,Moderate,0
+E0000149,P00024,29,18-39,Female,White,Not Hispanic or Latino,Medicare,Cardiology,Heart failure exacerbation,2.1,4,1,0,0,0,0,0,0,0,3,Moderate,0
+E0000150,P00024,30,18-39,Female,White,Not Hispanic or Latino,Medicare,General Medicine,Electrolyte disorder,1.4,1,4,0,0,0,0,0,0,0,1,Low,0
+E0000154,P00025,43,40-64,Female,Unknown,Not Hispanic or Latino,Self-pay,Endocrinology,Hyperglycemia,2.2,3,5,1,0,1,0,0,1,0,9,High,0
+E0000162,P00026,50,40-64,Female,White,Hispanic or Latino,Commercial,General Medicine,Cellulitis,1.3,5,2,1,1,0,0,0,1,1,5,Moderate,0
+E0000168,P00027,63,40-64,Female,Unknown,Not Hispanic or Latino,Medicaid,General Medicine,Electrolyte disorder,1.2,3,1,0,1,0,0,0,0,1,3,Moderate,0
+E0000169,P00027,63,40-64,Female,Unknown,Not Hispanic or Latino,Medicaid,General Medicine,Syncope,4.2,1,3,0,1,0,0,0,0,1,1,Low,0
+E0000173,P00028,81,80+,Female,White,Not Hispanic or Latino,Commercial,Pulmonary,Asthma exacerbation,7.1,3,2,0,0,0,0,1,0,0,6,Moderate,0
+E0000177,P00029,24,18-39,Female,White,Not Hispanic or Latino,Medicare,General Surgery,Biliary disease,3.4,3,3,0,0,0,0,0,0,0,3,Moderate,0
+E0000190,P00031,21,18-39,Male,Asian,Not Hispanic or Latino,Medicare,General Medicine,Sepsis,5.2,2,1,1,0,0,0,0,1,0,5,Moderate,0
+E0000192,P00032,18,18-39,Female,White,Unknown,Commercial,General Medicine,Cellulitis,4.2,1,4,0,0,0,0,0,0,0,1,Low,0
+E0000193,P00032,18,18-39,Female,White,Unknown,Commercial,General Medicine,Cellulitis,1.1,1,1,0,0,0,0,0,0,0,1,Low,0
+E0000199,P00033,50,40-64,Female,White,Not Hispanic or Latino,Medicaid,Cardiology,Chest pain,5.2,4,2,0,0,0,1,0,0,0,7,High,0
+E0000200,P00033,50,40-64,Female,White,Not Hispanic or Latino,Medicaid,General Medicine,Electrolyte disorder,5.1,1,1,0,0,0,1,0,0,0,5,Moderate,0
+E0000205,P00034,42,40-64,Male,Other,Not Hispanic or Latino,Medicaid,Pulmonary,Pneumonia,2.4,4,3,0,0,0,0,1,0,0,5,Moderate,0
+E0000208,P00035,18,18-39,Female,Asian,Not Hispanic or Latino,Medicare,Endocrinology,Hyperglycemia,1.2,2,1,0,0,0,0,0,0,0,2,Low,0
+E0000209,P00035,19,18-39,Female,Asian,Not Hispanic or Latino,Medicare,General Medicine,Electrolyte disorder,3.2,1,2,0,0,0,0,0,0,0,1,Low,0
+E0000213,P00036,72,65-79,Female,White,Not Hispanic or Latino,Commercial,General Medicine,Electrolyte disorder,5.3,3,3,0,0,1,0,0,0,0,8,High,0
+E0000220,P00037,28,18-39,Male,Asian,Not Hispanic or Latino,Medicaid,General Medicine,Cellulitis,4.4,6,1,0,0,0,0,0,0,0,3,Moderate,0
+E0000225,P00038,41,40-64,Male,White,Not Hispanic or Latino,Self-pay,General Medicine,Cellulitis,2.1,3,4,0,0,0,0,0,0,0,3,Moderate,0
+E0000227,P00039,62,40-64,Female,White,Not Hispanic or Latino,Medicare,General Medicine,Syncope,1.3,1,3,0,0,0,0,1,0,0,3,Moderate,0
+E0000234,P00040,31,18-39,Female,Asian,Not Hispanic or Latino,Commercial,General Medicine,Sepsis,3.4,5,1,0,0,0,0,0,0,0,3,Moderate,0
+E0000240,P00041,49,40-64,Male,Other,Not Hispanic or Latino,Medicare,General Medicine,Sepsis,6.4,5,1,0,1,0,0,0,0,1,4,Moderate,0
+E0000247,P00042,83,80+,Male,White,Not Hispanic or Latino,Medicare,General Surgery,Biliary disease,1.4,5,1,0,0,0,0,0,0,0,3,Moderate,0
+E0000250,P00043,78,65-79,Female,White,Unknown,Medicare,General Medicine,Electrolyte disorder,3.2,2,3,0,1,0,0,1,0,1,4,Moderate,0
+E0000254,P00044,88,80+,Female,White,Unknown,Commercial,Cardiology,Chest pain,3.1,3,3,0,0,0,0,0,0,0,3,Moderate,0
+E0000261,P00045,73,65-79,Male,White,Hispanic or Latino,Medicare,Pulmonary,Asthma exacerbation,3.1,5,3,1,0,0,0,0,0,0,5,Moderate,0
+E0000262,P00045,73,65-79,Male,White,Hispanic or Latino,Medicare,Cardiology,Atrial fibrillation,1.2,3,6,1,0,0,0,0,1,0,6,Moderate,0
+E0000269,P00046,63,40-64,Male,Asian,Not Hispanic or Latino,Medicaid,Endocrinology,Hypoglycemia,1.1,5,2,0,1,0,0,0,0,0,3,Moderate,0
+E0000272,P00047,19,18-39,Male,Black,Not Hispanic or Latino,Commercial,Endocrinology,Hyperglycemia,5.1,1,2,0,0,0,0,0,0,0,2,Low,0
+E0000278,P00048,40,40-64,Female,White,Hispanic or Latino,Medicare,General Surgery,Abdominal pain,1.2,3,1,0,0,0,0,0,0,0,3,Moderate,0
+E0000284,P00049,59,40-64,Male,White,Not Hispanic or Latino,Medicare,General Medicine,Syncope,1.1,3,1,0,0,0,0,0,0,0,3,Moderate,0
+E0000285,P00049,60,40-64,Male,White,Not Hispanic or Latino,Medicare,General Medicine,Electrolyte disorder,2.2,3,1,0,0,0,0,0,0,0,3,Moderate,0
+E0000291,P00050,81,80+,Male,White,Not Hispanic or Latino,Medicare,Pulmonary,Pneumonia,2.4,5,4,0,0,0,0,0,0,0,3,Moderate,0
+E0000297,P00051,80,80+,Male,Black,Not Hispanic or Latino,Medicaid,General Surgery,Postoperative wound issue,2.3,5,1,0,0,0,0,0,0,0,3,Moderate,0
+E0000301,P00052,76,65-79,Female,Black,Not Hispanic or Latino,Medicare,General Surgery,Postoperative wound issue,2.4,3,2,0,0,0,0,0,0,0,3,Moderate,1
+E0000302,P00052,76,65-79,Female,Black,Not Hispanic or Latino,Medicare,General Medicine,Cellulitis,2.1,4,2,0,0,0,0,0,0,0,3,Moderate,0
+E0000306,P00053,88,80+,Female,Black,Hispanic or Latino,Medicare,General Medicine,Cellulitis,1.4,3,2,0,0,0,0,0,0,0,3,Moderate,1
+E0000307,P00053,88,80+,Female,Black,Hispanic or Latino,Medicare,General Medicine,Cellulitis,5.2,4,1,0,0,0,0,0,0,0,4,Moderate,0
+E0000311,P00054,39,18-39,Male,White,Not Hispanic or Latino,Medicaid,General Medicine,Sepsis,3.3,3,3,0,1,0,0,0,0,1,3,Moderate,0
+E0000312,P00054,39,18-39,Male,White,Not Hispanic or Latino,Medicaid,Endocrinology,Hyperglycemia,5.3,2,4,0,1,0,0,0,0,1,3,Moderate,1
+E0000313,P00054,39,18-39,Male,White,Not Hispanic or Latino,Medicaid,General Medicine,Sepsis,5.2,2,4,0,1,0,0,0,0,1,3,Moderate,0
+E0000319,P00055,58,40-64,Female,Black,Hispanic or Latino,Medicaid,General Medicine,Electrolyte disorder,3.4,5,2,0,0,0,0,0,0,0,3,Moderate,1
+E0000320,P00055,58,40-64,Female,Black,Hispanic or Latino,Medicaid,Endocrinology,Hypoglycemia,1.4,6,1,0,0,0,0,0,0,0,3,Moderate,0
+E0000327,P00056,23,18-39,Male,White,Unknown,Medicaid,Endocrinology,Hyperglycemia,1.2,6,3,0,0,0,0,0,0,0,3,Moderate,0
+E0000328,P00056,23,18-39,Male,White,Unknown,Medicaid,Pulmonary,Asthma exacerbation,3.3,2,4,0,0,0,0,0,0,0,2,Low,0
+E0000333,P00057,22,18-39,Female,White,Not Hispanic or Latino,Medicaid,General Medicine,Sepsis,2.1,4,2,0,0,0,0,0,0,0,3,Moderate,0
+E0000338,P00058,30,18-39,Male,Black,Not Hispanic or Latino,Medicaid,General Medicine,Syncope,1.2,3,1,0,0,0,0,0,0,0,3,Moderate,0
+E0000339,P00058,30,18-39,Male,Black,Not Hispanic or Latino,Medicaid,General Surgery,Postoperative wound issue,2.2,3,3,0,0,0,0,0,0,0,3,Moderate,0
+E0000343,P00059,81,80+,Male,White,Not Hispanic or Latino,Medicare,Cardiology,Atrial fibrillation,2.1,3,2,0,1,0,0,0,0,1,3,Moderate,0
+E0000344,P00059,82,80+,Male,White,Not Hispanic or Latino,Medicare,General Medicine,Cellulitis,2.3,1,3,0,1,0,0,0,0,1,1,Low,1
+E0000345,P00059,82,80+,Male,White,Not Hispanic or Latino,Medicare,Endocrinology,Hypoglycemia,4.1,2,2,0,1,0,0,0,0,1,2,Low,0
+E0000350,P00060,47,40-64,Female,White,Not Hispanic or Latino,Medicaid,Endocrinology,Hyperglycemia,3.1,4,1,0,0,0,0,0,0,0,3,Moderate,0
+E0000353,P00061,43,40-64,Female,Other,Not Hispanic or Latino,Medicare,General Surgery,Biliary disease,3.2,2,2,0,0,0,0,0,0,0,2,Low,0
+E0000354,P00061,44,40-64,Female,Other,Not Hispanic or Latino,Medicare,Cardiology,Chest pain,1.4,1,2,0,0,0,0,0,0,0,1,Low,1
+E0000355,P00061,44,40-64,Female,Other,Not Hispanic or Latino,Medicare,Endocrinology,Diabetes complication,2.4,2,5,0,0,0,0,0,0,0,2,Low,0
+E0000360,P00062,76,65-79,Male,White,Not Hispanic or Latino,Commercial,Endocrinology,Hyperglycemia,2.4,4,3,0,0,0,0,0,0,0,3,Moderate,0
+E0000361,P00062,77,65-79,Male,White,Not Hispanic or Latino,Commercial,General Medicine,Syncope,1.2,2,1,0,0,0,0,0,0,0,2,Low,0
+E0000365,P00063,86,80+,Female,White,Not Hispanic or Latino,Commercial,Endocrinology,Diabetes complication,4.4,3,3,0,0,1,0,0,0,0,7,High,0
+E0000382,P00065,46,40-64,Female,White,Not Hispanic or Latino,Medicare,General Medicine,Syncope,3.2,9,5,0,1,1,0,0,0,1,7,High,0
+E0000387,P00067,72,65-79,Female,Black,Hispanic or Latino,Medicare,Pulmonary,Asthma exacerbation,3.3,0,5,1,1,0,0,0,1,1,2,Low,0
+E0000391,P00068,58,40-64,Male,White,Not Hispanic or Latino,Medicaid,General Medicine,Sepsis,3.3,1,2,0,1,0,0,0,0,1,1,Low,0
+E0000397,P00069,89,80+,Female,Unknown,Not Hispanic or Latino,Self-pay,Pulmonary,Pneumonia,3.2,4,4,0,1,1,0,0,0,1,7,High,0
+E0000398,P00069,89,80+,Female,Unknown,Not Hispanic or Latino,Self-pay,Cardiology,Atrial fibrillation,2.1,1,2,0,1,1,0,0,0,1,5,Moderate,0
+E0000404,P00070,43,40-64,Male,White,Not Hispanic or Latino,Medicare,General Medicine,Sepsis,5.2,5,1,0,0,0,0,0,0,0,4,Moderate,0
+E0000410,P00071,42,40-64,Male,White,Not Hispanic or Latino,Commercial,Endocrinology,Hyperglycemia,3.3,4,4,1,0,0,0,0,1,0,5,Moderate,0
+E0000411,P00071,42,40-64,Male,White,Not Hispanic or Latino,Commercial,Pulmonary,Pneumonia,3.2,2,3,1,0,0,0,0,1,0,4,Moderate,0
+E0000419,P00072,52,40-64,Female,Other,Not Hispanic or Latino,Commercial,Cardiology,Chest pain,4.4,5,1,0,0,0,0,0,0,0,3,Moderate,1
+E0000420,P00072,52,40-64,Female,Other,Not Hispanic or Latino,Commercial,Cardiology,Heart failure exacerbation,3.3,6,1,0,0,0,0,0,0,0,3,Moderate,0
+E0000425,P00073,69,65-79,Female,White,Unknown,Commercial,Endocrinology,Hypoglycemia,1.3,4,2,0,1,0,0,0,0,1,3,Moderate,1
+E0000426,P00073,69,65-79,Female,White,Unknown,Commercial,General Medicine,Electrolyte disorder,3.3,5,1,0,1,0,0,0,0,1,3,Moderate,1
+E0000432,P00074,86,80+,Female,White,Not Hispanic or Latino,Medicare,General Surgery,Postoperative wound issue,2.1,3,4,1,0,0,0,0,1,0,5,Moderate,0
+E0000433,P00074,86,80+,Female,White,Not Hispanic or Latino,Medicare,General Surgery,Biliary disease,3.1,4,1,1,0,0,0,0,1,0,5,Moderate,0
+E0000441,P00075,25,18-39,Female,Other,Not Hispanic or Latino,Medicaid,General Medicine,Syncope,3.1,7,2,1,0,0,0,0,0,0,5,Moderate,0
+E0000442,P00075,25,18-39,Female,Other,Not Hispanic or Latino,Medicaid,Endocrinology,Hypoglycemia,4.3,5,2,1,0,0,0,0,1,0,5,Moderate,0
+E0000450,P00077,60,40-64,Female,White,Not Hispanic or Latino,Medicaid,General Medicine,Syncope,6.4,5,1,0,0,0,0,0,0,0,4,Moderate,0
+E0000454,P00078,85,80+,Female,Other,Not Hispanic or Latino,Medicare,General Surgery,Biliary disease,5.1,3,3,0,0,0,1,0,0,0,7,High,0
+E0000463,P00080,22,18-39,Male,Asian,Not Hispanic or Latino,Medicare,General Medicine,Cellulitis,3.2,3,1,0,1,0,0,0,0,1,3,Moderate,0
+E0000467,P00081,43,40-64,Female,White,Not Hispanic or Latino,Commercial,General Medicine,Syncope,2.2,3,5,0,1,0,0,0,0,1,3,Moderate,0
+E0000468,P00081,43,40-64,Female,White,Not Hispanic or Latino,Commercial,Cardiology,Heart failure exacerbation,4.2,3,2,0,1,0,0,0,0,1,3,Moderate,0
+E0000475,P00083,47,40-64,Female,White,Hispanic or Latino,Commercial,Endocrinology,Hyperglycemia,3.2,1,2,0,0,0,0,0,0,0,1,Low,0
+E0000476,P00083,48,40-64,Female,White,Hispanic or Latino,Commercial,General Medicine,Syncope,2.1,2,2,0,0,0,0,0,0,0,2,Low,0
+E0000480,P00084,51,40-64,Male,Black,Not Hispanic or Latino,Medicare,Endocrinology,Diabetes complication,2.3,3,2,0,0,0,0,0,0,0,3,Moderate,0
+E0000483,P00085,83,80+,Female,White,Not Hispanic or Latino,Medicare,General Medicine,Cellulitis,1.3,1,1,0,0,0,0,0,0,0,1,Low,0
+E0000486,P00086,51,40-64,Male,White,Unknown,Medicare,General Medicine,Electrolyte disorder,4.4,2,1,0,0,0,0,0,0,0,2,Low,0
+E0000496,P00087,47,40-64,Male,Asian,Hispanic or Latino,Commercial,Pulmonary,Pneumonia,3.2,9,5,0,1,0,1,0,0,0,6,Moderate,0
+E0000500,P00088,35,18-39,Male,White,Not Hispanic or Latino,Commercial,Pulmonary,Asthma exacerbation,5.2,2,1,0,0,0,0,0,0,0,3,Moderate,0
+E0000501,P00088,36,18-39,Male,White,Not Hispanic or Latino,Commercial,General Surgery,Biliary disease,4.4,1,1,0,0,0,0,0,0,0,1,Low,0
+E0000503,P00089,48,40-64,Female,Asian,Hispanic or Latino,Commercial,General Surgery,Postoperative wound issue,2.1,1,1,0,1,0,0,0,0,1,1,Low,0
+E0000509,P00090,50,40-64,Female,White,Not Hispanic or Latino,Medicare,Pulmonary,Pneumonia,3.2,5,3,0,1,0,0,0,0,1,3,Moderate,0
+E0000515,P00091,69,65-79,Male,White,Not Hispanic or Latino,Medicare,General Medicine,Electrolyte disorder,5.4,2,7,0,1,1,1,0,0,1,11,High,1
+E0000516,P00091,69,65-79,Male,White,Not Hispanic or Latino,Medicare,Cardiology,Atrial fibrillation,2.2,3,5,0,1,1,1,0,0,1,10,High,1
+E0000520,P00092,53,40-64,Female,White,Not Hispanic or Latino,Medicaid,Cardiology,Heart failure exacerbation,2.1,2,1,0,0,0,0,0,0,0,2,Low,0
+E0000521,P00092,54,40-64,Female,White,Not Hispanic or Latino,Medicaid,Pulmonary,Pneumonia,2.3,2,1,0,0,0,0,0,0,0,2,Low,0
+E0000533,P00094,72,65-79,Female,White,Not Hispanic or Latino,Medicare,General Medicine,Electrolyte disorder,3.4,6,4,0,1,0,0,0,0,1,3,Moderate,0
+E0000534,P00094,73,65-79,Female,White,Not Hispanic or Latino,Medicare,General Medicine,Syncope,4.3,2,3,0,1,0,0,0,0,1,2,Low,0
+E0000539,P00095,72,65-79,Female,White,Not Hispanic or Latino,Commercial,General Surgery,Abdominal pain,1.2,4,2,0,0,0,0,0,0,0,3,Moderate,0
+E0000543,P00096,56,40-64,Male,Asian,Not Hispanic or Latino,Commercial,Cardiology,Chest pain,1.2,3,2,0,0,0,0,0,0,0,3,Moderate,0
+E0000550,P00097,40,40-64,Male,Unknown,Not Hispanic or Latino,Commercial,General Medicine,Cellulitis,2.1,4,2,0,0,0,0,0,0,0,3,Moderate,0
+E0000553,P00098,56,40-64,Female,Other,Hispanic or Latino,Medicaid,General Medicine,Electrolyte disorder,4.3,2,4,0,1,0,0,0,0,1,2,Low,0
+E0000554,P00098,56,40-64,Female,Other,Hispanic or Latino,Medicaid,General Surgery,Biliary disease,2.1,2,1,0,1,0,0,0,0,1,2,Low,0
+E0000561,P00099,61,40-64,Male,White,Not Hispanic or Latino,Medicare,Pulmonary,Asthma exacerbation,4.2,3,5,1,0,0,0,0,0,0,5,Moderate,0
+E0000562,P00099,61,40-64,Male,White,Not Hispanic or Latino,Medicare,General Medicine,Syncope,2.2,2,1,1,0,0,0,0,1,0,4,Moderate,0
+E0000575,P00101,75,65-79,Female,Unknown,Hispanic or Latino,Medicare,Cardiology,Heart failure exacerbation,1.3,6,3,1,0,0,0,0,1,0,5,Moderate,0
+E0000580,P00102,39,18-39,Male,Unknown,Not Hispanic or Latino,Self-pay,General Medicine,Cellulitis,2.1,3,6,0,0,0,0,0,0,0,4,Moderate,0
+E0000584,P00103,51,40-64,Female,Other,Not Hispanic or Latino,Self-pay,General Medicine,Electrolyte disorder,3.1,3,3,1,1,0,0,0,1,1,5,Moderate,0
+E0000589,P00104,88,80+,Female,Asian,Not Hispanic or Latino,Medicare,Pulmonary,COPD exacerbation,3.2,3,1,0,0,0,0,0,0,0,3,Moderate,0
+E0000590,P00104,89,80+,Female,Asian,Not Hispanic or Latino,Medicare,Cardiology,Atrial fibrillation,3.2,2,2,0,0,0,0,0,0,0,2,Low,0
+E0000594,P00105,51,40-64,Male,Black,Not Hispanic or Latino,Commercial,General Medicine,Sepsis,4.3,3,3,0,0,0,0,0,0,0,3,Moderate,0
+E0000595,P00105,51,40-64,Male,Black,Not Hispanic or Latino,Commercial,General Surgery,Abdominal pain,4.4,1,2,0,0,0,0,0,0,0,1,Low,0
+E0000600,P00106,40,40-64,Male,Unknown,Hispanic or Latino,Medicare,Cardiology,Atrial fibrillation,3.3,4,1,0,1,0,0,0,0,1,3,Moderate,0
+E0000601,P00106,40,40-64,Male,Unknown,Hispanic or Latino,Medicare,Pulmonary,Pneumonia,5.2,1,4,0,1,0,0,0,0,1,2,Low,0
+E0000608,P00107,56,40-64,Male,Unknown,Not Hispanic or Latino,Medicaid,General Medicine,Cellulitis,1.3,4,5,0,0,0,0,1,0,0,5,Moderate,0
+E0000612,P00108,43,40-64,Female,White,Not Hispanic or Latino,Medicare,General Medicine,Sepsis,4.4,2,5,0,1,0,0,0,0,0,2,Low,0
+E0000618,P00110,40,40-64,Male,White,Hispanic or Latino,Medicaid,Endocrinology,Diabetes complication,2.1,1,4,0,0,0,0,0,0,0,1,Low,0
+E0000620,P00111,61,40-64,Female,Black,Not Hispanic or Latino,Medicare,General Surgery,Biliary disease,2.3,0,5,0,1,1,0,0,0,1,4,Moderate,0
+E0000627,P00112,33,18-39,Male,Asian,Not Hispanic or Latino,Medicare,Cardiology,Atrial fibrillation,4.3,6,2,0,0,0,0,0,0,0,3,Moderate,0
+E0000630,P00113,54,40-64,Male,Black,Not Hispanic or Latino,Medicaid,Cardiology,Heart failure exacerbation,2.3,2,1,0,0,0,0,0,0,0,2,Low,0
+E0000631,P00113,54,40-64,Male,Black,Not Hispanic or Latino,Medicaid,Cardiology,Heart failure exacerbation,3.3,2,1,0,0,0,0,0,0,0,2,Low,0
+E0000646,P00115,23,18-39,Female,Black,Hispanic or Latino,Commercial,General Medicine,Sepsis,1.1,2,5,0,0,0,0,1,0,0,4,Moderate,0
+E0000650,P00116,24,18-39,Male,White,Not Hispanic or Latino,Commercial,Cardiology,Atrial fibrillation,2.2,3,2,0,0,0,0,0,0,0,3,Moderate,0
+E0000655,P00117,30,18-39,Female,Other,Not Hispanic or Latino,Commercial,Cardiology,Atrial fibrillation,1.4,4,2,0,0,0,0,0,0,0,3,Moderate,0
+E0000656,P00117,30,18-39,Female,Other,Not Hispanic or Latino,Commercial,General Medicine,Sepsis,1.3,3,1,0,0,0,0,0,0,0,3,Moderate,0
+E0000660,P00118,71,65-79,Female,Other,Not Hispanic or Latino,Medicaid,General Medicine,Cellulitis,5.4,3,3,1,1,0,0,0,0,0,6,Moderate,0
+E0000667,P00119,52,40-64,Female,Asian,Not Hispanic or Latino,Medicaid,Endocrinology,Hyperglycemia,2.3,6,4,1,0,0,0,0,0,0,5,Moderate,0
+E0000674,P00120,23,18-39,Male,Black,Not Hispanic or Latino,Medicare,General Medicine,Syncope,3.4,5,2,0,0,0,0,0,0,0,3,Moderate,0
+E0000675,P00120,23,18-39,Male,Black,Not Hispanic or Latino,Medicare,Cardiology,Chest pain,3.3,3,3,0,0,0,0,0,0,0,3,Moderate,0
+E0000677,P00121,67,65-79,Male,Black,Hispanic or Latino,Medicare,General Medicine,Cellulitis,2.2,1,2,0,0,0,0,0,0,0,1,Low,0
+E0000678,P00121,67,65-79,Male,Black,Hispanic or Latino,Medicare,Cardiology,Atrial fibrillation,4.1,1,2,0,0,0,0,0,0,0,1,Low,0
+E0000679,P00121,67,65-79,Male,Black,Hispanic or Latino,Medicare,General Medicine,Sepsis,4.2,1,1,0,0,0,0,0,0,0,1,Low,0
+E0000685,P00122,29,18-39,Male,White,Not Hispanic or Latino,Medicare,Pulmonary,Asthma exacerbation,4.1,4,2,1,0,0,0,0,1,0,5,Moderate,0
+E0000690,P00123,28,18-39,Female,Asian,Not Hispanic or Latino,Medicaid,General Medicine,Electrolyte disorder,3.2,4,1,0,0,0,0,0,0,0,3,Moderate,0
+E0000696,P00124,41,40-64,Male,Unknown,Hispanic or Latino,Commercial,General Surgery,Abdominal pain,2.1,5,1,0,0,0,0,0,0,0,3,Moderate,0
+E0000697,P00124,42,40-64,Male,Unknown,Hispanic or Latino,Commercial,General Medicine,Sepsis,2.1,2,3,0,0,0,0,0,0,0,2,Low,0
+E0000702,P00125,34,18-39,Female,White,Not Hispanic or Latino,Medicare,Cardiology,Atrial fibrillation,1.2,3,2,0,0,0,0,0,0,0,3,Moderate,0
+E0000707,P00126,28,18-39,Female,Other,Unknown,Medicare,General Surgery,Abdominal pain,3.4,3,2,0,0,0,0,0,0,0,3,Moderate,0
+E0000717,P00128,70,65-79,Female,Black,Not Hispanic or Latino,Commercial,General Medicine,Cellulitis,3.2,6,3,0,0,0,0,0,0,0,3,Moderate,0
+E0000718,P00128,70,65-79,Female,Black,Not Hispanic or Latino,Commercial,Endocrinology,Diabetes complication,3.2,1,3,0,0,0,0,0,0,0,1,Low,0
+E0000719,P00128,71,65-79,Female,Black,Not Hispanic or Latino,Commercial,Cardiology,Heart failure exacerbation,3.3,1,2,0,0,0,0,0,0,0,1,Low,0
+E0000730,P00130,24,18-39,Female,White,Unknown,Medicare,Endocrinology,Hyperglycemia,5.2,6,3,0,0,0,0,1,0,0,6,Moderate,0
+E0000736,P00131,75,65-79,Female,Asian,Not Hispanic or Latino,Medicare,General Medicine,Syncope,4.1,5,3,1,0,0,0,1,1,0,7,High,0
+E0000740,P00132,46,40-64,Male,Black,Not Hispanic or Latino,Medicare,General Medicine,Syncope,3.4,2,3,1,0,0,0,0,1,0,4,Moderate,0
+E0000748,P00134,50,40-64,Female,Unknown,Hispanic or Latino,Medicare,Pulmonary,COPD exacerbation,2.3,5,1,1,0,0,0,0,1,0,5,Moderate,0
+E0000754,P00135,63,40-64,Female,Black,Not Hispanic or Latino,Medicaid,General Medicine,Electrolyte disorder,4.3,1,2,0,1,0,1,0,0,1,4,Moderate,0
+E0000755,P00135,63,40-64,Female,Black,Not Hispanic or Latino,Medicaid,General Surgery,Abdominal pain,2.4,1,4,0,1,0,1,0,0,1,4,Moderate,0
+E0000762,P00136,59,40-64,Female,Black,Not Hispanic or Latino,Medicare,Pulmonary,COPD exacerbation,2.2,6,3,0,0,0,0,0,0,0,3,Moderate,0
+E0000765,P00137,35,18-39,Male,Other,Unknown,Medicare,Pulmonary,Asthma exacerbation,5.4,2,4,0,1,0,0,0,0,0,3,Moderate,0
+E0000771,P00138,29,18-39,Female,Other,Not Hispanic or Latino,Commercial,General Medicine,Syncope,1.1,4,3,1,0,0,0,0,1,0,5,Moderate,0
+E0000772,P00138,29,18-39,Female,Other,Not Hispanic or Latino,Commercial,General Surgery,Postoperative wound issue,4.2,2,1,1,0,0,0,0,1,0,4,Moderate,0
+E0000775,P00139,58,40-64,Female,White,Not Hispanic or Latino,Medicaid,Pulmonary,Pneumonia,5.1,2,1,0,0,0,0,0,0,0,3,Moderate,0
+E0000776,P00139,59,40-64,Female,White,Not Hispanic or Latino,Medicaid,Endocrinology,Hyperglycemia,2.4,3,1,0,0,0,0,0,0,0,3,Moderate,0
+E0000781,P00140,68,65-79,Female,Black,Not Hispanic or Latino,Medicare,Cardiology,Chest pain,2.4,4,2,0,0,0,0,0,0,0,3,Moderate,0
+E0000787,P00141,42,40-64,Female,Asian,Unknown,Medicare,Endocrinology,Hyperglycemia,4.2,4,1,0,0,0,0,0,0,0,3,Moderate,0
+E0000788,P00141,43,40-64,Female,Asian,Unknown,Medicare,General Medicine,Syncope,2.3,1,1,0,0,0,0,0,0,0,1,Low,0
+E0000795,P00142,53,40-64,Male,Other,Unknown,Medicare,Pulmonary,COPD exacerbation,2.1,5,1,0,0,0,0,0,0,0,3,Moderate,0
+E0000802,P00143,58,40-64,Female,Other,Not Hispanic or Latino,Medicare,General Medicine,Syncope,3.3,4,3,0,0,0,0,1,0,0,5,Moderate,0
+E0000807,P00144,70,65-79,Male,Black,Not Hispanic or Latino,Medicare,General Medicine,Cellulitis,4.2,3,3,0,0,0,1,0,0,0,6,Moderate,1
+E0000808,P00144,70,65-79,Male,Black,Not Hispanic or Latino,Medicare,General Surgery,Abdominal pain,4.1,4,1,0,0,0,1,0,0,0,6,Moderate,0
+E0000814,P00145,23,18-39,Female,White,Not Hispanic or Latino,Self-pay,General Medicine,Cellulitis,4.2,4,1,0,0,0,0,0,0,0,3,Moderate,0
+E0000820,P00146,82,80+,Male,White,Not Hispanic or Latino,Medicare,General Medicine,Syncope,5.4,5,4,1,0,0,0,1,1,0,8,High,0
+E0000821,P00146,82,80+,Male,White,Not Hispanic or Latino,Medicare,Cardiology,Chest pain,3.2,3,7,1,0,0,0,1,1,0,8,High,0
+E0000822,P00146,83,80+,Male,White,Not Hispanic or Latino,Medicare,Pulmonary,Pneumonia,2.4,3,1,1,0,0,0,1,1,0,7,High,0
+E0000825,P00147,77,65-79,Male,Black,Hispanic or Latino,Commercial,Pulmonary,COPD exacerbation,4.3,2,2,0,1,0,0,0,0,1,2,Low,0
+E0000830,P00148,37,18-39,Male,Asian,Unknown,Commercial,General Medicine,Syncope,3.2,4,3,0,1,0,0,0,0,1,3,Moderate,0
+E0000831,P00148,37,18-39,Male,Asian,Unknown,Commercial,Cardiology,Chest pain,4.1,1,4,0,1,0,0,0,0,1,1,Low,0
+E0000832,P00148,38,18-39,Male,Asian,Unknown,Commercial,General Surgery,Postoperative wound issue,1.1,1,1,0,1,0,0,0,0,1,1,Low,0
+E0000845,P00150,73,65-79,Male,Black,Not Hispanic or Latino,Medicare,General Surgery,Biliary disease,4.1,5,3,1,0,0,0,0,1,0,5,Moderate,0
+E0000853,P00151,63,40-64,Female,White,Hispanic or Latino,Commercial,Endocrinology,Diabetes complication,4.1,5,3,0,1,0,0,0,0,1,3,Moderate,0
+E0000854,P00151,64,40-64,Female,White,Hispanic or Latino,Commercial,General Medicine,Electrolyte disorder,1.3,1,3,0,1,0,0,0,0,1,1,Low,0
+E0000862,P00152,72,65-79,Male,Black,Not Hispanic or Latino,Medicare,Endocrinology,Hypoglycemia,2.2,6,1,0,0,0,0,0,0,0,3,Moderate,0
+E0000863,P00152,73,65-79,Male,Black,Not Hispanic or Latino,Medicare,General Surgery,Biliary disease,2.2,3,1,0,0,0,0,0,0,0,3,Moderate,0
+E0000864,P00152,73,65-79,Male,Black,Not Hispanic or Latino,Medicare,General Medicine,Sepsis,2.1,1,4,0,0,0,0,0,0,0,1,Low,0
+E0000866,P00153,52,40-64,Female,Black,Not Hispanic or Latino,Medicare,Endocrinology,Hyperglycemia,1.4,1,1,0,1,0,0,1,0,1,3,Moderate,0
+E0000867,P00153,52,40-64,Female,Black,Not Hispanic or Latino,Medicare,Pulmonary,Asthma exacerbation,3.1,1,5,0,1,0,0,1,0,1,3,Moderate,0
+E0000873,P00154,46,40-64,Male,White,Not Hispanic or Latino,Medicaid,Cardiology,Atrial fibrillation,1.3,5,1,0,0,0,0,0,0,0,3,Moderate,0
+E0000880,P00155,71,65-79,Male,Other,Not Hispanic or Latino,Commercial,Cardiology,Chest pain,3.4,6,2,0,0,0,0,0,0,0,3,Moderate,0
+E0000881,P00155,72,65-79,Male,Other,Not Hispanic or Latino,Commercial,Endocrinology,Diabetes complication,4.3,3,1,0,0,0,0,0,0,0,3,Moderate,0
+E0000882,P00155,72,65-79,Male,Other,Not Hispanic or Latino,Commercial,Endocrinology,Diabetes complication,4.2,2,2,0,0,0,0,0,0,0,2,Low,0
+E0000890,P00156,71,65-79,Male,Black,Not Hispanic or Latino,Medicare,General Medicine,Electrolyte disorder,4.4,7,2,0,1,1,0,0,0,1,7,High,0
+E0000901,P00158,40,40-64,Male,Other,Hispanic or Latino,Medicaid,Pulmonary,COPD exacerbation,1.4,3,5,0,0,0,0,0,0,0,3,Moderate,0
+E0000906,P00159,71,65-79,Female,Other,Hispanic or Latino,Medicare,General Surgery,Postoperative wound issue,1.2,4,1,0,0,0,0,0,0,0,3,Moderate,0
+E0000907,P00159,71,65-79,Female,Other,Hispanic or Latino,Medicare,Pulmonary,Asthma exacerbation,2.2,1,2,0,0,0,0,0,0,0,1,Low,0
+E0000915,P00161,74,65-79,Male,Unknown,Not Hispanic or Latino,Commercial,General Surgery,Postoperative wound issue,3.4,2,1,1,0,0,0,0,0,0,4,Moderate,0
+E0000937,P00165,31,18-39,Male,White,Not Hispanic or Latino,Commercial,General Surgery,Biliary disease,2.1,6,2,1,0,0,0,0,0,0,5,Moderate,0
+E0000938,P00165,32,18-39,Male,White,Not Hispanic or Latino,Commercial,General Medicine,Sepsis,1.2,1,2,1,0,0,0,0,1,0,3,Moderate,0
+E0000943,P00166,47,40-64,Female,White,Not Hispanic or Latino,Medicare,General Medicine,Syncope,3.4,4,4,0,0,0,0,0,0,0,3,Moderate,0
+E0000944,P00166,47,40-64,Female,White,Not Hispanic or Latino,Medicare,General Medicine,Sepsis,3.4,2,2,0,0,0,0,0,0,0,2,Low,0
+E0000949,P00167,43,40-64,Male,White,Not Hispanic or Latino,Medicare,Endocrinology,Hypoglycemia,2.2,4,1,1,0,0,0,0,0,0,5,Moderate,0
+E0000950,P00167,44,40-64,Male,White,Not Hispanic or Latino,Medicare,Pulmonary,COPD exacerbation,4.4,2,2,1,0,0,0,0,1,0,4,Moderate,0
+E0000956,P00169,76,65-79,Female,Unknown,Hispanic or Latino,Medicare,General Surgery,Biliary disease,5.1,3,1,0,1,1,0,0,0,1,8,High,0
+E0000960,P00170,20,18-39,Male,White,Not Hispanic or Latino,Medicaid,General Medicine,Sepsis,2.2,2,1,0,0,0,0,0,0,0,2,Low,0
+E0000962,P00171,50,40-64,Male,Asian,Not Hispanic or Latino,Medicare,General Medicine,Sepsis,1.3,0,4,0,0,0,0,0,0,0,0,Low,0
+E0000973,P00173,43,40-64,Male,Asian,Not Hispanic or Latino,Medicare,Endocrinology,Hypoglycemia,3.2,3,3,0,1,0,0,0,0,1,3,Moderate,0
+E0000974,P00173,43,40-64,Male,Asian,Not Hispanic or Latino,Medicare,Pulmonary,COPD exacerbation,2.2,1,4,0,1,0,0,0,0,0,1,Low,0
+E0000981,P00174,60,40-64,Female,Black,Hispanic or Latino,Commercial,General Medicine,Cellulitis,2.1,6,2,0,0,0,0,0,0,0,3,Moderate,0
+E0000988,P00176,75,65-79,Female,Black,Not Hispanic or Latino,Medicaid,General Medicine,Cellulitis,4.1,1,1,0,1,0,0,0,0,1,1,Low,0
+E0000993,P00177,30,18-39,Male,White,Not Hispanic or Latino,Commercial,General Surgery,Abdominal pain,2.3,4,3,0,0,0,0,0,0,0,3,Moderate,0
+E0001001,P00178,19,18-39,Female,Unknown,Not Hispanic or Latino,Medicare,Cardiology,Chest pain,7.3,7,3,1,0,0,1,0,1,0,9,High,0
+E0001007,P00179,62,40-64,Male,White,Not Hispanic or Latino,Medicare,Cardiology,Chest pain,3.3,3,5,0,0,0,0,0,0,0,3,Moderate,0
+E0001008,P00179,62,40-64,Male,White,Not Hispanic or Latino,Medicare,Endocrinology,Hyperglycemia,1.2,4,2,0,0,0,0,0,0,0,3,Moderate,0
+E0001011,P00180,60,40-64,Female,Other,Not Hispanic or Latino,Medicare,General Surgery,Postoperative wound issue,1.4,2,2,0,0,0,0,0,0,0,2,Low,0
+E0001014,P00181,47,40-64,Female,White,Hispanic or Latino,Commercial,General Surgery,Abdominal pain,4.2,2,4,0,0,1,0,0,0,0,6,Moderate,0
+E0001019,P00182,81,80+,Male,White,Not Hispanic or Latino,Commercial,Endocrinology,Hyperglycemia,4.3,3,1,0,0,0,0,0,0,0,3,Moderate,0
+E0001020,P00182,81,80+,Male,White,Not Hispanic or Latino,Commercial,Cardiology,Chest pain,2.2,2,3,0,0,0,0,0,0,0,2,Low,1
+E0001021,P00182,81,80+,Male,White,Not Hispanic or Latino,Commercial,General Medicine,Syncope,4.2,3,2,0,0,0,0,0,0,0,3,Moderate,0
+E0001030,P00183,77,65-79,Male,Black,Not Hispanic or Latino,Medicare,Cardiology,Atrial fibrillation,5.4,7,3,1,1,0,1,0,1,1,9,High,0
+E0001031,P00183,78,65-79,Male,Black,Not Hispanic or Latino,Medicare,Cardiology,Atrial fibrillation,3.1,1,6,1,1,0,1,0,1,1,7,High,0
+E0001043,P00185,76,65-79,Male,Black,Not Hispanic or Latino,Medicare,General Surgery,Postoperative wound issue,4.2,5,4,1,1,0,0,0,0,1,5,Moderate,0
+E0001047,P00186,78,65-79,Male,White,Not Hispanic or Latino,Medicaid,General Medicine,Syncope,4.3,2,1,0,0,0,0,0,0,0,2,Low,0
+E0001048,P00186,78,65-79,Male,White,Not Hispanic or Latino,Medicaid,Cardiology,Atrial fibrillation,5.2,3,1,0,0,0,0,0,0,0,4,Moderate,0
+E0001054,P00187,81,80+,Male,White,Not Hispanic or Latino,Self-pay,General Surgery,Abdominal pain,6.2,2,3,0,0,1,0,0,0,0,7,High,1
+E0001055,P00187,81,80+,Male,White,Not Hispanic or Latino,Self-pay,Pulmonary,Pneumonia,3.2,3,1,0,0,1,0,0,0,0,7,High,1
+E0001056,P00187,81,80+,Male,White,Not Hispanic or Latino,Self-pay,Pulmonary,Asthma exacerbation,2.2,4,3,0,0,1,0,0,0,0,7,High,0
+E0001064,P00189,40,40-64,Male,White,Not Hispanic or Latino,Self-pay,General Surgery,Biliary disease,2.2,4,3,0,0,0,0,0,0,0,3,Moderate,0
+E0001065,P00189,41,40-64,Male,White,Not Hispanic or Latino,Self-pay,General Surgery,Abdominal pain,2.4,1,3,0,0,0,0,0,0,0,1,Low,0
+E0001066,P00189,41,40-64,Male,White,Not Hispanic or Latino,Self-pay,Endocrinology,Hypoglycemia,3.2,1,5,0,0,0,0,0,0,0,1,Low,0
+E0001073,P00190,61,40-64,Male,White,Not Hispanic or Latino,Medicare,General Medicine,Sepsis,1.2,5,1,0,1,0,0,0,0,1,3,Moderate,0
+E0001074,P00190,61,40-64,Male,White,Not Hispanic or Latino,Medicare,General Medicine,Sepsis,2.1,5,6,0,1,0,0,0,0,1,4,Moderate,0
+E0001082,P00192,54,40-64,Male,White,Not Hispanic or Latino,Medicare,General Medicine,Electrolyte disorder,2.4,4,2,0,0,0,0,0,0,0,3,Moderate,0
+E0001083,P00192,54,40-64,Male,White,Not Hispanic or Latino,Medicare,Pulmonary,Asthma exacerbation,4.3,3,3,0,0,0,0,0,0,0,3,Moderate,0
+E0001085,P00193,21,18-39,Female,White,Not Hispanic or Latino,Medicare,Pulmonary,Pneumonia,2.4,1,1,0,0,0,0,0,0,0,1,Low,0
+E0001089,P00194,52,40-64,Male,White,Not Hispanic or Latino,Commercial,Cardiology,Heart failure exacerbation,3.3,3,1,0,1,0,0,0,0,1,3,Moderate,0
+E0001092,P00195,31,18-39,Female,White,Hispanic or Latino,Medicare,General Surgery,Abdominal pain,2.3,2,1,0,0,0,0,0,0,0,2,Low,0
+E0001098,P00196,29,18-39,Male,Other,Not Hispanic or Latino,Medicare,General Medicine,Cellulitis,4.1,5,2,0,0,0,0,0,0,0,3,Moderate,0
+E0001101,P00197,20,18-39,Male,Asian,Not Hispanic or Latino,Commercial,Cardiology,Atrial fibrillation,2.2,2,1,0,0,0,0,0,0,0,2,Low,0
+E0001102,P00197,20,18-39,Male,Asian,Not Hispanic or Latino,Commercial,Cardiology,Atrial fibrillation,4.1,1,1,0,0,0,0,0,0,0,1,Low,0
+E0001103,P00197,20,18-39,Male,Asian,Not Hispanic or Latino,Commercial,Endocrinology,Hyperglycemia,3.3,1,2,0,0,0,0,0,0,0,1,Low,0
+E0001115,P00199,79,65-79,Female,Other,Not Hispanic or Latino,Medicare,Cardiology,Heart failure exacerbation,2.2,6,3,0,0,1,0,0,0,0,7,High,1
+E0001116,P00199,79,65-79,Female,Other,Not Hispanic or Latino,Medicare,Endocrinology,Diabetes complication,3.3,6,3,0,0,1,0,0,0,0,7,High,0
+E0001117,P00199,80,80+,Female,Other,Not Hispanic or Latino,Medicare,Cardiology,Heart failure exacerbation,2.2,3,4,0,0,1,0,0,0,0,7,High,0
+E0001121,P00200,51,40-64,Female,White,Unknown,Medicaid,General Medicine,Syncope,3.1,3,3,0,1,0,0,0,0,1,3,Moderate,0
+E0001122,P00200,52,40-64,Female,White,Unknown,Medicaid,General Medicine,Electrolyte disorder,1.2,1,4,0,1,0,0,0,0,1,1,Low,0
+E0001131,P00202,74,65-79,Male,Black,Not Hispanic or Latino,Medicare,Endocrinology,Hyperglycemia,2.4,3,4,0,1,0,0,0,0,1,3,Moderate,0
+E0001140,P00204,22,18-39,Male,White,Not Hispanic or Latino,Medicaid,Cardiology,Chest pain,4.2,2,3,0,0,0,0,0,0,0,2,Low,0
+E0001141,P00204,22,18-39,Male,White,Not Hispanic or Latino,Medicaid,Endocrinology,Diabetes complication,4.3,2,2,0,0,0,0,0,0,0,2,Low,0
+E0001147,P00205,85,80+,Female,White,Not Hispanic or Latino,Medicaid,General Surgery,Biliary disease,2.2,5,2,1,0,0,0,0,0,0,5,Moderate,0
+E0001148,P00205,85,80+,Female,White,Not Hispanic or Latino,Medicaid,General Medicine,Cellulitis,4.1,3,4,1,0,0,0,0,1,0,5,Moderate,0
+E0001153,P00206,79,65-79,Male,White,Not Hispanic or Latino,Medicaid,General Surgery,Biliary disease,3.4,3,4,0,0,0,0,0,0,0,3,Moderate,0
+E0001154,P00206,79,65-79,Male,White,Not Hispanic or Latino,Medicaid,Endocrinology,Diabetes complication,1.2,3,2,0,0,0,0,0,0,0,3,Moderate,0
+E0001157,P00207,49,40-64,Male,White,Hispanic or Latino,Medicare,Endocrinology,Diabetes complication,3.3,1,1,0,1,0,0,0,0,1,1,Low,0
+E0001160,P00208,57,40-64,Female,Other,Not Hispanic or Latino,Commercial,General Medicine,Sepsis,2.1,2,1,0,0,0,0,0,0,0,2,Low,0
+E0001161,P00208,58,40-64,Female,Other,Not Hispanic or Latino,Commercial,Cardiology,Heart failure exacerbation,1.1,1,1,0,0,0,0,0,0,0,1,Low,0
+E0001166,P00209,58,40-64,Female,Black,Unknown,Commercial,Endocrinology,Hypoglycemia,2.3,3,6,0,1,0,0,1,0,0,6,Moderate,0
+E0001167,P00209,59,40-64,Female,Black,Unknown,Commercial,Cardiology,Atrial fibrillation,4.1,3,4,0,1,0,0,1,0,1,5,Moderate,0
+E0001175,P00211,22,18-39,Male,White,Not Hispanic or Latino,Medicare,Cardiology,Heart failure exacerbation,4.2,2,2,0,0,0,0,0,0,0,2,Low,0
+E0001184,P00212,88,80+,Female,Other,Not Hispanic or Latino,Commercial,Cardiology,Heart failure exacerbation,5.4,7,2,0,1,1,0,0,0,0,8,High,0
+E0001198,P00215,67,65-79,Male,Unknown,Unknown,Medicare,General Medicine,Electrolyte disorder,3.1,6,1,0,0,0,0,0,0,0,3,Moderate,0
+E0001199,P00215,67,65-79,Male,Unknown,Unknown,Medicare,General Medicine,Syncope,3.3,1,1,0,0,0,0,0,0,0,1,Low,0
+E0001205,P00216,84,80+,Male,White,Not Hispanic or Latino,Commercial,General Surgery,Abdominal pain,3.2,5,3,0,1,0,0,0,0,1,3,Moderate,0
+E0001211,P00217,73,65-79,Female,Asian,Not Hispanic or Latino,Commercial,General Surgery,Postoperative wound issue,5.4,5,5,1,1,0,1,0,1,0,9,High,0
+E0001219,P00218,41,40-64,Female,Unknown,Unknown,Medicare,General Surgery,Postoperative wound issue,3.2,6,2,0,0,1,0,0,0,0,7,High,0
+E0001226,P00219,82,80+,Female,White,Not Hispanic or Latino,Commercial,Cardiology,Heart failure exacerbation,1.2,6,4,0,1,0,0,0,0,1,3,Moderate,0
+E0001228,P00219,82,80+,Female,White,Not Hispanic or Latino,Commercial,Cardiology,Atrial fibrillation,2.4,3,2,0,1,0,0,0,0,1,3,Moderate,0
+E0001233,P00220,27,18-39,Female,Asian,Not Hispanic or Latino,Self-pay,General Medicine,Cellulitis,5.4,4,2,0,0,0,0,0,0,0,4,Moderate,0
+E0001236,P00221,83,80+,Male,Black,Not Hispanic or Latino,Medicare,Pulmonary,COPD exacerbation,5.2,2,2,0,0,0,1,0,0,0,6,Moderate,0
+E0001241,P00222,79,65-79,Female,White,Unknown,Commercial,Cardiology,Chest pain,3.2,3,4,0,0,0,0,0,0,0,3,Moderate,0
+E0001242,P00222,79,65-79,Female,White,Unknown,Commercial,General Medicine,Syncope,1.4,4,1,0,0,0,0,0,0,0,3,Moderate,0
+E0001255,P00224,40,40-64,Female,White,Not Hispanic or Latino,Medicare,Cardiology,Heart failure exacerbation,4.1,4,3,0,1,0,0,0,0,1,3,Moderate,0
+E0001256,P00224,40,40-64,Female,White,Not Hispanic or Latino,Medicare,General Medicine,Cellulitis,3.1,1,5,0,1,0,0,0,0,0,1,Low,0
+E0001260,P00225,33,18-39,Female,White,Not Hispanic or Latino,Medicare,Pulmonary,Asthma exacerbation,2.4,3,2,0,0,0,0,0,0,0,3,Moderate,0
+E0001266,P00226,26,18-39,Male,Other,Not Hispanic or Latino,Commercial,Pulmonary,COPD exacerbation,1.2,3,1,1,0,0,0,0,1,0,5,Moderate,1
+E0001267,P00226,26,18-39,Male,Other,Not Hispanic or Latino,Commercial,Endocrinology,Diabetes complication,1.3,4,3,1,0,0,0,0,0,0,5,Moderate,0
+E0001268,P00226,27,18-39,Male,Other,Not Hispanic or Latino,Commercial,General Medicine,Cellulitis,2.1,4,3,1,0,0,0,0,1,0,5,Moderate,0
+E0001272,P00227,86,80+,Female,Unknown,Not Hispanic or Latino,Medicaid,Pulmonary,Asthma exacerbation,3.3,3,2,0,1,0,0,0,0,1,3,Moderate,0
+E0001278,P00228,82,80+,Female,White,Not Hispanic or Latino,Commercial,General Surgery,Biliary disease,3.2,3,2,1,0,0,0,0,1,0,5,Moderate,0
+E0001281,P00229,49,40-64,Male,Other,Hispanic or Latino,Medicaid,General Medicine,Syncope,1.1,2,4,0,1,0,0,0,0,1,2,Low,0
+E0001282,P00229,49,40-64,Male,Other,Hispanic or Latino,Medicaid,General Surgery,Biliary disease,3.2,3,1,0,1,0,0,0,0,1,3,Moderate,0
+E0001286,P00230,50,40-64,Female,Unknown,Not Hispanic or Latino,Commercial,General Medicine,Sepsis,5.2,3,2,0,0,0,0,0,0,0,4,Moderate,1
+E0001287,P00230,50,40-64,Female,Unknown,Not Hispanic or Latino,Commercial,Cardiology,Chest pain,1.3,4,4,0,0,0,0,0,0,0,3,Moderate,0
+E0001300,P00234,82,80+,Male,Unknown,Not Hispanic or Latino,Medicare,Pulmonary,Asthma exacerbation,2.4,4,2,0,1,0,0,0,0,1,3,Moderate,0
+E0001302,P00235,75,65-79,Male,White,Not Hispanic or Latino,Self-pay,General Medicine,Syncope,3.1,1,1,0,0,0,0,0,0,0,1,Low,0
+E0001304,P00236,69,65-79,Female,Asian,Not Hispanic or Latino,Medicare,Pulmonary,COPD exacerbation,3.1,0,1,0,0,0,0,0,0,0,0,Low,0
+E0001305,P00236,69,65-79,Female,Asian,Not Hispanic or Latino,Medicare,General Medicine,Cellulitis,2.1,1,1,0,0,0,0,0,0,0,1,Low,0
+E0001312,P00237,73,65-79,Female,Asian,Unknown,Commercial,Cardiology,Atrial fibrillation,1.4,2,2,0,1,0,0,0,0,1,2,Low,0
+E0001318,P00238,53,40-64,Female,Unknown,Hispanic or Latino,Medicaid,Cardiology,Atrial fibrillation,3.1,1,1,0,1,0,0,0,0,1,1,Low,0
+E0001327,P00239,39,18-39,Male,White,Not Hispanic or Latino,Medicaid,General Medicine,Sepsis,3.2,6,1,0,1,0,0,1,0,1,5,Moderate,0
+E0001335,P00241,52,40-64,Male,Black,Not Hispanic or Latino,Commercial,General Medicine,Electrolyte disorder,4.3,3,1,0,0,1,0,0,0,0,7,High,0
+E0001336,P00241,52,40-64,Male,Black,Not Hispanic or Latino,Commercial,Cardiology,Heart failure exacerbation,1.4,4,3,0,0,1,0,0,0,0,7,High,0
+E0001347,P00244,61,40-64,Male,White,Not Hispanic or Latino,Medicaid,Cardiology,Atrial fibrillation,3.2,3,2,0,1,0,0,0,0,1,3,Moderate,0
+E0001351,P00245,52,40-64,Male,White,Unknown,Commercial,General Medicine,Cellulitis,3.3,3,2,0,1,0,0,0,0,1,3,Moderate,0
+E0001355,P00246,40,40-64,Male,White,Not Hispanic or Latino,Medicare,Endocrinology,Hyperglycemia,1.2,3,6,0,0,0,0,0,0,0,4,Moderate,0
+E0001356,P00246,40,40-64,Male,White,Not Hispanic or Latino,Medicare,General Medicine,Electrolyte disorder,6.4,1,4,0,0,0,0,0,0,0,2,Low,0
+E0001359,P00247,27,18-39,Male,Black,Not Hispanic or Latino,Commercial,Endocrinology,Hypoglycemia,3.2,2,1,0,0,0,0,1,0,0,4,Moderate,0
+E0001360,P00247,28,18-39,Male,Black,Not Hispanic or Latino,Commercial,Cardiology,Chest pain,3.4,2,4,0,0,0,0,1,0,0,4,Moderate,0
+E0001375,P00250,53,40-64,Female,White,Not Hispanic or Latino,Commercial,Pulmonary,Pneumonia,2.2,6,1,0,0,0,0,0,0,0,3,Moderate,0
+E0001382,P00251,43,40-64,Male,Other,Not Hispanic or Latino,Medicare,General Medicine,Sepsis,4.1,5,2,0,0,0,1,0,0,0,6,Moderate,0
+E0001395,P00254,52,40-64,Male,White,Hispanic or Latino,Medicare,General Medicine,Electrolyte disorder,5.2,4,2,0,0,0,0,0,0,0,4,Moderate,0
+E0001403,P00255,51,40-64,Male,Other,Hispanic or Latino,Commercial,General Medicine,Electrolyte disorder,2.2,5,1,0,0,0,0,0,0,0,3,Moderate,0
+E0001407,P00256,18,18-39,Female,Asian,Not Hispanic or Latino,Commercial,Endocrinology,Hypoglycemia,3.2,3,2,0,0,0,0,0,0,0,3,Moderate,0
+E0001414,P00257,40,40-64,Female,Black,Not Hispanic or Latino,Commercial,Cardiology,Chest pain,3.3,6,3,1,1,0,0,0,1,1,5,Moderate,0
+E0001417,P00258,82,80+,Male,Asian,Not Hispanic or Latino,Medicare,General Medicine,Cellulitis,3.2,2,3,0,0,0,0,0,0,0,2,Low,0
+E0001418,P00258,82,80+,Male,Asian,Not Hispanic or Latino,Medicare,Pulmonary,Pneumonia,3.1,2,3,0,0,0,0,0,0,0,2,Low,0
+E0001423,P00259,43,40-64,Male,Asian,Not Hispanic or Latino,Medicare,Cardiology,Atrial fibrillation,3.4,4,2,0,1,0,0,0,0,1,3,Moderate,0
+E0001429,P00260,54,40-64,Male,Other,Not Hispanic or Latino,Self-pay,General Surgery,Postoperative wound issue,4.2,5,4,0,1,0,0,1,0,1,5,Moderate,0
+E0001430,P00260,55,40-64,Male,Other,Not Hispanic or Latino,Self-pay,Pulmonary,Pneumonia,2.1,3,6,0,1,0,0,1,0,0,6,Moderate,0
+E0001436,P00261,78,65-79,Female,Black,Not Hispanic or Latino,Medicaid,Cardiology,Atrial fibrillation,4.2,5,3,0,1,0,0,0,0,1,3,Moderate,0
+E0001443,P00262,87,80+,Male,Asian,Unknown,Medicare,General Surgery,Postoperative wound issue,4.3,5,5,0,1,0,1,0,0,1,6,Moderate,0
+E0001446,P00263,57,40-64,Male,Unknown,Hispanic or Latino,Medicare,General Surgery,Postoperative wound issue,2.1,2,2,0,0,0,0,0,0,0,2,Low,1
+E0001447,P00263,57,40-64,Male,Unknown,Hispanic or Latino,Medicare,Pulmonary,Asthma exacerbation,2.4,3,1,0,0,0,0,0,0,0,3,Moderate,0
+E0001453,P00265,49,40-64,Male,Black,Unknown,Medicare,Cardiology,Atrial fibrillation,3.3,2,2,0,1,0,0,0,0,1,2,Low,0
+E0001454,P00265,49,40-64,Male,Black,Unknown,Medicare,General Medicine,Syncope,3.3,2,1,0,1,0,0,0,0,1,2,Low,0
+E0001461,P00266,57,40-64,Male,Asian,Not Hispanic or Latino,Commercial,General Medicine,Cellulitis,4.2,5,3,1,1,0,0,0,1,1,5,Moderate,0
+E0001463,P00267,78,65-79,Female,White,Hispanic or Latino,Medicare,General Medicine,Cellulitis,3.4,1,1,0,0,0,0,0,0,0,1,Low,0
+E0001468,P00268,74,65-79,Female,White,Not Hispanic or Latino,Medicare,General Surgery,Postoperative wound issue,5.4,4,3,0,0,1,1,0,0,0,11,High,0
+E0001476,P00270,37,18-39,Female,White,Hispanic or Latino,Medicare,Pulmonary,Pneumonia,2.1,2,4,1,1,0,0,0,1,1,4,Moderate,0
+E0001479,P00271,68,65-79,Male,Asian,Unknown,Medicare,General Medicine,Sepsis,1.4,1,1,0,0,0,0,0,0,0,1,Low,0
+E0001486,P00272,39,18-39,Female,Black,Not Hispanic or Latino,Medicare,Cardiology,Chest pain,1.1,4,1,0,0,0,0,0,0,0,3,Moderate,0
+E0001493,P00273,43,40-64,Male,White,Hispanic or Latino,Commercial,Cardiology,Atrial fibrillation,3.4,3,2,0,0,0,0,0,0,0,3,Moderate,0
+E0001497,P00274,72,65-79,Male,White,Not Hispanic or Latino,Medicare,General Surgery,Postoperative wound issue,6.2,2,5,0,1,1,0,0,0,1,7,High,1
+E0001498,P00274,72,65-79,Male,White,Not Hispanic or Latino,Medicare,General Surgery,Biliary disease,4.3,3,6,0,1,1,0,0,0,0,8,High,0
+E0001499,P00274,73,65-79,Male,White,Not Hispanic or Latino,Medicare,General Medicine,Sepsis,7.1,4,3,0,1,1,0,0,0,1,8,High,0
+E0001506,P00275,45,40-64,Male,White,Not Hispanic or Latino,Commercial,General Medicine,Syncope,2.3,6,3,0,0,0,0,0,0,0,3,Moderate,0
+E0001510,P00276,65,65-79,Female,White,Not Hispanic or Latino,Commercial,Pulmonary,Asthma exacerbation,1.1,2,1,0,0,0,0,0,0,0,2,Low,0
+E0001516,P00277,67,65-79,Female,White,Not Hispanic or Latino,Commercial,General Surgery,Biliary disease,1.4,5,2,0,1,0,0,0,0,1,3,Moderate,0
+E0001522,P00278,82,80+,Female,Black,Not Hispanic or Latino,Medicare,General Medicine,Cellulitis,1.3,3,2,0,1,0,0,0,0,1,3,Moderate,0
+E0001530,P00279,69,65-79,Male,Unknown,Hispanic or Latino,Commercial,Pulmonary,COPD exacerbation,4.2,7,3,1,0,1,0,1,1,0,11,High,0
+E0001531,P00279,69,65-79,Male,Unknown,Hispanic or Latino,Commercial,Pulmonary,Pneumonia,4.2,5,5,1,0,1,0,1,1,0,11,High,0
+E0001538,P00280,57,40-64,Male,White,Hispanic or Latino,Medicare,Pulmonary,Pneumonia,1.4,5,3,0,0,0,0,0,0,0,3,Moderate,0
+E0001539,P00280,57,40-64,Male,White,Hispanic or Latino,Medicare,Endocrinology,Hyperglycemia,3.1,3,1,0,0,0,0,0,0,0,3,Moderate,0
+E0001543,P00281,88,80+,Male,Black,Not Hispanic or Latino,Commercial,General Medicine,Electrolyte disorder,3.3,3,4,0,0,0,0,0,0,0,3,Moderate,0
+E0001550,P00282,87,80+,Female,Unknown,Not Hispanic or Latino,Medicaid,General Medicine,Sepsis,3.4,6,2,0,1,1,0,0,0,1,7,High,0
+E0001554,P00283,60,40-64,Female,White,Not Hispanic or Latino,Commercial,Cardiology,Atrial fibrillation,2.1,3,3,0,1,0,0,0,0,0,3,Moderate,0
+E0001557,P00284,41,40-64,Female,Asian,Not Hispanic or Latino,Medicare,General Medicine,Cellulitis,2.4,2,1,0,0,0,0,0,0,0,2,Low,0
+E0001563,P00285,29,18-39,Female,Black,Not Hispanic or Latino,Medicare,General Medicine,Cellulitis,3.3,5,3,0,0,0,0,0,0,0,3,Moderate,0
+E0001569,P00286,31,18-39,Male,White,Not Hispanic or Latino,Medicare,Cardiology,Chest pain,2.2,5,1,0,0,0,0,0,0,0,3,Moderate,0
+E0001572,P00287,56,40-64,Female,White,Not Hispanic or Latino,Medicare,Cardiology,Chest pain,4.1,2,4,0,1,0,0,0,0,1,2,Low,0
+E0001580,P00288,29,18-39,Male,White,Hispanic or Latino,Medicaid,General Surgery,Postoperative wound issue,3.2,7,4,0,0,0,0,0,0,0,3,Moderate,0
+E0001584,P00289,57,40-64,Male,Black,Hispanic or Latino,Medicare,General Surgery,Abdominal pain,1.2,3,1,0,0,0,0,0,0,0,3,Moderate,0
+E0001587,P00290,26,18-39,Male,Other,Not Hispanic or Latino,Medicare,General Medicine,Sepsis,2.4,2,6,0,0,0,0,1,0,0,5,Moderate,0
+E0001588,P00290,26,18-39,Male,Other,Not Hispanic or Latino,Medicare,General Medicine,Electrolyte disorder,5.2,3,5,0,0,0,0,1,0,0,6,Moderate,0
+E0001607,P00293,47,40-64,Female,Unknown,Not Hispanic or Latino,Medicare,Pulmonary,Asthma exacerbation,5.3,1,1,1,0,0,0,0,1,0,4,Moderate,0
+E0001608,P00293,47,40-64,Female,Unknown,Not Hispanic or Latino,Medicare,Cardiology,Chest pain,3.2,1,3,1,0,0,0,0,1,0,3,Moderate,0
+E0001614,P00294,23,18-39,Male,White,Not Hispanic or Latino,Commercial,General Medicine,Cellulitis,3.4,5,3,0,0,0,0,0,0,0,3,Moderate,0
+E0001621,P00295,63,40-64,Male,White,Not Hispanic or Latino,Medicare,General Medicine,Cellulitis,1.3,6,1,0,0,0,0,0,0,0,3,Moderate,0
+E0001627,P00296,33,18-39,Female,White,Not Hispanic or Latino,Medicaid,Pulmonary,Pneumonia,4.1,4,2,0,0,0,0,0,0,0,3,Moderate,0
+E0001632,P00297,37,18-39,Male,Black,Not Hispanic or Latino,Commercial,Endocrinology,Hypoglycemia,3.1,3,1,0,1,0,0,0,0,1,3,Moderate,0
+E0001637,P00298,85,80+,Female,Black,Not Hispanic or Latino,Medicare,Cardiology,Heart failure exacerbation,3.3,4,2,0,0,0,0,0,0,0,3,Moderate,0
+E0001646,P00300,77,65-79,Female,White,Not Hispanic or Latino,Medicare,Endocrinology,Hyperglycemia,3.4,2,3,0,1,0,0,0,0,1,2,Low,0
+E0001650,P00301,26,18-39,Female,White,Not Hispanic or Latino,Commercial,Cardiology,Heart failure exacerbation,4.4,2,2,0,0,0,0,0,0,0,2,Low,1
+E0001651,P00301,26,18-39,Female,White,Not Hispanic or Latino,Commercial,General Medicine,Electrolyte disorder,3.2,3,2,0,0,0,0,0,0,0,3,Moderate,0
+E0001656,P00302,21,18-39,Male,White,Not Hispanic or Latino,Medicare,General Surgery,Postoperative wound issue,4.3,4,2,0,0,1,0,1,0,0,9,High,0
+E0001657,P00302,21,18-39,Male,White,Not Hispanic or Latino,Medicare,Pulmonary,Asthma exacerbation,5.2,1,4,0,0,1,0,1,0,0,8,High,0
+E0001662,P00303,82,80+,Female,White,Not Hispanic or Latino,Medicare,Pulmonary,Pneumonia,1.3,2,3,0,0,0,0,0,0,0,2,Low,0
+E0001663,P00303,83,80+,Female,White,Not Hispanic or Latino,Medicare,General Medicine,Cellulitis,1.4,2,2,0,0,0,0,0,0,0,2,Low,0
+E0001671,P00304,69,65-79,Male,Black,Not Hispanic or Latino,Medicaid,General Medicine,Sepsis,3.1,5,1,0,1,0,0,0,0,1,3,Moderate,0
+E0001672,P00304,69,65-79,Male,Black,Not Hispanic or Latino,Medicaid,Pulmonary,Pneumonia,4.1,1,2,0,1,0,0,0,0,1,1,Low,1
+E0001673,P00304,70,65-79,Male,Black,Not Hispanic or Latino,Medicaid,Pulmonary,COPD exacerbation,3.2,2,3,0,1,0,0,0,0,1,2,Low,0
+E0001677,P00305,47,40-64,Male,Black,Not Hispanic or Latino,Medicaid,General Medicine,Electrolyte disorder,2.2,3,1,0,0,0,0,0,0,0,3,Moderate,0
+E0001681,P00306,33,18-39,Female,White,Not Hispanic or Latino,Commercial,General Medicine,Cellulitis,4.1,1,4,0,0,0,0,0,0,0,1,Low,0
+E0001686,P00307,31,18-39,Female,White,Not Hispanic or Latino,Commercial,General Surgery,Biliary disease,3.1,2,1,0,0,0,0,0,0,0,2,Low,0
+E0001691,P00308,41,40-64,Female,Other,Not Hispanic or Latino,Medicare,Pulmonary,Asthma exacerbation,2.4,4,1,0,0,0,0,0,0,0,3,Moderate,0
+E0001692,P00308,41,40-64,Female,Other,Not Hispanic or Latino,Medicare,Pulmonary,Pneumonia,5.3,2,5,0,0,0,0,0,0,0,3,Moderate,0
+E0001701,P00309,49,40-64,Male,White,Not Hispanic or Latino,Medicare,General Medicine,Sepsis,4.1,8,1,0,0,0,0,1,0,0,5,Moderate,0
+E0001704,P00310,66,65-79,Male,White,Not Hispanic or Latino,Medicaid,General Medicine,Syncope,3.4,2,2,0,1,0,0,0,0,1,2,Low,0
+E0001710,P00311,53,40-64,Female,Black,Not Hispanic or Latino,Commercial,General Medicine,Cellulitis,3.4,2,1,0,0,0,0,0,0,0,2,Low,0
+E0001717,P00312,33,18-39,Male,White,Not Hispanic or Latino,Commercial,General Medicine,Cellulitis,3.3,6,3,1,0,0,0,0,1,0,5,Moderate,0
+E0001721,P00313,54,40-64,Male,Other,Not Hispanic or Latino,Medicaid,Cardiology,Atrial fibrillation,1.4,3,2,0,0,0,0,0,0,0,3,Moderate,0
+E0001722,P00313,54,40-64,Male,Other,Not Hispanic or Latino,Medicaid,Cardiology,Atrial fibrillation,5.2,3,4,0,0,0,0,0,0,0,4,Moderate,0
+E0001723,P00313,54,40-64,Male,Other,Not Hispanic or Latino,Medicaid,General Surgery,Postoperative wound issue,1.1,2,1,0,0,0,0,0,0,0,2,Low,0
+E0001728,P00314,61,40-64,Female,White,Not Hispanic or Latino,Self-pay,Cardiology,Heart failure exacerbation,3.3,4,1,0,0,0,0,0,0,0,3,Moderate,0
+E0001734,P00315,74,65-79,Female,Unknown,Not Hispanic or Latino,Medicare,General Medicine,Cellulitis,5.3,4,6,1,1,0,0,0,1,1,7,High,0
+E0001746,P00317,76,65-79,Male,White,Hispanic or Latino,Medicare,Cardiology,Atrial fibrillation,2.2,3,4,1,1,0,0,0,0,1,5,Moderate,0
+E0001751,P00318,45,40-64,Female,Black,Not Hispanic or Latino,Medicaid,Cardiology,Heart failure exacerbation,1.3,4,4,0,1,0,0,0,0,1,3,Moderate,1
+E0001752,P00318,45,40-64,Female,Black,Not Hispanic or Latino,Medicaid,General Medicine,Syncope,2.1,5,1,0,1,0,0,0,0,1,3,Moderate,0
+E0001757,P00319,35,18-39,Male,White,Not Hispanic or Latino,Medicare,Cardiology,Chest pain,4.2,4,5,1,0,0,0,0,0,0,5,Moderate,0
+E0001758,P00319,36,18-39,Male,White,Not Hispanic or Latino,Medicare,Endocrinology,Hyperglycemia,1.1,3,1,1,0,0,0,0,1,0,5,Moderate,0
+E0001764,P00320,32,18-39,Female,White,Not Hispanic or Latino,Medicare,Pulmonary,COPD exacerbation,1.1,5,1,0,0,0,0,0,0,0,3,Moderate,1
+E0001765,P00320,32,18-39,Female,White,Not Hispanic or Latino,Medicare,Cardiology,Atrial fibrillation,2.2,5,1,0,0,0,0,0,0,0,3,Moderate,0
+E0001773,P00321,18,18-39,Female,Black,Unknown,Commercial,General Medicine,Electrolyte disorder,2.4,6,3,1,0,0,0,0,1,0,5,Moderate,0
+E0001774,P00321,19,18-39,Female,Black,Unknown,Commercial,Cardiology,Heart failure exacerbation,5.4,2,4,1,0,0,0,0,1,0,5,Moderate,0
+E0001781,P00322,21,18-39,Female,Unknown,Not Hispanic or Latino,Medicaid,Pulmonary,COPD exacerbation,2.4,6,2,0,0,0,0,0,0,0,3,Moderate,0
+E0001782,P00322,21,18-39,Female,Unknown,Not Hispanic or Latino,Medicaid,General Medicine,Electrolyte disorder,4.2,1,3,0,0,0,0,0,0,0,1,Low,0
+E0001790,P00324,81,80+,Male,Unknown,Not Hispanic or Latino,Commercial,General Medicine,Syncope,2.4,1,1,0,1,0,0,0,0,1,1,Low,0
+E0001795,P00325,84,80+,Female,Black,Unknown,Medicare,Cardiology,Chest pain,3.4,3,1,0,1,0,0,0,0,1,3,Moderate,0
+E0001796,P00325,84,80+,Female,Black,Unknown,Medicare,General Medicine,Electrolyte disorder,2.4,1,3,0,1,0,0,0,0,1,1,Low,0
+E0001803,P00326,65,65-79,Male,Other,Hispanic or Latino,Commercial,Cardiology,Chest pain,4.4,6,2,0,0,1,0,0,0,0,7,High,0
+E0001809,P00327,24,18-39,Female,Unknown,Unknown,Self-pay,General Surgery,Abdominal pain,2.3,5,2,0,0,0,0,0,0,0,3,Moderate,0
+E0001810,P00327,24,18-39,Female,Unknown,Unknown,Self-pay,Pulmonary,Pneumonia,4.1,3,1,0,0,0,0,0,0,0,3,Moderate,0
+E0001813,P00328,66,65-79,Male,Asian,Not Hispanic or Latino,Medicaid,General Medicine,Syncope,3.1,2,3,0,1,0,0,0,0,1,2,Low,0
+E0001822,P00330,58,40-64,Female,Black,Not Hispanic or Latino,Commercial,General Medicine,Electrolyte disorder,2.2,2,2,0,0,0,0,0,0,0,2,Low,0
+E0001828,P00331,68,65-79,Male,White,Not Hispanic or Latino,Commercial,General Surgery,Abdominal pain,3.3,4,1,0,0,0,0,0,0,0,3,Moderate,0
+E0001838,P00332,66,65-79,Female,White,Unknown,Commercial,Pulmonary,COPD exacerbation,1.2,8,5,0,0,0,1,0,0,0,6,Moderate,0
+E0001846,P00333,66,65-79,Male,White,Unknown,Medicare,General Surgery,Biliary disease,1.3,5,4,0,1,0,0,0,0,1,3,Moderate,0
+E0001847,P00333,66,65-79,Male,White,Unknown,Medicare,General Medicine,Syncope,2.2,2,2,0,1,0,0,0,0,0,2,Low,0
+E0001855,P00335,49,40-64,Male,White,Not Hispanic or Latino,Medicare,Endocrinology,Hypoglycemia,1.2,3,1,0,0,0,0,0,0,0,3,Moderate,0
+E0001857,P00336,80,80+,Female,White,Hispanic or Latino,Medicaid,General Medicine,Sepsis,1.4,1,3,0,0,0,0,0,0,0,1,Low,0
+E0001858,P00336,81,80+,Female,White,Hispanic or Latino,Medicaid,General Medicine,Sepsis,2.1,1,2,0,0,0,0,0,0,0,1,Low,0
+E0001860,P00337,84,80+,Male,Asian,Not Hispanic or Latino,Commercial,Pulmonary,COPD exacerbation,4.2,1,6,1,0,0,1,0,1,0,7,High,0
+E0001864,P00338,18,18-39,Male,White,Not Hispanic or Latino,Medicare,General Medicine,Cellulitis,3.3,3,1,0,0,0,0,0,0,0,3,Moderate,0
+E0001865,P00338,19,18-39,Male,White,Not Hispanic or Latino,Medicare,Cardiology,Atrial fibrillation,1.2,1,1,0,0,0,0,0,0,0,1,Low,0
+E0001872,P00339,33,18-39,Male,Other,Not Hispanic or Latino,Medicare,General Surgery,Postoperative wound issue,5.1,6,4,0,0,1,0,0,0,0,8,High,0
+E0001873,P00339,34,18-39,Male,Other,Not Hispanic or Latino,Medicare,Endocrinology,Hyperglycemia,5.1,2,3,0,0,1,0,0,0,0,7,High,0
+E0001877,P00340,53,40-64,Female,Black,Not Hispanic or Latino,Commercial,Pulmonary,Pneumonia,2.3,3,1,0,0,0,0,0,0,0,3,Moderate,0
+E0001883,P00343,28,18-39,Female,White,Not Hispanic or Latino,Commercial,Pulmonary,Asthma exacerbation,5.4,1,1,1,1,0,0,0,1,1,4,Moderate,0
+E0001889,P00344,30,18-39,Female,White,Hispanic or Latino,Commercial,General Medicine,Cellulitis,2.3,4,2,0,1,0,0,0,0,1,3,Moderate,0
+E0001896,P00345,77,65-79,Male,Black,Unknown,Medicaid,General Medicine,Cellulitis,2.3,5,3,0,0,0,0,0,0,0,3,Moderate,0
+E0001905,P00347,45,40-64,Female,White,Not Hispanic or Latino,Medicare,General Medicine,Sepsis,3.2,1,1,0,1,0,0,0,0,1,1,Low,0
+E0001906,P00347,45,40-64,Female,White,Not Hispanic or Latino,Medicare,General Medicine,Syncope,1.1,1,4,0,1,0,0,0,0,1,1,Low,0
+E0001907,P00347,46,40-64,Female,White,Not Hispanic or Latino,Medicare,General Medicine,Syncope,2.2,2,3,0,1,0,0,0,0,1,2,Low,0
+E0001912,P00348,73,65-79,Female,White,Not Hispanic or Latino,Commercial,Endocrinology,Diabetes complication,1.2,4,3,0,0,1,0,0,0,0,7,High,0
+E0001918,P00349,37,18-39,Male,Black,Not Hispanic or Latino,Medicare,Endocrinology,Hypoglycemia,2.3,4,1,0,0,0,0,0,0,0,3,Moderate,0
+E0001923,P00351,41,40-64,Male,White,Not Hispanic or Latino,Medicaid,General Surgery,Postoperative wound issue,2.4,2,3,0,0,0,0,0,0,0,2,Low,0
+E0001927,P00352,57,40-64,Male,Black,Not Hispanic or Latino,Commercial,General Medicine,Electrolyte disorder,4.1,2,2,1,0,0,0,0,1,0,4,Moderate,0
+E0001933,P00353,41,40-64,Male,Black,Not Hispanic or Latino,Medicare,General Surgery,Postoperative wound issue,1.3,5,1,0,0,0,0,0,0,0,3,Moderate,0
+E0001944,P00355,34,18-39,Male,Black,Not Hispanic or Latino,Self-pay,General Medicine,Electrolyte disorder,3.2,5,2,0,0,0,0,0,0,0,3,Moderate,0
+E0001945,P00355,34,18-39,Male,Black,Not Hispanic or Latino,Self-pay,General Medicine,Cellulitis,1.2,3,1,0,0,0,0,0,0,0,3,Moderate,0
+E0001950,P00356,30,18-39,Female,Black,Unknown,Commercial,Cardiology,Chest pain,2.2,4,1,0,0,0,0,0,0,0,3,Moderate,1
+E0001951,P00356,30,18-39,Female,Black,Unknown,Commercial,Endocrinology,Hypoglycemia,1.2,5,4,0,0,0,0,0,0,0,3,Moderate,0
+E0001952,P00356,30,18-39,Female,Black,Unknown,Commercial,General Surgery,Postoperative wound issue,1.3,3,5,0,0,0,0,0,0,0,3,Moderate,0
+E0001963,P00358,41,40-64,Female,Asian,Not Hispanic or Latino,Medicare,General Medicine,Syncope,5.3,4,1,0,0,0,0,0,0,0,4,Moderate,0
+E0001976,P00361,56,40-64,Male,White,Not Hispanic or Latino,Medicare,General Medicine,Electrolyte disorder,1.4,4,1,0,0,0,0,0,0,0,3,Moderate,0
+E0001980,P00362,65,65-79,Female,Asian,Hispanic or Latino,Commercial,Cardiology,Atrial fibrillation,3.2,3,8,0,1,1,0,0,0,1,8,High,0
+E0001983,P00363,57,40-64,Female,Unknown,Not Hispanic or Latino,Medicare,Pulmonary,Pneumonia,3.3,2,5,0,1,0,0,0,0,0,2,Low,0
+E0001984,P00363,57,40-64,Female,Unknown,Not Hispanic or Latino,Medicare,Cardiology,Atrial fibrillation,2.1,2,2,0,1,0,0,0,0,0,2,Low,0
+E0001992,P00365,65,65-79,Male,White,Unknown,Commercial,Endocrinology,Diabetes complication,1.4,4,2,0,0,0,0,0,0,0,3,Moderate,1
+E0001993,P00365,65,65-79,Male,White,Unknown,Commercial,Pulmonary,Asthma exacerbation,4.1,4,2,0,0,0,0,0,0,0,3,Moderate,0
+E0002003,P00367,45,40-64,Male,Unknown,Not Hispanic or Latino,Medicaid,Pulmonary,Pneumonia,1.2,2,4,0,0,0,0,0,0,0,2,Low,0
+E0002007,P00368,60,40-64,Female,White,Unknown,Medicaid,Endocrinology,Hyperglycemia,5.2,3,4,1,0,0,0,0,1,0,6,Moderate,0
+E0002011,P00369,47,40-64,Male,Black,Not Hispanic or Latino,Medicaid,Endocrinology,Diabetes complication,4.2,3,1,0,0,0,0,0,0,0,3,Moderate,0
+E0002019,P00370,74,65-79,Female,White,Not Hispanic or Latino,Medicare,General Medicine,Electrolyte disorder,4.2,6,3,1,1,0,1,0,1,1,8,High,0
+E0002023,P00371,42,40-64,Male,White,Not Hispanic or Latino,Medicare,Pulmonary,Pneumonia,4.3,2,3,0,1,0,0,0,0,1,2,Low,1
+E0002024,P00371,42,40-64,Male,White,Not Hispanic or Latino,Medicare,General Medicine,Electrolyte disorder,3.2,3,2,0,1,0,0,0,0,1,3,Moderate,0
+E0002025,P00371,42,40-64,Male,White,Not Hispanic or Latino,Medicare,Pulmonary,Pneumonia,1.3,2,2,0,1,0,0,0,0,1,2,Low,0
+E0002029,P00372,76,65-79,Male,White,Not Hispanic or Latino,Commercial,General Medicine,Syncope,5.2,2,6,0,1,1,0,0,0,1,8,High,0
+E0002034,P00373,62,40-64,Male,Black,Hispanic or Latino,Medicaid,Cardiology,Heart failure exacerbation,1.3,4,5,0,0,0,0,0,0,0,3,Moderate,0
+E0002035,P00373,62,40-64,Male,Black,Hispanic or Latino,Medicaid,Pulmonary,Asthma exacerbation,3.1,2,4,0,0,0,0,0,0,0,2,Low,0
+E0002045,P00375,35,18-39,Male,Other,Unknown,Medicare,General Surgery,Postoperative wound issue,2.3,4,3,0,0,0,0,0,0,0,3,Moderate,0
+E0002051,P00377,85,80+,Female,Unknown,Not Hispanic or Latino,Commercial,General Surgery,Abdominal pain,2.3,1,3,0,0,0,0,0,0,0,1,Low,0
+E0002052,P00377,85,80+,Female,Unknown,Not Hispanic or Latino,Commercial,General Surgery,Abdominal pain,4.3,1,2,0,0,0,0,0,0,0,1,Low,0
+E0002059,P00378,44,40-64,Female,White,Not Hispanic or Latino,Medicaid,General Surgery,Postoperative wound issue,6.3,6,5,1,1,0,0,1,1,1,8,High,0
+E0002065,P00379,84,80+,Male,White,Not Hispanic or Latino,Medicare,General Medicine,Sepsis,2.2,1,2,0,0,0,0,0,0,0,1,Low,0
+E0002066,P00379,84,80+,Male,White,Not Hispanic or Latino,Medicare,Cardiology,Heart failure exacerbation,2.2,1,2,0,0,0,0,0,0,0,1,Low,0
+E0002071,P00380,81,80+,Male,Other,Not Hispanic or Latino,Medicaid,Cardiology,Atrial fibrillation,2.2,3,1,0,1,0,0,0,0,1,3,Moderate,0
+E0002077,P00381,77,65-79,Female,White,Hispanic or Latino,Medicaid,General Surgery,Abdominal pain,4.2,1,2,0,0,0,0,0,0,0,1,Low,0
+E0002078,P00381,77,65-79,Female,White,Hispanic or Latino,Medicaid,Cardiology,Atrial fibrillation,3.2,1,1,0,0,0,0,0,0,0,1,Low,0
+E0002083,P00382,87,80+,Male,White,Hispanic or Latino,Commercial,Pulmonary,Pneumonia,4.2,3,1,0,0,0,0,1,0,0,5,Moderate,0
+E0002090,P00383,32,18-39,Male,Other,Not Hispanic or Latino,Medicare,General Surgery,Abdominal pain,1.2,6,2,0,0,0,0,0,0,0,3,Moderate,0
+E0002091,P00383,32,18-39,Male,Other,Not Hispanic or Latino,Medicare,General Medicine,Electrolyte disorder,3.4,1,1,0,0,0,0,0,0,0,1,Low,0
+E0002092,P00383,32,18-39,Male,Other,Not Hispanic or Latino,Medicare,Pulmonary,Asthma exacerbation,4.2,1,1,0,0,0,0,0,0,0,1,Low,0
+E0002098,P00384,68,65-79,Female,White,Not Hispanic or Latino,Commercial,General Medicine,Electrolyte disorder,3.2,4,1,0,1,1,0,0,0,1,7,High,0
+E0002099,P00384,69,65-79,Female,White,Not Hispanic or Latino,Commercial,General Medicine,Cellulitis,5.4,1,3,0,1,1,0,0,0,0,6,Moderate,0
+E0002115,P00386,63,40-64,Female,Black,Not Hispanic or Latino,Medicare,Cardiology,Atrial fibrillation,1.2,7,2,1,1,0,0,0,1,1,5,Moderate,0
+E0002116,P00386,63,40-64,Female,Black,Not Hispanic or Latino,Medicare,Endocrinology,Diabetes complication,1.2,3,3,1,1,0,0,0,1,1,5,Moderate,0
+E0002118,P00387,39,18-39,Male,Black,Not Hispanic or Latino,Commercial,Cardiology,Chest pain,6.1,1,2,0,0,0,0,0,0,0,2,Low,0
+E0002122,P00388,55,40-64,Male,White,Not Hispanic or Latino,Commercial,General Surgery,Biliary disease,3.3,3,1,0,0,1,0,0,0,0,7,High,0
+E0002130,P00389,50,40-64,Female,White,Unknown,Medicaid,General Medicine,Sepsis,1.4,3,3,0,1,0,0,0,0,1,3,Moderate,0
+E0002134,P00390,63,40-64,Male,White,Hispanic or Latino,Self-pay,General Surgery,Abdominal pain,2.4,3,1,0,0,0,0,0,0,0,3,Moderate,0
+E0002142,P00391,33,18-39,Male,White,Not Hispanic or Latino,Commercial,Endocrinology,Hyperglycemia,3.3,6,3,0,0,0,0,0,0,0,3,Moderate,0
+E0002143,P00391,34,18-39,Male,White,Not Hispanic or Latino,Commercial,General Medicine,Electrolyte disorder,1.4,3,1,0,0,0,0,0,0,0,3,Moderate,0
+E0002152,P00392,82,80+,Female,Other,Not Hispanic or Latino,Medicare,General Medicine,Syncope,4.3,6,4,0,0,0,1,0,0,0,6,Moderate,0
+E0002153,P00392,82,80+,Female,Other,Not Hispanic or Latino,Medicare,Cardiology,Heart failure exacerbation,2.4,3,2,0,0,0,1,0,0,0,6,Moderate,0
+E0002161,P00393,52,40-64,Female,Asian,Not Hispanic or Latino,Self-pay,General Surgery,Biliary disease,1.2,4,1,0,0,0,0,0,0,0,3,Moderate,0
+E0002162,P00393,53,40-64,Female,Asian,Not Hispanic or Latino,Self-pay,General Medicine,Sepsis,4.3,1,2,0,0,0,0,0,0,0,1,Low,0
+E0002169,P00394,25,18-39,Female,Black,Unknown,Medicare,General Surgery,Postoperative wound issue,2.4,5,3,0,0,0,0,0,0,0,3,Moderate,0
+E0002177,P00395,86,80+,Male,Black,Not Hispanic or Latino,Medicare,General Medicine,Electrolyte disorder,4.1,5,5,1,1,1,0,0,1,1,9,High,0
+E0002183,P00396,40,40-64,Male,White,Not Hispanic or Latino,Medicare,Cardiology,Chest pain,2.4,5,4,0,0,0,0,0,0,0,3,Moderate,0
+E0002184,P00396,40,40-64,Male,White,Not Hispanic or Latino,Medicare,Pulmonary,COPD exacerbation,3.2,1,1,0,0,0,0,0,0,0,1,Low,0
+E0002185,P00396,40,40-64,Male,White,Not Hispanic or Latino,Medicare,General Medicine,Cellulitis,4.3,1,1,0,0,0,0,0,0,0,1,Low,0
+E0002190,P00397,49,40-64,Female,White,Hispanic or Latino,Medicare,Pulmonary,COPD exacerbation,4.4,4,4,0,1,0,1,0,0,0,6,Moderate,0
+E0002191,P00397,49,40-64,Female,White,Hispanic or Latino,Medicare,General Surgery,Abdominal pain,2.3,3,3,0,1,0,1,0,0,0,6,Moderate,0
+E0002192,P00397,50,40-64,Female,White,Hispanic or Latino,Medicare,Cardiology,Atrial fibrillation,6.3,2,4,0,1,0,1,0,0,1,6,Moderate,0
+E0002198,P00398,37,18-39,Female,Asian,Not Hispanic or Latino,Commercial,Cardiology,Atrial fibrillation,2.4,4,3,0,0,0,0,0,0,0,3,Moderate,0
+E0002199,P00398,37,18-39,Female,Asian,Not Hispanic or Latino,Commercial,General Medicine,Electrolyte disorder,1.2,1,2,0,0,0,0,0,0,0,1,Low,0
+E0002206,P00399,54,40-64,Male,Unknown,Not Hispanic or Latino,Medicare,General Surgery,Biliary disease,7.2,6,3,0,1,0,1,0,0,0,7,High,0
+E0002207,P00399,54,40-64,Male,Unknown,Not Hispanic or Latino,Medicare,Cardiology,Atrial fibrillation,4.3,2,4,0,1,0,1,0,0,1,5,Moderate,0
+E0002210,P00400,44,40-64,Female,Unknown,Hispanic or Latino,Medicaid,Cardiology,Chest pain,3.4,2,1,0,0,0,0,1,0,0,4,Moderate,0
+E0002216,P00401,77,65-79,Female,Black,Not Hispanic or Latino,Medicare,General Medicine,Electrolyte disorder,4.1,4,5,1,1,0,1,0,1,1,8,High,0
+E0002225,P00403,48,40-64,Male,White,Hispanic or Latino,Medicare,General Medicine,Cellulitis,5.3,1,2,0,0,0,0,0,0,0,2,Low,0
+E0002226,P00403,48,40-64,Male,White,Hispanic or Latino,Medicare,General Medicine,Syncope,3.2,1,2,0,0,0,0,0,0,0,1,Low,0
+E0002234,P00404,57,40-64,Female,White,Not Hispanic or Latino,Medicaid,Cardiology,Heart failure exacerbation,6.3,7,3,0,0,1,0,1,0,0,10,High,0
+E0002237,P00405,25,18-39,Male,Black,Not Hispanic or Latino,Commercial,General Medicine,Electrolyte disorder,4.2,0,6,0,1,0,0,0,0,1,1,Low,0
+E0002241,P00406,55,40-64,Male,White,Not Hispanic or Latino,Commercial,Cardiology,Heart failure exacerbation,1.1,2,2,0,1,0,0,0,0,0,2,Low,0
+E0002247,P00407,51,40-64,Female,White,Not Hispanic or Latino,Medicare,Cardiology,Heart failure exacerbation,4.1,4,2,1,0,0,0,0,1,0,5,Moderate,0
+E0002257,P00409,35,18-39,Male,Unknown,Not Hispanic or Latino,Medicare,Pulmonary,Asthma exacerbation,1.2,3,1,0,0,0,0,0,0,0,3,Moderate,0
+E0002262,P00410,24,18-39,Female,White,Not Hispanic or Latino,Commercial,General Surgery,Abdominal pain,3.4,4,3,0,0,0,0,0,0,0,3,Moderate,0
+E0002263,P00410,24,18-39,Female,White,Not Hispanic or Latino,Commercial,Pulmonary,Asthma exacerbation,3.2,2,3,0,0,0,0,0,0,0,2,Low,0
+E0002275,P00412,57,40-64,Male,White,Not Hispanic or Latino,Medicaid,General Surgery,Postoperative wound issue,3.1,6,5,0,1,0,0,0,0,1,3,Moderate,0
+E0002279,P00413,34,18-39,Female,White,Not Hispanic or Latino,Medicare,General Medicine,Electrolyte disorder,1.4,3,1,0,0,0,0,0,0,0,3,Moderate,0
+E0002283,P00414,72,65-79,Male,Black,Not Hispanic or Latino,Commercial,Endocrinology,Diabetes complication,2.2,3,4,1,1,0,0,0,0,1,5,Moderate,0
+E0002287,P00415,62,40-64,Male,White,Not Hispanic or Latino,Commercial,General Surgery,Biliary disease,4.2,3,5,1,1,0,0,0,1,1,5,Moderate,1
+E0002288,P00415,62,40-64,Male,White,Not Hispanic or Latino,Commercial,Pulmonary,Pneumonia,3.3,4,3,1,1,0,0,0,1,1,5,Moderate,0
+E0002297,P00417,50,40-64,Female,White,Not Hispanic or Latino,Medicare,General Medicine,Syncope,1.2,5,1,0,0,0,0,0,0,0,3,Moderate,0
+E0002298,P00417,50,40-64,Female,White,Not Hispanic or Latino,Medicare,Endocrinology,Hypoglycemia,2.2,3,1,0,0,0,0,0,0,0,3,Moderate,1
+E0002299,P00417,50,40-64,Female,White,Not Hispanic or Latino,Medicare,Cardiology,Chest pain,3.2,4,1,0,0,0,0,0,0,0,3,Moderate,0
+E0002305,P00418,37,18-39,Female,White,Not Hispanic or Latino,Medicare,Endocrinology,Hyperglycemia,1.3,3,3,0,0,0,0,0,0,0,3,Moderate,0
+E0002306,P00418,37,18-39,Female,White,Not Hispanic or Latino,Medicare,Pulmonary,COPD exacerbation,1.3,1,1,0,0,0,0,0,0,0,1,Low,0
+E0002311,P00419,49,40-64,Female,White,Not Hispanic or Latino,Medicaid,General Medicine,Electrolyte disorder,3.4,4,2,0,0,0,0,0,0,0,3,Moderate,0
+E0002317,P00420,34,18-39,Female,Black,Not Hispanic or Latino,Commercial,Endocrinology,Diabetes complication,2.2,5,1,0,0,0,0,0,0,0,3,Moderate,0
+E0002324,P00421,67,65-79,Male,Black,Unknown,Commercial,Endocrinology,Hyperglycemia,4.1,6,4,0,1,0,0,0,0,1,3,Moderate,0
+E0002332,P00422,60,40-64,Female,Black,Not Hispanic or Latino,Commercial,Endocrinology,Diabetes complication,3.2,7,5,0,1,0,1,0,0,1,6,Moderate,0
+E0002336,P00423,33,18-39,Female,Unknown,Not Hispanic or Latino,Commercial,General Surgery,Abdominal pain,1.4,3,2,0,1,0,0,0,0,0,3,Moderate,0
+E0002337,P00423,33,18-39,Female,Unknown,Not Hispanic or Latino,Commercial,Cardiology,Heart failure exacerbation,4.2,3,3,0,1,0,0,0,0,1,3,Moderate,0
+E0002343,P00424,29,18-39,Male,Unknown,Not Hispanic or Latino,Commercial,Cardiology,Heart failure exacerbation,3.1,4,1,0,0,0,0,0,0,0,3,Moderate,0
+E0002345,P00425,30,18-39,Female,White,Not Hispanic or Latino,Medicaid,General Medicine,Syncope,3.2,1,1,1,0,0,0,0,1,0,3,Moderate,0
+E0002354,P00426,70,65-79,Male,White,Not Hispanic or Latino,Commercial,General Medicine,Syncope,6.1,6,5,1,1,1,0,0,1,1,10,High,1
+E0002355,P00426,70,65-79,Male,White,Not Hispanic or Latino,Commercial,General Medicine,Sepsis,6.4,6,4,1,1,1,0,0,1,0,10,High,0
+E0002360,P00427,78,65-79,Male,Other,Unknown,Medicare,General Medicine,Sepsis,4.3,3,3,0,0,0,0,1,0,0,5,Moderate,0
+E0002361,P00427,79,65-79,Male,Other,Unknown,Medicare,General Surgery,Postoperative wound issue,5.2,1,2,0,0,0,0,1,0,0,4,Moderate,0
+E0002368,P00428,65,65-79,Female,Asian,Not Hispanic or Latino,Commercial,General Medicine,Cellulitis,1.2,6,5,0,0,0,0,0,0,0,3,Moderate,0
+E0002369,P00428,65,65-79,Female,Asian,Not Hispanic or Latino,Commercial,General Medicine,Cellulitis,2.3,1,1,0,0,0,0,0,0,0,1,Low,0
+E0002381,P00430,45,40-64,Male,White,Not Hispanic or Latino,Medicare,General Medicine,Sepsis,4.2,5,4,0,0,0,1,0,0,0,6,Moderate,0
+E0002387,P00431,61,40-64,Male,White,Not Hispanic or Latino,Self-pay,Cardiology,Chest pain,6.4,5,1,0,0,0,1,0,0,0,7,High,0
+E0002394,P00432,44,40-64,Female,Asian,Not Hispanic or Latino,Commercial,General Medicine,Electrolyte disorder,2.3,4,4,0,1,0,0,0,0,1,3,Moderate,0
+E0002400,P00433,31,18-39,Female,White,Not Hispanic or Latino,Medicare,General Medicine,Syncope,2.1,5,1,0,0,0,0,0,0,0,3,Moderate,0
+E0002407,P00434,81,80+,Female,White,Unknown,Medicaid,General Medicine,Cellulitis,5.2,6,7,0,1,0,0,1,0,0,7,High,0
+E0002429,P00437,79,65-79,Female,Black,Not Hispanic or Latino,Medicaid,Pulmonary,COPD exacerbation,2.3,4,3,0,0,0,0,0,0,0,3,Moderate,0
+E0002431,P00438,36,18-39,Female,Unknown,Not Hispanic or Latino,Medicare,General Medicine,Cellulitis,5.2,1,1,1,0,0,0,0,1,0,4,Moderate,0
+E0002438,P00439,65,65-79,Male,White,Not Hispanic or Latino,Commercial,General Surgery,Biliary disease,2.3,6,5,0,1,1,0,0,0,0,7,High,1
+E0002439,P00439,65,65-79,Male,White,Not Hispanic or Latino,Commercial,Cardiology,Atrial fibrillation,3.1,6,4,0,1,1,0,0,0,1,7,High,0
+E0002447,P00440,55,40-64,Male,White,Not Hispanic or Latino,Medicare,General Medicine,Sepsis,2.3,6,1,0,0,0,0,0,0,0,3,Moderate,0
+E0002448,P00440,55,40-64,Male,White,Not Hispanic or Latino,Medicare,General Medicine,Syncope,5.2,2,2,0,0,0,0,0,0,0,3,Moderate,0
+E0002449,P00440,55,40-64,Male,White,Not Hispanic or Latino,Medicare,Pulmonary,Asthma exacerbation,1.3,1,1,0,0,0,0,0,0,0,1,Low,0
+E0002453,P00441,48,40-64,Female,Asian,Not Hispanic or Latino,Medicare,General Medicine,Sepsis,1.2,3,2,0,0,0,0,0,0,0,3,Moderate,0
+E0002457,P00442,86,80+,Male,Other,Not Hispanic or Latino,Medicare,General Surgery,Biliary disease,1.4,3,1,0,0,0,0,0,0,0,3,Moderate,0
+E0002461,P00443,47,40-64,Male,Unknown,Not Hispanic or Latino,Medicare,General Surgery,Biliary disease,2.1,3,1,0,1,0,0,0,0,1,3,Moderate,0
+E0002472,P00444,52,40-64,Male,Other,Hispanic or Latino,Commercial,General Medicine,Electrolyte disorder,5.4,10,4,0,0,1,0,1,0,0,10,High,1
+E0002473,P00444,52,40-64,Male,Other,Hispanic or Latino,Commercial,Endocrinology,Diabetes complication,4.4,11,2,0,0,1,0,1,0,0,9,High,1
+E0002474,P00444,52,40-64,Male,Other,Hispanic or Latino,Commercial,General Medicine,Sepsis,6.1,10,5,0,0,1,0,1,0,0,10,High,0
+E0002481,P00445,63,40-64,Female,White,Not Hispanic or Latino,Medicare,General Surgery,Postoperative wound issue,2.2,6,6,0,0,0,0,0,0,0,4,Moderate,0
+E0002482,P00445,63,40-64,Female,White,Not Hispanic or Latino,Medicare,Cardiology,Chest pain,2.3,4,1,0,0,0,0,0,0,0,3,Moderate,0
+E0002484,P00446,38,18-39,Male,Other,Not Hispanic or Latino,Medicare,Pulmonary,Asthma exacerbation,1.3,1,2,0,0,0,0,0,0,0,1,Low,0
+E0002491,P00447,59,40-64,Female,White,Not Hispanic or Latino,Medicare,Cardiology,Atrial fibrillation,1.4,6,5,0,0,0,0,0,0,0,3,Moderate,0
+E0002492,P00447,59,40-64,Female,White,Not Hispanic or Latino,Medicare,Cardiology,Heart failure exacerbation,2.1,1,4,0,0,0,0,0,0,0,1,Low,0
+E0002498,P00448,58,40-64,Male,White,Not Hispanic or Latino,Medicaid,Pulmonary,Pneumonia,1.2,4,2,0,0,0,0,0,0,0,3,Moderate,0
+E0002504,P00449,50,40-64,Male,Other,Not Hispanic or Latino,Medicare,General Surgery,Biliary disease,4.3,5,5,0,0,0,0,0,0,0,3,Moderate,0
+E0002505,P00449,51,40-64,Male,Other,Not Hispanic or Latino,Medicare,Pulmonary,Pneumonia,3.2,2,2,0,0,0,0,0,0,0,2,Low,0
+E0002513,P00451,54,40-64,Female,White,Not Hispanic or Latino,Commercial,Pulmonary,Pneumonia,4.2,4,2,0,0,0,0,0,0,0,3,Moderate,0
+E0002518,P00452,57,40-64,Male,Asian,Unknown,Self-pay,Pulmonary,Pneumonia,3.4,2,1,0,0,0,0,0,0,0,2,Low,0
+E0002525,P00453,32,18-39,Female,Asian,Not Hispanic or Latino,Commercial,General Surgery,Biliary disease,6.4,5,2,0,0,0,1,0,0,0,7,High,1
+E0002526,P00453,32,18-39,Female,Asian,Not Hispanic or Latino,Commercial,Pulmonary,COPD exacerbation,5.3,6,3,0,0,0,1,0,0,0,7,High,0
+E0002529,P00454,68,65-79,Female,White,Not Hispanic or Latino,Medicare,Cardiology,Atrial fibrillation,2.1,2,3,0,1,0,0,0,0,1,2,Low,0
+E0002538,P00455,74,65-79,Male,Black,Not Hispanic or Latino,Medicare,General Medicine,Electrolyte disorder,2.2,7,1,0,1,1,0,0,0,0,7,High,0
+E0002548,P00457,41,40-64,Female,Black,Not Hispanic or Latino,Commercial,Pulmonary,Pneumonia,1.1,4,2,0,0,0,0,0,0,0,3,Moderate,1
+E0002553,P00458,23,18-39,Female,Other,Not Hispanic or Latino,Medicare,General Medicine,Cellulitis,1.2,3,1,0,0,0,0,0,0,0,3,Moderate,0
+E0002554,P00458,24,18-39,Female,Other,Not Hispanic or Latino,Medicare,Pulmonary,Pneumonia,2.1,1,2,0,0,0,0,0,0,0,1,Low,0
+E0002559,P00459,37,18-39,Female,Black,Not Hispanic or Latino,Medicare,General Medicine,Cellulitis,5.2,4,1,0,0,0,0,0,0,0,4,Moderate,0
+E0002565,P00460,54,40-64,Female,White,Not Hispanic or Latino,Medicaid,Endocrinology,Hyperglycemia,2.1,4,3,0,1,0,0,0,0,0,3,Moderate,0
+E0002573,P00461,39,18-39,Male,Black,Not Hispanic or Latino,Medicare,Endocrinology,Hypoglycemia,5.3,2,1,0,0,0,0,1,0,0,5,Moderate,0
+E0002575,P00462,46,40-64,Female,White,Hispanic or Latino,Self-pay,Pulmonary,COPD exacerbation,2.4,0,1,0,0,0,0,0,0,0,0,Low,0
+E0002580,P00463,39,18-39,Male,Asian,Not Hispanic or Latino,Medicare,Cardiology,Heart failure exacerbation,4.1,4,5,0,1,0,0,0,0,1,3,Moderate,0
+E0002589,P00465,50,40-64,Female,White,Not Hispanic or Latino,Medicaid,General Surgery,Abdominal pain,4.1,4,3,1,0,0,0,0,1,0,5,Moderate,0
+E0002590,P00465,50,40-64,Female,White,Not Hispanic or Latino,Medicaid,Pulmonary,Asthma exacerbation,4.2,1,1,1,0,0,0,0,1,0,3,Moderate,0
+E0002594,P00466,85,80+,Male,White,Not Hispanic or Latino,Medicare,Cardiology,Atrial fibrillation,3.1,3,1,0,0,0,0,0,0,0,3,Moderate,0
+E0002595,P00466,86,80+,Male,White,Not Hispanic or Latino,Medicare,Cardiology,Heart failure exacerbation,1.4,2,1,0,0,0,0,0,0,0,2,Low,0
+E0002598,P00467,82,80+,Female,Black,Not Hispanic or Latino,Commercial,General Surgery,Abdominal pain,1.1,1,5,0,1,0,0,0,0,1,1,Low,1
+E0002599,P00467,82,80+,Female,Black,Not Hispanic or Latino,Commercial,General Medicine,Sepsis,4.4,2,1,0,1,0,0,0,0,1,2,Low,0
+E0002606,P00468,79,65-79,Female,White,Not Hispanic or Latino,Commercial,General Medicine,Sepsis,6.2,3,8,0,1,0,0,1,0,1,7,High,0
+E0002615,P00469,72,65-79,Male,Black,Not Hispanic or Latino,Medicare,General Surgery,Biliary disease,3.3,7,5,0,0,1,0,0,0,0,7,High,0
+E0002616,P00469,72,65-79,Male,Black,Not Hispanic or Latino,Medicare,General Medicine,Syncope,4.2,5,3,0,0,1,0,0,0,0,7,High,0
+E0002625,P00471,68,65-79,Female,White,Not Hispanic or Latino,Medicaid,General Surgery,Postoperative wound issue,4.1,7,2,0,1,0,0,1,0,0,5,Moderate,0
+E0002627,P00472,41,40-64,Male,Unknown,Hispanic or Latino,Medicare,General Medicine,Sepsis,4.2,1,1,0,0,0,0,0,0,0,1,Low,0
+E0002628,P00472,41,40-64,Male,Unknown,Hispanic or Latino,Medicare,General Medicine,Syncope,2.2,1,1,0,0,0,0,0,0,0,1,Low,0
+E0002643,P00476,41,40-64,Male,White,Not Hispanic or Latino,Commercial,General Medicine,Syncope,1.2,0,3,0,0,0,0,0,0,0,0,Low,0
+E0002649,P00477,58,40-64,Female,White,Not Hispanic or Latino,Medicare,General Surgery,Abdominal pain,6.2,5,1,0,0,0,0,0,0,0,4,Moderate,0
+E0002653,P00478,86,80+,Male,Black,Not Hispanic or Latino,Commercial,Cardiology,Chest pain,2.2,2,7,0,1,0,0,0,0,1,3,Moderate,0
+E0002660,P00480,55,40-64,Female,White,Not Hispanic or Latino,Medicaid,Cardiology,Chest pain,2.1,2,1,0,0,0,0,1,0,0,4,Moderate,0
+E0002673,P00482,74,65-79,Male,Asian,Not Hispanic or Latino,Medicaid,Cardiology,Atrial fibrillation,3.2,6,4,0,0,0,0,0,0,0,3,Moderate,1
+E0002681,P00483,57,40-64,Female,White,Not Hispanic or Latino,Medicaid,General Medicine,Cellulitis,2.4,6,4,1,0,0,0,0,1,0,5,Moderate,0
+E0002682,P00483,57,40-64,Female,White,Not Hispanic or Latino,Medicaid,General Medicine,Cellulitis,4.3,2,3,1,0,0,0,0,0,0,4,Moderate,1
+E0002688,P00484,42,40-64,Male,White,Not Hispanic or Latino,Self-pay,General Medicine,Electrolyte disorder,3.3,4,4,1,0,0,0,0,1,0,5,Moderate,1
+E0002689,P00484,43,40-64,Male,White,Not Hispanic or Latino,Self-pay,Endocrinology,Diabetes complication,4.2,5,1,1,0,0,0,0,0,0,5,Moderate,0
+E0002702,P00486,44,40-64,Male,Black,Not Hispanic or Latino,Medicare,Cardiology,Chest pain,2.4,1,2,0,0,0,0,0,0,0,1,Low,0
+E0002703,P00486,44,40-64,Male,Black,Not Hispanic or Latino,Medicare,General Medicine,Electrolyte disorder,2.2,1,2,0,0,0,0,0,0,0,1,Low,0
+E0002709,P00487,56,40-64,Female,White,Hispanic or Latino,Medicare,General Surgery,Biliary disease,4.3,3,1,0,0,0,0,0,0,0,3,Moderate,0
+E0002716,P00488,42,40-64,Female,Asian,Not Hispanic or Latino,Commercial,General Medicine,Electrolyte disorder,3.4,6,6,0,1,0,1,1,0,1,9,High,0
+E0002722,P00489,46,40-64,Female,Black,Not Hispanic or Latino,Medicare,General Surgery,Biliary disease,4.4,5,1,0,0,0,0,0,0,0,3,Moderate,0
+E0002731,P00490,83,80+,Male,Black,Not Hispanic or Latino,Medicare,General Medicine,Syncope,4.3,8,4,0,0,0,1,0,0,0,6,Moderate,0
+E0002737,P00491,62,40-64,Female,Black,Not Hispanic or Latino,Commercial,General Medicine,Cellulitis,3.1,5,3,0,1,0,0,0,0,1,3,Moderate,0
+E0002747,P00493,78,65-79,Male,Asian,Not Hispanic or Latino,Medicare,Cardiology,Chest pain,5.3,5,4,1,1,0,0,0,0,1,6,Moderate,0
+E0002748,P00493,78,65-79,Male,Asian,Not Hispanic or Latino,Medicare,Endocrinology,Hyperglycemia,3.2,5,2,1,1,0,0,0,0,1,5,Moderate,0
+E0002753,P00494,73,65-79,Female,White,Not Hispanic or Latino,Commercial,General Medicine,Syncope,1.2,3,3,0,0,0,0,1,0,0,5,Moderate,1
+E0002760,P00496,64,40-64,Female,Black,Unknown,Medicare,Pulmonary,Pneumonia,2.3,3,1,0,0,0,0,0,0,0,3,Moderate,0
+E0002768,P00497,51,40-64,Female,White,Not Hispanic or Latino,Medicare,General Medicine,Cellulitis,3.4,6,1,0,0,0,0,0,0,0,3,Moderate,0
+E0002782,P00500,35,18-39,Female,White,Not Hispanic or Latino,Commercial,Pulmonary,Asthma exacerbation,2.4,4,3,0,0,0,0,0,0,0,3,Moderate,0
+E0002788,P00501,55,40-64,Female,Asian,Not Hispanic or Latino,Medicare,Pulmonary,Asthma exacerbation,3.3,5,1,1,0,0,0,0,0,0,5,Moderate,0
+E0002794,P00502,57,40-64,Male,Asian,Not Hispanic or Latino,Self-pay,General Medicine,Syncope,1.1,2,3,0,1,0,0,0,0,0,2,Low,0
+E0002795,P00502,58,40-64,Male,Asian,Not Hispanic or Latino,Self-pay,General Surgery,Postoperative wound issue,3.2,1,2,0,1,0,0,0,0,1,1,Low,0
+E0002801,P00503,54,40-64,Male,Black,Not Hispanic or Latino,Self-pay,General Medicine,Cellulitis,6.3,5,5,0,0,0,0,1,0,0,6,Moderate,0
+E0002817,P00506,77,65-79,Female,White,Not Hispanic or Latino,Medicare,Cardiology,Atrial fibrillation,3.3,6,3,1,1,0,0,0,1,1,5,Moderate,0
+E0002818,P00506,77,65-79,Female,White,Not Hispanic or Latino,Medicare,Endocrinology,Hypoglycemia,3.4,2,3,1,1,0,0,0,1,1,4,Moderate,0
+E0002828,P00508,73,65-79,Male,White,Hispanic or Latino,Medicaid,Pulmonary,COPD exacerbation,3.1,4,3,0,0,0,0,1,0,0,5,Moderate,0
+E0002830,P00509,47,40-64,Female,Unknown,Not Hispanic or Latino,Medicaid,General Surgery,Abdominal pain,2.3,1,2,0,0,0,0,0,0,0,1,Low,0
+E0002837,P00510,26,18-39,Male,White,Not Hispanic or Latino,Commercial,General Medicine,Sepsis,4.2,5,3,0,0,0,0,1,0,0,5,Moderate,0
+E0002847,P00513,52,40-64,Female,Asian,Not Hispanic or Latino,Medicare,General Surgery,Biliary disease,1.4,3,1,0,0,0,0,0,0,0,3,Moderate,0
+E0002848,P00513,52,40-64,Female,Asian,Not Hispanic or Latino,Medicare,Cardiology,Atrial fibrillation,3.1,2,1,0,0,0,0,0,0,0,2,Low,0
+E0002861,P00515,71,65-79,Female,White,Not Hispanic or Latino,Medicare,Pulmonary,Pneumonia,5.4,5,3,0,1,1,0,1,0,1,10,High,0
+E0002868,P00516,66,65-79,Female,Black,Not Hispanic or Latino,Medicare,General Medicine,Cellulitis,3.1,5,1,0,1,0,0,0,0,1,3,Moderate,0
+E0002875,P00517,32,18-39,Female,Black,Not Hispanic or Latino,Medicaid,General Surgery,Abdominal pain,3.4,5,2,0,0,1,0,0,0,0,7,High,0
+E0002879,P00518,55,40-64,Female,Other,Not Hispanic or Latino,Commercial,Cardiology,Atrial fibrillation,1.4,3,1,0,0,0,0,0,0,0,3,Moderate,1
+E0002880,P00518,55,40-64,Female,Other,Not Hispanic or Latino,Commercial,General Medicine,Sepsis,1.4,4,3,0,0,0,0,0,0,0,3,Moderate,0
+E0002881,P00518,56,40-64,Female,Other,Not Hispanic or Latino,Commercial,Pulmonary,Pneumonia,3.3,2,1,0,0,0,0,0,0,0,2,Low,0
+E0002885,P00519,32,18-39,Male,White,Hispanic or Latino,Medicare,Endocrinology,Hyperglycemia,1.4,2,2,0,0,0,0,0,0,0,2,Low,0
+E0002886,P00519,32,18-39,Male,White,Hispanic or Latino,Medicare,General Medicine,Sepsis,1.3,3,1,0,0,0,0,0,0,0,3,Moderate,0
+E0002893,P00521,69,65-79,Female,Unknown,Not Hispanic or Latino,Medicare,General Medicine,Cellulitis,3.2,3,3,0,0,0,0,1,0,0,5,Moderate,0
+E0002894,P00521,69,65-79,Female,Unknown,Not Hispanic or Latino,Medicare,Cardiology,Atrial fibrillation,4.1,2,4,0,0,0,0,1,0,0,4,Moderate,0
+E0002904,P00523,73,65-79,Male,Black,Not Hispanic or Latino,Medicare,General Surgery,Biliary disease,3.2,1,4,0,1,1,0,1,0,1,7,High,1
+E0002905,P00523,73,65-79,Male,Black,Not Hispanic or Latino,Medicare,General Medicine,Sepsis,4.4,2,2,0,1,1,0,1,0,1,8,High,0
+E0002911,P00524,37,18-39,Male,Black,Not Hispanic or Latino,Medicare,General Medicine,Sepsis,3.3,5,1,0,0,0,0,0,0,0,3,Moderate,0
+E0002918,P00525,62,40-64,Male,Black,Hispanic or Latino,Commercial,General Medicine,Syncope,5.1,1,1,0,1,0,0,0,0,1,2,Low,0
+E0002925,P00526,37,18-39,Female,White,Not Hispanic or Latino,Medicare,General Medicine,Syncope,4.4,6,3,0,0,0,0,0,0,0,3,Moderate,0
+E0002933,P00527,68,65-79,Male,Asian,Not Hispanic or Latino,Medicare,General Medicine,Sepsis,3.4,6,1,0,1,0,1,0,0,0,6,Moderate,0
+E0002938,P00528,79,65-79,Female,White,Not Hispanic or Latino,Medicare,General Medicine,Syncope,3.2,4,2,0,0,0,0,1,0,0,5,Moderate,0
+E0002943,P00529,63,40-64,Male,Asian,Not Hispanic or Latino,Commercial,General Medicine,Cellulitis,3.3,2,1,0,0,0,0,0,0,0,2,Low,0
+E0002951,P00531,51,40-64,Female,White,Not Hispanic or Latino,Medicaid,Pulmonary,Pneumonia,5.3,4,4,0,0,0,0,0,0,0,4,Moderate,0
+E0002952,P00531,51,40-64,Female,White,Not Hispanic or Latino,Medicaid,General Medicine,Electrolyte disorder,4.1,3,3,0,0,0,0,0,0,0,3,Moderate,0
+E0002957,P00532,63,40-64,Female,White,Not Hispanic or Latino,Self-pay,Pulmonary,Asthma exacerbation,6.2,4,4,0,1,1,0,0,0,1,8,High,0
+E0002967,P00534,54,40-64,Male,White,Not Hispanic or Latino,Commercial,General Medicine,Syncope,1.2,3,3,0,1,0,0,0,0,0,3,Moderate,0
+E0002972,P00535,19,18-39,Female,Black,Not Hispanic or Latino,Commercial,General Medicine,Electrolyte disorder,3.2,4,3,0,0,0,1,0,0,0,6,Moderate,0
+E0002975,P00536,43,40-64,Male,White,Not Hispanic or Latino,Self-pay,Pulmonary,Pneumonia,4.3,2,3,0,0,0,0,0,0,0,2,Low,0
+E0002976,P00536,43,40-64,Male,White,Not Hispanic or Latino,Self-pay,General Medicine,Cellulitis,4.2,2,1,0,0,0,0,0,0,0,2,Low,0
+E0002980,P00537,57,40-64,Female,White,Not Hispanic or Latino,Medicare,General Medicine,Electrolyte disorder,1.2,3,2,0,0,0,0,0,0,0,3,Moderate,0
+E0002987,P00538,49,40-64,Male,Asian,Not Hispanic or Latino,Commercial,General Surgery,Biliary disease,1.3,6,2,0,0,0,0,0,0,0,3,Moderate,0
+E0002997,P00540,26,18-39,Male,White,Not Hispanic or Latino,Medicare,Endocrinology,Diabetes complication,2.1,4,3,0,0,0,0,0,0,0,3,Moderate,1
+E0002998,P00540,26,18-39,Male,White,Not Hispanic or Latino,Medicare,Pulmonary,COPD exacerbation,3.3,3,2,0,0,0,0,0,0,0,3,Moderate,0
+E0003001,P00541,73,65-79,Male,Asian,Not Hispanic or Latino,Medicare,Pulmonary,COPD exacerbation,2.1,1,1,0,0,0,0,0,0,0,1,Low,0
+E0003004,P00542,37,18-39,Female,Black,Not Hispanic or Latino,Commercial,Pulmonary,Pneumonia,1.2,2,1,0,0,0,0,0,0,0,2,Low,0
+E0003011,P00543,51,40-64,Male,Black,Not Hispanic or Latino,Commercial,General Medicine,Electrolyte disorder,1.1,6,3,1,1,0,0,0,1,1,5,Moderate,0
+E0003017,P00544,69,65-79,Male,White,Not Hispanic or Latino,Self-pay,General Medicine,Sepsis,1.4,5,3,0,1,0,0,0,0,1,3,Moderate,1
+E0003018,P00544,69,65-79,Male,White,Not Hispanic or Latino,Self-pay,Cardiology,Atrial fibrillation,1.2,5,1,0,1,0,0,0,0,0,3,Moderate,0
+E0003019,P00544,69,65-79,Male,White,Not Hispanic or Latino,Self-pay,Pulmonary,COPD exacerbation,3.4,2,3,0,1,0,0,0,0,0,2,Low,0
+E0003036,P00547,73,65-79,Male,Other,Not Hispanic or Latino,Medicare,General Surgery,Abdominal pain,5.4,0,3,0,0,1,0,0,0,0,5,Moderate,0
+E0003043,P00548,83,80+,Female,White,Not Hispanic or Latino,Medicare,General Medicine,Sepsis,3.1,5,1,1,0,0,0,0,1,0,5,Moderate,0
+E0003047,P00549,51,40-64,Female,Other,Not Hispanic or Latino,Medicaid,General Medicine,Sepsis,2.4,2,5,0,1,0,0,0,0,1,2,Low,0
+E0003052,P00550,39,18-39,Male,Other,Not Hispanic or Latino,Commercial,General Medicine,Syncope,2.2,4,1,0,0,0,0,0,0,0,3,Moderate,0
+E0003057,P00551,54,40-64,Male,White,Not Hispanic or Latino,Medicaid,Endocrinology,Diabetes complication,3.1,4,1,0,0,0,0,1,0,0,5,Moderate,0
+E0003058,P00551,54,40-64,Male,White,Not Hispanic or Latino,Medicaid,General Medicine,Cellulitis,5.1,2,1,0,0,0,0,1,0,0,5,Moderate,0
+E0003062,P00552,45,40-64,Male,White,Not Hispanic or Latino,Medicare,Cardiology,Atrial fibrillation,2.2,3,1,0,0,0,0,0,0,0,3,Moderate,0
+E0003069,P00553,79,65-79,Male,Black,Not Hispanic or Latino,Commercial,Cardiology,Heart failure exacerbation,3.3,5,3,0,1,1,0,0,0,1,7,High,0
+E0003073,P00554,19,18-39,Male,White,Not Hispanic or Latino,Medicare,General Medicine,Syncope,4.4,3,1,0,0,0,0,0,0,0,3,Moderate,0
+E0003078,P00555,42,40-64,Male,White,Hispanic or Latino,Medicaid,Endocrinology,Diabetes complication,4.1,3,1,0,0,0,0,0,0,0,3,Moderate,1
+E0003079,P00555,42,40-64,Male,White,Hispanic or Latino,Medicaid,General Medicine,Syncope,5.2,4,1,0,0,0,0,0,0,0,4,Moderate,0
+E0003091,P00557,29,18-39,Male,White,Not Hispanic or Latino,Commercial,Endocrinology,Hyperglycemia,4.1,5,2,0,0,0,1,0,0,0,6,Moderate,0
+E0003096,P00558,84,80+,Female,Black,Not Hispanic or Latino,Medicaid,Cardiology,Chest pain,1.4,4,1,0,0,0,0,0,0,0,3,Moderate,0
+E0003097,P00558,85,80+,Female,Black,Not Hispanic or Latino,Medicaid,Cardiology,Heart failure exacerbation,2.2,2,5,0,0,0,0,0,0,0,2,Low,0
+E0003100,P00559,61,40-64,Male,Asian,Hispanic or Latino,Commercial,General Medicine,Cellulitis,5.3,2,3,1,1,0,1,0,0,1,8,High,1
+E0003101,P00559,61,40-64,Male,Asian,Hispanic or Latino,Commercial,General Medicine,Electrolyte disorder,2.4,3,7,1,1,0,1,0,1,1,9,High,0
+E0003104,P00560,86,80+,Female,Asian,Hispanic or Latino,Medicare,General Medicine,Cellulitis,1.4,2,1,0,1,0,0,0,0,1,2,Low,0
+E0003111,P00561,41,40-64,Female,Black,Not Hispanic or Latino,Medicaid,General Medicine,Syncope,4.2,4,3,0,0,0,0,1,0,0,5,Moderate,0
+E0003120,P00562,18,18-39,Female,Black,Not Hispanic or Latino,Commercial,General Surgery,Postoperative wound issue,3.3,4,1,0,0,0,0,0,0,0,3,Moderate,0
+E0003134,P00564,76,65-79,Female,White,Not Hispanic or Latino,Commercial,General Surgery,Biliary disease,3.4,6,2,0,1,0,0,1,0,0,5,Moderate,0
+E0003135,P00564,77,65-79,Female,White,Not Hispanic or Latino,Commercial,Cardiology,Chest pain,1.3,2,4,0,1,0,0,1,0,1,4,Moderate,0
+E0003138,P00565,60,40-64,Female,Black,Hispanic or Latino,Commercial,General Surgery,Biliary disease,3.2,2,1,0,0,0,0,0,0,0,2,Low,0
+E0003145,P00566,83,80+,Female,White,Not Hispanic or Latino,Medicare,General Medicine,Cellulitis,2.1,6,4,0,0,0,0,0,0,0,3,Moderate,1
+E0003147,P00566,84,80+,Female,White,Not Hispanic or Latino,Medicare,Endocrinology,Diabetes complication,1.3,3,2,0,0,0,0,0,0,0,3,Moderate,0
+E0003152,P00567,52,40-64,Female,Asian,Not Hispanic or Latino,Medicare,Cardiology,Chest pain,3.3,1,2,0,0,0,0,0,0,0,1,Low,0
+E0003155,P00568,31,18-39,Male,White,Not Hispanic or Latino,Medicaid,General Medicine,Syncope,2.1,2,1,0,0,0,0,0,0,0,2,Low,0
+E0003156,P00568,31,18-39,Male,White,Not Hispanic or Latino,Medicaid,General Medicine,Syncope,2.1,3,1,0,0,0,0,0,0,0,3,Moderate,0
+E0003159,P00569,42,40-64,Male,White,Hispanic or Latino,Medicare,Pulmonary,Asthma exacerbation,1.1,0,2,0,1,0,0,0,0,1,0,Low,0
+E0003164,P00570,85,80+,Male,White,Not Hispanic or Latino,Medicare,General Medicine,Sepsis,3.1,4,4,0,0,1,0,0,0,0,7,High,0
+E0003168,P00571,80,80+,Female,White,Hispanic or Latino,Self-pay,Cardiology,Heart failure exacerbation,5.1,3,1,0,0,0,0,1,0,0,6,Moderate,0
+E0003171,P00572,50,40-64,Male,Other,Not Hispanic or Latino,Commercial,General Medicine,Sepsis,4.1,2,3,1,0,0,0,0,1,0,4,Moderate,1
+E0003186,P00575,71,65-79,Female,White,Not Hispanic or Latino,Medicaid,Endocrinology,Diabetes complication,3.2,3,6,0,1,0,0,1,0,0,6,Moderate,0
+E0003193,P00576,73,65-79,Male,White,Not Hispanic or Latino,Commercial,Cardiology,Atrial fibrillation,1.1,5,1,0,1,0,0,0,0,1,3,Moderate,0
+E0003194,P00576,73,65-79,Male,White,Not Hispanic or Latino,Commercial,Cardiology,Heart failure exacerbation,1.3,1,1,0,1,0,0,0,0,1,1,Low,0
+E0003204,P00578,49,40-64,Male,Other,Not Hispanic or Latino,Medicare,General Medicine,Cellulitis,2.2,3,1,0,1,0,0,0,0,1,3,Moderate,0
+E0003210,P00579,53,40-64,Male,White,Hispanic or Latino,Medicaid,General Medicine,Cellulitis,3.4,5,1,0,0,0,0,0,0,0,3,Moderate,0
+E0003214,P00580,50,40-64,Female,Asian,Hispanic or Latino,Commercial,General Medicine,Sepsis,2.2,3,2,0,1,0,0,0,0,1,3,Moderate,0
+E0003220,P00581,66,65-79,Male,White,Hispanic or Latino,Medicare,Pulmonary,COPD exacerbation,4.1,5,2,0,0,0,0,0,0,0,3,Moderate,0
+E0003226,P00582,24,18-39,Female,Black,Hispanic or Latino,Medicare,General Medicine,Sepsis,4.4,4,2,0,0,0,0,0,0,0,3,Moderate,0
+E0003227,P00582,24,18-39,Female,Black,Hispanic or Latino,Medicare,General Medicine,Electrolyte disorder,4.4,1,1,0,0,0,0,0,0,0,1,Low,0
+E0003231,P00583,43,40-64,Female,White,Not Hispanic or Latino,Self-pay,General Medicine,Syncope,5.2,3,5,0,0,1,1,0,0,0,11,High,0
+E0003232,P00583,43,40-64,Female,White,Not Hispanic or Latino,Self-pay,Endocrinology,Diabetes complication,3.2,2,4,0,0,1,1,0,0,0,9,High,0
+E0003235,P00584,23,18-39,Male,White,Not Hispanic or Latino,Commercial,General Medicine,Syncope,3.4,0,2,0,0,0,0,0,0,0,0,Low,0
+E0003236,P00584,24,18-39,Male,White,Not Hispanic or Latino,Commercial,General Medicine,Cellulitis,4.3,1,3,0,0,0,0,0,0,0,1,Low,0
+E0003242,P00585,45,40-64,Male,Asian,Unknown,Medicare,General Medicine,Sepsis,3.1,3,5,0,1,0,1,0,0,1,6,Moderate,0
+E0003243,P00585,45,40-64,Male,Asian,Unknown,Medicare,General Medicine,Cellulitis,1.1,1,4,0,1,0,1,0,0,1,4,Moderate,0
+E0003251,P00586,59,40-64,Male,White,Not Hispanic or Latino,Commercial,General Medicine,Sepsis,1.4,5,5,0,1,0,0,0,0,0,3,Moderate,0
+E0003255,P00587,33,18-39,Male,White,Not Hispanic or Latino,Medicaid,General Medicine,Electrolyte disorder,1.2,1,1,0,1,0,0,0,0,0,1,Low,0
+E0003260,P00588,82,80+,Male,White,Not Hispanic or Latino,Self-pay,General Medicine,Electrolyte disorder,2.2,4,2,0,0,0,0,0,0,0,3,Moderate,0
+E0003261,P00588,82,80+,Male,White,Not Hispanic or Latino,Self-pay,Pulmonary,Asthma exacerbation,1.2,5,4,0,0,0,0,0,0,0,3,Moderate,0
+E0003270,P00590,44,40-64,Male,White,Not Hispanic or Latino,Medicaid,Endocrinology,Hyperglycemia,3.3,3,1,0,0,0,0,0,0,0,3,Moderate,0
+E0003276,P00591,26,18-39,Female,White,Not Hispanic or Latino,Medicare,Endocrinology,Hyperglycemia,5.2,4,2,0,0,0,0,0,0,0,4,Moderate,0
+E0003283,P00592,36,18-39,Female,White,Not Hispanic or Latino,Commercial,General Medicine,Sepsis,1.3,4,1,0,0,0,0,0,0,0,3,Moderate,0
+E0003292,P00593,88,80+,Male,Unknown,Not Hispanic or Latino,Commercial,Cardiology,Heart failure exacerbation,6.2,7,2,0,1,0,1,0,0,1,7,High,0
+E0003293,P00593,88,80+,Male,Unknown,Not Hispanic or Latino,Commercial,Pulmonary,COPD exacerbation,4.3,2,2,0,1,0,1,0,0,1,5,Moderate,0
+E0003297,P00594,62,40-64,Male,White,Hispanic or Latino,Medicare,General Medicine,Syncope,3.1,3,2,0,0,0,0,0,0,0,3,Moderate,0
+E0003298,P00594,62,40-64,Male,White,Hispanic or Latino,Medicare,Cardiology,Chest pain,5.2,1,2,0,0,0,0,0,0,0,2,Low,0
+E0003304,P00595,64,40-64,Female,White,Not Hispanic or Latino,Medicare,General Surgery,Abdominal pain,1.3,3,2,0,0,0,0,0,0,0,3,Moderate,0
+E0003315,P00597,18,18-39,Female,Unknown,Hispanic or Latino,Medicare,General Medicine,Cellulitis,2.4,3,1,0,0,0,0,0,0,0,3,Moderate,0
+E0003321,P00598,83,80+,Female,White,Not Hispanic or Latino,Commercial,General Medicine,Cellulitis,3.4,5,4,0,1,0,1,0,0,1,6,Moderate,0
+E0003323,P00598,84,80+,Female,White,Not Hispanic or Latino,Commercial,General Medicine,Electrolyte disorder,6.1,2,5,0,1,0,1,0,0,1,6,Moderate,0
+E0003330,P00599,29,18-39,Female,Black,Not Hispanic or Latino,Medicaid,General Medicine,Syncope,4.2,6,3,0,0,0,0,0,0,0,3,Moderate,1
+E0003331,P00599,29,18-39,Female,Black,Not Hispanic or Latino,Medicaid,General Medicine,Sepsis,1.4,6,1,0,0,0,0,0,0,0,3,Moderate,0
+E0003336,P00600,30,18-39,Male,White,Not Hispanic or Latino,Medicare,Cardiology,Chest pain,3.3,4,1,0,0,0,0,0,0,0,3,Moderate,0
+E0003340,P00601,62,40-64,Female,Unknown,Not Hispanic or Latino,Commercial,Cardiology,Atrial fibrillation,4.2,1,3,0,0,0,0,0,0,0,1,Low,1
+E0003341,P00601,62,40-64,Female,Unknown,Not Hispanic or Latino,Commercial,General Medicine,Syncope,3.3,1,2,0,0,0,0,0,0,0,1,Low,0
+E0003347,P00603,89,80+,Male,Asian,Hispanic or Latino,Medicare,General Medicine,Cellulitis,1.1,2,3,0,1,0,0,0,0,1,2,Low,0
+E0003352,P00604,60,40-64,Male,Asian,Not Hispanic or Latino,Medicaid,General Medicine,Syncope,3.2,4,1,0,0,0,0,0,0,0,3,Moderate,0
+E0003355,P00605,50,40-64,Female,White,Not Hispanic or Latino,Medicare,Endocrinology,Hypoglycemia,3.2,1,1,0,0,0,0,0,0,0,1,Low,0
+E0003358,P00606,47,40-64,Male,White,Not Hispanic or Latino,Commercial,General Surgery,Postoperative wound issue,3.1,2,1,0,0,0,0,0,0,0,2,Low,0
+E0003361,P00607,40,40-64,Female,White,Not Hispanic or Latino,Medicare,General Medicine,Sepsis,5.3,2,1,0,0,0,0,0,0,0,3,Moderate,0
+E0003366,P00608,60,40-64,Male,White,Not Hispanic or Latino,Medicaid,General Medicine,Cellulitis,4.1,4,4,1,1,0,0,0,1,1,5,Moderate,0
+E0003367,P00608,60,40-64,Male,White,Not Hispanic or Latino,Medicaid,Endocrinology,Diabetes complication,2.3,2,4,1,1,0,0,0,1,1,4,Moderate,0
+E0003373,P00609,52,40-64,Female,Black,Not Hispanic or Latino,Commercial,General Medicine,Sepsis,4.1,5,1,0,1,1,0,0,0,1,7,High,1
+E0003374,P00609,52,40-64,Female,Black,Not Hispanic or Latino,Commercial,Endocrinology,Hyperglycemia,4.2,6,3,0,1,1,0,0,0,1,7,High,0
+E0003380,P00610,64,40-64,Female,White,Not Hispanic or Latino,Medicaid,General Medicine,Electrolyte disorder,7.2,4,5,0,0,1,1,0,0,0,11,High,0
+E0003381,P00610,65,65-79,Female,White,Not Hispanic or Latino,Medicaid,Endocrinology,Hypoglycemia,4.1,1,4,0,0,1,1,0,0,0,8,High,0
+E0003385,P00611,85,80+,Female,White,Not Hispanic or Latino,Medicare,General Surgery,Abdominal pain,4.1,2,5,0,1,0,0,1,0,1,4,Moderate,0
+E0003390,P00612,65,65-79,Female,White,Not Hispanic or Latino,Commercial,General Medicine,Electrolyte disorder,4.1,4,3,0,0,0,0,1,0,0,5,Moderate,0
+E0003392,P00612,66,65-79,Female,White,Not Hispanic or Latino,Commercial,General Medicine,Syncope,6.3,1,2,0,0,0,0,1,0,0,4,Moderate,0
+E0003398,P00613,48,40-64,Female,Other,Not Hispanic or Latino,Commercial,General Medicine,Sepsis,3.2,5,1,0,0,0,0,0,0,0,3,Moderate,0
+E0003399,P00613,48,40-64,Female,Other,Not Hispanic or Latino,Commercial,General Surgery,Biliary disease,2.2,6,3,0,0,0,0,0,0,0,3,Moderate,1
+E0003400,P00613,48,40-64,Female,Other,Not Hispanic or Latino,Commercial,Cardiology,Heart failure exacerbation,1.3,7,3,0,0,0,0,0,0,0,3,Moderate,0
+E0003410,P00615,88,80+,Female,Asian,Hispanic or Latino,Medicare,Pulmonary,Asthma exacerbation,2.4,3,2,0,0,0,0,0,0,0,3,Moderate,0
+E0003416,P00616,39,18-39,Male,White,Not Hispanic or Latino,Medicare,General Surgery,Abdominal pain,4.2,5,2,1,0,0,0,0,1,0,5,Moderate,0
+E0003420,P00617,77,65-79,Female,Black,Unknown,Medicare,Pulmonary,COPD exacerbation,1.2,3,3,0,0,0,0,0,0,0,3,Moderate,0
+E0003428,P00618,59,40-64,Female,White,Not Hispanic or Latino,Medicare,General Surgery,Abdominal pain,4.1,7,5,1,1,0,0,0,1,1,5,Moderate,0
+E0003429,P00618,59,40-64,Female,White,Not Hispanic or Latino,Medicare,Cardiology,Heart failure exacerbation,4.1,4,4,1,1,0,0,0,1,0,5,Moderate,1
+E0003430,P00618,60,40-64,Female,White,Not Hispanic or Latino,Medicare,General Surgery,Postoperative wound issue,6.4,3,5,1,1,0,0,0,1,1,6,Moderate,0
+E0003435,P00619,19,18-39,Male,White,Not Hispanic or Latino,Commercial,Cardiology,Chest pain,3.3,4,2,0,0,0,0,0,0,0,3,Moderate,0
+E0003436,P00619,19,18-39,Male,White,Not Hispanic or Latino,Commercial,General Surgery,Biliary disease,1.3,3,1,0,0,0,0,0,0,0,3,Moderate,0
+E0003446,P00622,52,40-64,Male,Black,Not Hispanic or Latino,Medicare,Cardiology,Atrial fibrillation,4.2,1,3,1,1,0,0,0,1,0,3,Moderate,0
+E0003453,P00624,31,18-39,Female,Black,Not Hispanic or Latino,Medicare,General Medicine,Syncope,3.1,2,4,0,0,0,0,0,0,0,2,Low,0
+E0003454,P00624,31,18-39,Female,Black,Not Hispanic or Latino,Medicare,General Medicine,Cellulitis,1.1,2,1,0,0,0,0,0,0,0,2,Low,1
+E0003455,P00624,31,18-39,Female,Black,Not Hispanic or Latino,Medicare,Pulmonary,COPD exacerbation,3.2,3,3,0,0,0,0,0,0,0,3,Moderate,0
+E0003460,P00625,51,40-64,Female,White,Not Hispanic or Latino,Commercial,Pulmonary,COPD exacerbation,3.1,4,1,0,0,0,0,0,0,0,3,Moderate,0
+E0003466,P00626,45,40-64,Female,White,Hispanic or Latino,Commercial,Endocrinology,Diabetes complication,2.2,5,4,0,1,0,0,0,0,1,3,Moderate,0
+E0003467,P00626,46,40-64,Female,White,Hispanic or Latino,Commercial,General Medicine,Cellulitis,5.1,2,5,0,1,0,0,0,0,1,3,Moderate,0
+E0003474,P00628,37,18-39,Female,Black,Not Hispanic or Latino,Commercial,Endocrinology,Hyperglycemia,2.3,2,5,0,0,0,0,0,0,0,2,Low,0
+E0003478,P00629,59,40-64,Female,White,Not Hispanic or Latino,Commercial,General Surgery,Postoperative wound issue,4.1,3,3,0,0,0,0,0,0,0,3,Moderate,0
+E0003479,P00629,59,40-64,Female,White,Not Hispanic or Latino,Commercial,General Surgery,Abdominal pain,1.2,2,1,0,0,0,0,0,0,0,2,Low,0
+E0003496,P00632,48,40-64,Female,Black,Not Hispanic or Latino,Medicaid,Pulmonary,Asthma exacerbation,4.4,2,1,0,0,0,0,0,0,0,2,Low,0
+E0003497,P00632,48,40-64,Female,Black,Not Hispanic or Latino,Medicaid,General Medicine,Syncope,2.1,2,2,0,0,0,0,0,0,0,2,Low,0
+E0003499,P00633,23,18-39,Female,White,Not Hispanic or Latino,Medicare,General Surgery,Abdominal pain,2.2,1,2,0,0,0,0,0,0,0,1,Low,0
+E0003500,P00633,23,18-39,Female,White,Not Hispanic or Latino,Medicare,General Medicine,Cellulitis,3.1,1,3,0,0,0,0,0,0,0,1,Low,0
+E0003503,P00634,76,65-79,Female,Black,Hispanic or Latino,Commercial,General Medicine,Sepsis,3.2,1,1,0,0,0,0,1,0,0,3,Moderate,1
+E0003507,P00635,24,18-39,Female,White,Not Hispanic or Latino,Commercial,Endocrinology,Hyperglycemia,2.4,2,2,0,1,0,0,0,0,1,2,Low,0
+E0003508,P00635,24,18-39,Female,White,Not Hispanic or Latino,Commercial,General Medicine,Syncope,2.3,2,2,0,1,0,0,0,0,1,2,Low,0
+E0003514,P00636,86,80+,Female,White,Not Hispanic or Latino,Self-pay,General Medicine,Sepsis,2.1,5,3,0,1,0,0,0,0,1,3,Moderate,1
+E0003515,P00636,86,80+,Female,White,Not Hispanic or Latino,Self-pay,Endocrinology,Hyperglycemia,1.3,4,3,0,1,0,0,0,0,1,3,Moderate,0
+E0003524,P00637,86,80+,Female,White,Not Hispanic or Latino,Commercial,Cardiology,Atrial fibrillation,6.3,2,3,0,1,1,1,0,0,1,10,High,0
+E0003528,P00638,55,40-64,Female,Unknown,Not Hispanic or Latino,Medicare,General Surgery,Postoperative wound issue,4.2,3,1,0,1,0,0,0,0,1,3,Moderate,0
+E0003537,P00640,35,18-39,Female,Black,Not Hispanic or Latino,Medicaid,General Surgery,Biliary disease,2.2,3,2,0,1,0,0,0,0,1,3,Moderate,0
+E0003547,P00642,82,80+,Female,White,Hispanic or Latino,Medicare,General Medicine,Electrolyte disorder,4.1,8,1,1,0,0,0,1,1,0,7,High,0
+E0003548,P00642,83,80+,Female,White,Hispanic or Latino,Medicare,Pulmonary,Asthma exacerbation,4.2,4,2,1,0,0,0,1,0,0,7,High,0
+E0003552,P00643,62,40-64,Female,White,Unknown,Medicare,General Medicine,Syncope,4.3,3,2,0,1,0,0,0,0,1,3,Moderate,0
+E0003555,P00644,53,40-64,Male,Black,Not Hispanic or Latino,Medicare,Pulmonary,Pneumonia,2.1,2,3,0,1,0,0,0,0,1,2,Low,0
+E0003561,P00645,40,40-64,Male,Asian,Not Hispanic or Latino,Medicare,General Medicine,Syncope,3.4,5,2,0,0,0,0,0,0,0,3,Moderate,0
+E0003562,P00645,41,40-64,Male,Asian,Not Hispanic or Latino,Medicare,General Medicine,Syncope,2.3,1,1,0,0,0,0,0,0,0,1,Low,0
+E0003567,P00646,60,40-64,Male,White,Not Hispanic or Latino,Medicare,General Medicine,Sepsis,1.4,4,2,0,0,0,0,0,0,0,3,Moderate,1
+E0003568,P00646,60,40-64,Male,White,Not Hispanic or Latino,Medicare,General Medicine,Sepsis,4.2,5,4,0,0,0,0,0,0,0,3,Moderate,0
+E0003573,P00647,74,65-79,Male,White,Not Hispanic or Latino,Commercial,General Medicine,Sepsis,4.2,3,1,0,0,1,0,0,0,0,7,High,0
+E0003577,P00648,79,65-79,Female,Other,Not Hispanic or Latino,Commercial,Cardiology,Chest pain,4.2,3,6,0,1,0,0,0,0,1,4,Moderate,0
+E0003583,P00649,79,65-79,Male,Asian,Not Hispanic or Latino,Commercial,General Medicine,Sepsis,4.3,5,4,1,1,0,0,0,1,1,5,Moderate,0
+E0003584,P00649,79,65-79,Male,Asian,Not Hispanic or Latino,Commercial,Pulmonary,COPD exacerbation,4.1,1,3,1,1,0,0,0,1,1,3,Moderate,0
+E0003594,P00650,51,40-64,Female,Black,Unknown,Commercial,General Medicine,Syncope,4.2,7,1,0,1,0,1,0,0,1,6,Moderate,0
+E0003602,P00651,62,40-64,Male,White,Not Hispanic or Latino,Commercial,Pulmonary,COPD exacerbation,1.4,7,2,0,0,0,0,0,0,0,3,Moderate,0
+E0003603,P00651,62,40-64,Male,White,Not Hispanic or Latino,Commercial,Cardiology,Atrial fibrillation,1.2,1,3,0,0,0,0,0,0,0,1,Low,0
+E0003604,P00651,63,40-64,Male,White,Not Hispanic or Latino,Commercial,General Medicine,Electrolyte disorder,3.4,1,1,0,0,0,0,0,0,0,1,Low,0
+E0003609,P00652,59,40-64,Female,White,Not Hispanic or Latino,Medicaid,Cardiology,Heart failure exacerbation,1.2,2,1,0,0,0,0,0,0,0,2,Low,0
+E0003610,P00652,60,40-64,Female,White,Not Hispanic or Latino,Medicaid,General Medicine,Sepsis,2.1,1,1,0,0,0,0,0,0,0,1,Low,0
+E0003611,P00652,60,40-64,Female,White,Not Hispanic or Latino,Medicaid,Pulmonary,Asthma exacerbation,3.1,2,2,0,0,0,0,0,0,0,2,Low,0
+E0003615,P00653,86,80+,Male,White,Hispanic or Latino,Medicare,General Medicine,Electrolyte disorder,2.3,2,4,0,1,0,0,0,0,1,2,Low,0
+E0003618,P00654,66,65-79,Female,White,Not Hispanic or Latino,Medicaid,General Medicine,Electrolyte disorder,4.2,1,3,0,0,0,0,0,0,0,1,Low,0
+E0003626,P00655,33,18-39,Female,White,Not Hispanic or Latino,Medicare,General Medicine,Electrolyte disorder,1.4,7,3,0,1,0,0,0,0,1,3,Moderate,0
+E0003628,P00655,34,18-39,Female,White,Not Hispanic or Latino,Medicare,General Medicine,Sepsis,2.1,1,3,0,1,0,0,0,0,1,1,Low,0
+E0003633,P00656,56,40-64,Male,Unknown,Not Hispanic or Latino,Medicare,Endocrinology,Diabetes complication,2.2,3,1,0,0,0,0,0,0,0,3,Moderate,0
+E0003641,P00658,63,40-64,Female,White,Not Hispanic or Latino,Medicare,Cardiology,Heart failure exacerbation,2.4,3,2,0,0,0,0,0,0,0,3,Moderate,0
+E0003647,P00659,70,65-79,Male,Black,Not Hispanic or Latino,Medicare,Cardiology,Atrial fibrillation,4.3,3,4,0,1,0,0,1,0,1,5,Moderate,0
+E0003648,P00659,70,65-79,Male,Black,Not Hispanic or Latino,Medicare,Cardiology,Atrial fibrillation,6.4,2,3,0,1,0,0,1,0,1,5,Moderate,0
+E0003656,P00660,32,18-39,Male,White,Not Hispanic or Latino,Commercial,Pulmonary,Pneumonia,2.1,5,1,0,0,0,0,0,0,0,3,Moderate,0
+E0003660,P00661,59,40-64,Female,White,Not Hispanic or Latino,Medicare,General Surgery,Biliary disease,3.3,2,3,0,0,0,0,1,0,0,4,Moderate,0
+E0003666,P00662,73,65-79,Male,White,Not Hispanic or Latino,Commercial,General Surgery,Abdominal pain,5.3,5,4,0,0,1,1,0,0,0,11,High,0
+E0003667,P00662,73,65-79,Male,White,Not Hispanic or Latino,Commercial,General Surgery,Biliary disease,1.3,2,3,0,0,1,1,0,0,0,9,High,0
+E0003677,P00663,52,40-64,Female,Asian,Not Hispanic or Latino,Commercial,General Medicine,Sepsis,6.1,8,5,0,1,0,1,0,0,0,7,High,0
+E0003680,P00664,19,18-39,Female,Unknown,Hispanic or Latino,Medicaid,General Medicine,Syncope,2.3,2,1,0,0,0,0,0,0,0,2,Low,0
+E0003681,P00664,19,18-39,Female,Unknown,Hispanic or Latino,Medicaid,General Medicine,Electrolyte disorder,2.4,2,1,0,0,0,0,0,0,0,2,Low,0
+E0003688,P00665,86,80+,Male,Black,Not Hispanic or Latino,Medicare,Cardiology,Atrial fibrillation,6.3,6,1,0,1,0,1,0,0,0,7,High,0
+E0003689,P00665,86,80+,Male,Black,Not Hispanic or Latino,Medicare,General Medicine,Syncope,1.3,6,4,0,1,0,1,0,0,1,6,Moderate,0
+E0003693,P00666,42,40-64,Male,White,Not Hispanic or Latino,Commercial,General Medicine,Electrolyte disorder,2.4,3,2,0,0,0,0,1,0,0,5,Moderate,0
+E0003694,P00666,42,40-64,Male,White,Not Hispanic or Latino,Commercial,Cardiology,Heart failure exacerbation,6.3,2,4,0,0,0,0,1,0,0,5,Moderate,0
+E0003698,P00667,36,18-39,Male,White,Not Hispanic or Latino,Medicare,Pulmonary,Asthma exacerbation,1.3,2,1,0,0,0,0,0,0,0,2,Low,0
+E0003699,P00667,36,18-39,Male,White,Not Hispanic or Latino,Medicare,Cardiology,Atrial fibrillation,2.2,2,3,0,0,0,0,0,0,0,2,Low,0
+E0003706,P00668,45,40-64,Male,Asian,Not Hispanic or Latino,Commercial,Endocrinology,Hyperglycemia,3.3,5,3,0,0,0,0,0,0,0,3,Moderate,0
+E0003707,P00668,46,40-64,Male,Asian,Not Hispanic or Latino,Commercial,General Medicine,Cellulitis,2.1,3,4,0,0,0,0,0,0,0,3,Moderate,1
+E0003708,P00668,46,40-64,Male,Asian,Not Hispanic or Latino,Commercial,Cardiology,Atrial fibrillation,3.4,2,1,0,0,0,0,0,0,0,2,Low,0
+E0003711,P00669,78,65-79,Female,Asian,Not Hispanic or Latino,Medicare,General Medicine,Electrolyte disorder,4.2,1,3,0,0,0,0,0,0,0,1,Low,0
+E0003716,P00670,18,18-39,Male,White,Not Hispanic or Latino,Commercial,General Surgery,Postoperative wound issue,2.1,4,3,0,0,0,0,0,0,0,3,Moderate,0
+E0003724,P00672,38,18-39,Male,White,Not Hispanic or Latino,Medicaid,Pulmonary,Pneumonia,2.2,3,4,1,0,0,0,0,1,0,5,Moderate,1
+E0003725,P00672,38,18-39,Male,White,Not Hispanic or Latino,Medicaid,Endocrinology,Hypoglycemia,4.2,4,4,1,0,0,0,0,1,0,5,Moderate,0
+E0003732,P00673,45,40-64,Female,Other,Not Hispanic or Latino,Commercial,Endocrinology,Diabetes complication,3.4,5,1,1,0,0,0,0,0,0,5,Moderate,0
+E0003733,P00673,45,40-64,Female,Other,Not Hispanic or Latino,Commercial,General Medicine,Electrolyte disorder,3.2,3,1,1,0,0,0,0,1,0,5,Moderate,0
+E0003739,P00674,54,40-64,Female,White,Not Hispanic or Latino,Medicaid,Cardiology,Heart failure exacerbation,4.3,5,1,0,0,0,0,0,0,0,3,Moderate,0
+E0003741,P00674,54,40-64,Female,White,Not Hispanic or Latino,Medicaid,Endocrinology,Hypoglycemia,1.2,2,1,0,0,0,0,0,0,0,2,Low,0
+E0003746,P00675,41,40-64,Male,Black,Not Hispanic or Latino,Commercial,Cardiology,Chest pain,2.1,3,1,0,0,0,0,0,0,0,3,Moderate,0
+E0003753,P00676,74,65-79,Male,White,Not Hispanic or Latino,Commercial,Endocrinology,Diabetes complication,5.1,3,4,0,0,1,0,0,0,0,8,High,0
+E0003754,P00676,75,65-79,Male,White,Not Hispanic or Latino,Commercial,Pulmonary,COPD exacerbation,4.1,1,4,0,0,1,0,0,0,0,5,Moderate,0
+E0003761,P00677,28,18-39,Male,Black,Not Hispanic or Latino,Medicaid,General Medicine,Sepsis,1.1,2,4,0,0,0,0,0,0,0,2,Low,0
+E0003767,P00678,46,40-64,Male,White,Not Hispanic or Latino,Commercial,General Medicine,Syncope,4.2,3,1,0,0,0,0,0,0,0,3,Moderate,0
+E0003768,P00678,47,40-64,Male,White,Not Hispanic or Latino,Commercial,Cardiology,Atrial fibrillation,1.2,1,2,0,0,0,0,0,0,0,1,Low,0
+E0003776,P00679,41,40-64,Male,Asian,Not Hispanic or Latino,Medicaid,General Medicine,Sepsis,2.2,5,6,1,1,0,0,1,1,1,8,High,1
+E0003777,P00679,42,40-64,Male,Asian,Not Hispanic or Latino,Medicaid,General Surgery,Postoperative wound issue,2.3,5,4,1,1,0,0,1,1,1,7,High,0
+E0003780,P00680,51,40-64,Male,Black,Not Hispanic or Latino,Self-pay,Pulmonary,Asthma exacerbation,1.1,2,2,0,1,0,0,0,0,1,2,Low,0
+E0003787,P00681,26,18-39,Female,White,Not Hispanic or Latino,Commercial,General Medicine,Cellulitis,5.1,6,2,0,0,0,0,1,0,0,6,Moderate,0
+E0003804,P00684,63,40-64,Female,White,Not Hispanic or Latino,Medicaid,Endocrinology,Hypoglycemia,3.3,2,3,0,0,0,1,1,0,0,7,High,0
+E0003810,P00685,81,80+,Male,White,Hispanic or Latino,Medicaid,Endocrinology,Hyperglycemia,4.2,5,3,0,0,0,0,0,0,0,3,Moderate,0
+E0003820,P00687,61,40-64,Male,White,Not Hispanic or Latino,Medicare,Cardiology,Chest pain,3.3,3,3,1,1,0,0,0,1,1,5,Moderate,1
+E0003821,P00687,61,40-64,Male,White,Not Hispanic or Latino,Medicare,Pulmonary,Asthma exacerbation,1.3,4,2,1,1,0,0,0,0,1,5,Moderate,0
+E0003827,P00688,81,80+,Male,White,Not Hispanic or Latino,Commercial,General Medicine,Electrolyte disorder,1.4,4,1,0,0,1,0,0,0,0,7,High,0
+E0003829,P00689,63,40-64,Female,White,Not Hispanic or Latino,Medicaid,Pulmonary,COPD exacerbation,6.2,1,4,1,1,1,1,0,1,1,11,High,0
+E0003830,P00689,64,40-64,Female,White,Not Hispanic or Latino,Medicaid,Pulmonary,Asthma exacerbation,5.2,2,4,1,1,1,1,0,1,1,12,High,1
+E0003831,P00689,64,40-64,Female,White,Not Hispanic or Latino,Medicaid,General Surgery,Abdominal pain,6.1,2,7,1,1,1,1,0,1,1,13,High,0
+E0003846,P00691,25,18-39,Female,White,Hispanic or Latino,Medicare,Pulmonary,Pneumonia,3.4,5,1,0,0,0,0,0,0,0,3,Moderate,0
+E0003852,P00692,34,18-39,Male,White,Hispanic or Latino,Commercial,General Medicine,Syncope,1.3,5,1,0,0,0,0,0,0,0,3,Moderate,0
+E0003860,P00693,56,40-64,Male,White,Hispanic or Latino,Medicare,Cardiology,Heart failure exacerbation,2.2,6,5,1,1,0,0,0,0,1,5,Moderate,0
+E0003863,P00694,52,40-64,Female,Black,Not Hispanic or Latino,Medicare,Endocrinology,Diabetes complication,4.4,2,2,0,1,0,0,0,0,1,2,Low,0
+E0003864,P00694,52,40-64,Female,Black,Not Hispanic or Latino,Medicare,General Medicine,Sepsis,1.1,1,2,0,1,0,0,0,0,1,1,Low,1
+E0003865,P00694,52,40-64,Female,Black,Not Hispanic or Latino,Medicare,General Medicine,Syncope,4.2,2,5,0,1,0,0,0,0,0,2,Low,0
+E0003869,P00695,29,18-39,Male,White,Not Hispanic or Latino,Commercial,General Medicine,Electrolyte disorder,3.2,2,1,0,1,0,0,0,0,1,2,Low,1
+E0003870,P00695,29,18-39,Male,White,Not Hispanic or Latino,Commercial,Endocrinology,Diabetes complication,5.1,3,5,0,1,0,0,0,0,1,4,Moderate,0
+E0003876,P00696,57,40-64,Male,Other,Hispanic or Latino,Medicaid,Pulmonary,Asthma exacerbation,3.1,5,3,0,0,0,1,0,0,0,6,Moderate,0
+E0003883,P00697,62,40-64,Female,White,Not Hispanic or Latino,Medicare,Cardiology,Heart failure exacerbation,2.2,5,1,0,0,0,0,0,0,0,3,Moderate,0
+E0003887,P00698,19,18-39,Male,Black,Not Hispanic or Latino,Commercial,Endocrinology,Diabetes complication,5.4,2,2,0,0,0,0,0,0,0,3,Moderate,0
+E0003891,P00699,35,18-39,Female,Unknown,Not Hispanic or Latino,Commercial,General Surgery,Biliary disease,2.3,2,5,0,0,0,0,0,0,0,2,Low,0
+E0003900,P00700,70,65-79,Male,White,Not Hispanic or Latino,Medicare,General Medicine,Electrolyte disorder,7.1,8,3,0,1,0,0,1,0,1,6,Moderate,0
+E0003906,P00701,59,40-64,Male,White,Unknown,Medicare,General Surgery,Abdominal pain,3.1,5,4,0,0,0,0,0,0,0,3,Moderate,0
+E0003907,P00701,60,40-64,Male,White,Unknown,Medicare,Endocrinology,Diabetes complication,1.4,3,1,0,0,0,0,0,0,0,3,Moderate,0
+E0003913,P00702,23,18-39,Female,Other,Not Hispanic or Latino,Commercial,Cardiology,Chest pain,3.3,1,1,0,0,0,0,0,0,0,1,Low,0
+E0003926,P00704,86,80+,Female,Unknown,Not Hispanic or Latino,Medicare,General Surgery,Postoperative wound issue,1.2,6,3,0,0,0,0,0,0,0,3,Moderate,0
+E0003927,P00704,87,80+,Female,Unknown,Not Hispanic or Latino,Medicare,General Surgery,Abdominal pain,3.3,2,1,0,0,0,0,0,0,0,2,Low,0
+E0003931,P00705,86,80+,Male,Asian,Not Hispanic or Latino,Medicare,Pulmonary,Pneumonia,4.3,3,2,0,0,0,0,1,0,0,5,Moderate,0
+E0003941,P00706,53,40-64,Female,Asian,Not Hispanic or Latino,Medicare,General Surgery,Postoperative wound issue,5.4,9,2,0,0,1,0,0,0,0,8,High,0
+E0003942,P00706,53,40-64,Female,Asian,Not Hispanic or Latino,Medicare,Endocrinology,Diabetes complication,1.2,4,4,0,0,1,0,0,0,0,7,High,0
+E0003952,P00708,69,65-79,Male,White,Not Hispanic or Latino,Commercial,General Surgery,Abdominal pain,3.3,4,1,0,1,0,1,0,0,1,6,Moderate,0
+E0003958,P00709,49,40-64,Female,White,Not Hispanic or Latino,Commercial,General Medicine,Sepsis,3.4,3,3,0,1,0,0,0,0,1,3,Moderate,0
+E0003961,P00710,56,40-64,Female,Black,Not Hispanic or Latino,Commercial,Endocrinology,Diabetes complication,2.4,1,1,0,0,0,0,0,0,0,1,Low,1
+E0003962,P00710,56,40-64,Female,Black,Not Hispanic or Latino,Commercial,General Surgery,Postoperative wound issue,1.2,2,1,0,0,0,0,0,0,0,2,Low,0
+E0003965,P00711,69,65-79,Male,Black,Not Hispanic or Latino,Commercial,General Medicine,Syncope,2.2,2,4,0,1,0,0,0,0,1,2,Low,0
+E0003966,P00711,70,65-79,Male,Black,Not Hispanic or Latino,Commercial,Cardiology,Chest pain,5.4,1,5,0,1,0,0,0,0,1,2,Low,0
+E0003967,P00711,70,65-79,Male,Black,Not Hispanic or Latino,Commercial,General Medicine,Electrolyte disorder,3.2,1,3,0,1,0,0,0,0,1,1,Low,0
+E0003971,P00712,61,40-64,Female,Asian,Not Hispanic or Latino,Commercial,General Medicine,Cellulitis,2.1,3,3,0,0,0,0,0,0,0,3,Moderate,1
+E0003972,P00712,61,40-64,Female,Asian,Not Hispanic or Latino,Commercial,Cardiology,Heart failure exacerbation,3.3,4,2,0,0,0,0,0,0,0,3,Moderate,1
+E0003973,P00712,61,40-64,Female,Asian,Not Hispanic or Latino,Commercial,Pulmonary,Pneumonia,6.2,5,1,0,0,0,0,0,0,0,4,Moderate,0
+E0003978,P00713,60,40-64,Male,Asian,Not Hispanic or Latino,Commercial,General Medicine,Electrolyte disorder,2.4,3,2,0,0,0,0,0,0,0,3,Moderate,0
+E0003981,P00714,22,18-39,Female,Black,Not Hispanic or Latino,Medicare,General Medicine,Cellulitis,5.1,2,3,0,0,0,0,0,0,0,3,Moderate,0
+E0003982,P00714,22,18-39,Female,Black,Not Hispanic or Latino,Medicare,General Medicine,Syncope,2.4,1,2,0,0,0,0,0,0,0,1,Low,0
+E0003983,P00714,22,18-39,Female,Black,Not Hispanic or Latino,Medicare,General Medicine,Cellulitis,1.4,2,1,0,0,0,0,0,0,0,2,Low,0
+E0003986,P00715,64,40-64,Male,Unknown,Not Hispanic or Latino,Medicare,General Surgery,Abdominal pain,3.2,2,2,1,0,0,0,0,1,0,4,Moderate,0
+E0003987,P00715,65,65-79,Male,Unknown,Not Hispanic or Latino,Medicare,General Medicine,Syncope,1.1,3,1,1,0,0,0,0,1,0,5,Moderate,0
+E0003996,P00716,65,65-79,Male,Other,Hispanic or Latino,Medicaid,General Surgery,Abdominal pain,3.3,8,3,1,1,1,0,0,0,1,9,High,0
+E0003997,P00716,65,65-79,Male,Other,Hispanic or Latino,Medicaid,Cardiology,Atrial fibrillation,4.2,4,6,1,1,1,0,0,1,1,10,High,0
+E0004003,P00717,18,18-39,Male,White,Hispanic or Latino,Commercial,Pulmonary,Asthma exacerbation,3.2,5,1,0,0,0,0,0,0,0,3,Moderate,0
+E0004006,P00718,61,40-64,Female,Asian,Not Hispanic or Latino,Commercial,Pulmonary,COPD exacerbation,4.2,2,2,1,0,0,0,1,0,0,6,Moderate,0
+E0004010,P00719,87,80+,Female,White,Not Hispanic or Latino,Medicaid,General Medicine,Sepsis,3.3,2,3,1,1,0,0,0,1,1,4,Moderate,0
+E0004011,P00719,87,80+,Female,White,Not Hispanic or Latino,Medicaid,Pulmonary,COPD exacerbation,3.2,1,7,1,1,0,0,0,1,1,4,Moderate,0
+E0004012,P00719,88,80+,Female,White,Not Hispanic or Latino,Medicaid,Cardiology,Chest pain,4.2,1,6,1,1,0,0,0,0,1,4,Moderate,0
+E0004018,P00720,58,40-64,Male,Asian,Not Hispanic or Latino,Medicaid,Pulmonary,Pneumonia,3.2,4,4,0,1,0,0,1,0,0,5,Moderate,1
+E0004019,P00720,58,40-64,Male,Asian,Not Hispanic or Latino,Medicaid,General Medicine,Cellulitis,2.4,5,4,0,1,0,0,1,0,1,5,Moderate,0
+E0004028,P00722,65,65-79,Female,White,Not Hispanic or Latino,Medicaid,Cardiology,Heart failure exacerbation,1.1,3,5,0,1,0,1,0,0,1,6,Moderate,0
+E0004029,P00722,65,65-79,Female,White,Not Hispanic or Latino,Medicaid,Pulmonary,COPD exacerbation,2.4,2,2,0,1,0,1,0,0,1,5,Moderate,0
+E0004037,P00724,75,65-79,Male,Unknown,Not Hispanic or Latino,Self-pay,Cardiology,Heart failure exacerbation,2.2,5,1,0,0,0,0,0,0,0,3,Moderate,0
+E0004041,P00725,53,40-64,Male,Unknown,Not Hispanic or Latino,Medicare,General Medicine,Cellulitis,3.3,2,1,0,0,0,0,0,0,0,2,Low,0
+E0004048,P00726,53,40-64,Male,White,Not Hispanic or Latino,Medicare,Endocrinology,Diabetes complication,1.4,4,2,0,0,0,0,0,0,0,3,Moderate,0
+E0004049,P00726,54,40-64,Male,White,Not Hispanic or Latino,Medicare,Cardiology,Atrial fibrillation,5.2,1,1,0,0,0,0,0,0,0,2,Low,1
+E0004050,P00726,54,40-64,Male,White,Not Hispanic or Latino,Medicare,General Medicine,Electrolyte disorder,4.3,2,1,0,0,0,0,0,0,0,2,Low,0
+E0004054,P00727,81,80+,Male,Black,Not Hispanic or Latino,Medicare,Pulmonary,COPD exacerbation,5.4,3,3,0,0,1,0,0,0,0,8,High,1
+E0004060,P00728,47,40-64,Male,Asian,Not Hispanic or Latino,Medicaid,General Medicine,Syncope,4.2,3,5,0,1,0,0,0,0,0,3,Moderate,0
+E0004070,P00729,58,40-64,Female,Black,Not Hispanic or Latino,Commercial,General Medicine,Syncope,4.4,9,3,0,0,0,1,0,0,0,6,Moderate,0
+E0004081,P00731,55,40-64,Male,Black,Not Hispanic or Latino,Medicare,General Medicine,Sepsis,3.4,6,2,1,0,0,0,0,1,0,5,Moderate,0
+E0004088,P00732,46,40-64,Female,White,Not Hispanic or Latino,Medicare,Endocrinology,Diabetes complication,2.3,6,2,0,0,1,0,0,0,0,7,High,0
+E0004092,P00733,47,40-64,Female,Other,Not Hispanic or Latino,Medicaid,General Medicine,Syncope,4.4,2,4,1,0,0,0,0,1,0,4,Moderate,0
+E0004097,P00734,86,80+,Male,White,Not Hispanic or Latino,Medicare,Endocrinology,Diabetes complication,4.3,4,2,0,0,0,0,1,0,0,5,Moderate,0
+E0004102,P00735,51,40-64,Female,White,Not Hispanic or Latino,Medicare,Pulmonary,Asthma exacerbation,4.4,2,6,0,0,1,0,0,0,0,7,High,1
+E0004103,P00735,51,40-64,Female,White,Not Hispanic or Latino,Medicare,Cardiology,Atrial fibrillation,2.3,2,1,0,0,1,0,0,0,0,6,Moderate,0
+E0004106,P00736,63,40-64,Female,Asian,Not Hispanic or Latino,Medicare,Pulmonary,Pneumonia,3.3,2,6,0,1,0,0,1,0,1,5,Moderate,0
+E0004107,P00736,63,40-64,Female,Asian,Not Hispanic or Latino,Medicare,Endocrinology,Hypoglycemia,3.1,1,2,0,1,0,0,1,0,1,3,Moderate,0
+E0004110,P00737,58,40-64,Female,Black,Not Hispanic or Latino,Medicaid,Cardiology,Heart failure exacerbation,5.3,2,2,1,0,0,0,0,0,0,5,Moderate,0
+E0004111,P00737,59,40-64,Female,Black,Not Hispanic or Latino,Medicaid,General Medicine,Syncope,5.2,1,1,1,0,0,0,0,1,0,4,Moderate,1
+E0004112,P00737,59,40-64,Female,Black,Not Hispanic or Latino,Medicaid,Pulmonary,COPD exacerbation,3.4,2,3,1,0,0,0,0,1,0,4,Moderate,0
+E0004114,P00738,30,18-39,Female,Black,Hispanic or Latino,Commercial,Cardiology,Atrial fibrillation,5.1,1,4,0,0,0,0,0,0,0,2,Low,0
+E0004116,P00739,63,40-64,Female,Black,Hispanic or Latino,Medicare,Cardiology,Atrial fibrillation,1.4,1,5,1,1,0,0,0,1,1,3,Moderate,0
+E0004117,P00739,64,40-64,Female,Black,Hispanic or Latino,Medicare,General Medicine,Sepsis,1.2,1,4,1,1,0,0,0,1,1,3,Moderate,0
+E0004118,P00739,64,40-64,Female,Black,Hispanic or Latino,Medicare,General Surgery,Postoperative wound issue,4.1,2,3,1,1,0,0,0,1,1,4,Moderate,0
+E0004123,P00740,89,80+,Male,Black,Hispanic or Latino,Commercial,Pulmonary,Asthma exacerbation,3.4,4,3,0,1,0,0,0,0,1,3,Moderate,0
+E0004130,P00742,63,40-64,Male,Black,Hispanic or Latino,Commercial,Endocrinology,Hyperglycemia,3.2,2,4,0,1,0,0,0,0,1,2,Low,0
+E0004131,P00742,63,40-64,Male,Black,Hispanic or Latino,Commercial,Endocrinology,Hyperglycemia,3.4,1,3,0,1,0,0,0,0,0,1,Low,0
+E0004137,P00743,58,40-64,Male,Black,Not Hispanic or Latino,Medicare,Pulmonary,COPD exacerbation,1.2,3,2,0,0,0,1,0,0,0,6,Moderate,0
+E0004144,P00744,64,40-64,Male,Black,Not Hispanic or Latino,Medicaid,Pulmonary,Asthma exacerbation,2.2,5,2,0,0,0,0,1,0,0,5,Moderate,0
+E0004151,P00745,48,40-64,Male,Asian,Not Hispanic or Latino,Medicare,General Surgery,Postoperative wound issue,4.1,6,1,0,0,0,0,0,0,0,3,Moderate,0
+E0004165,P00747,81,80+,Male,White,Hispanic or Latino,Medicare,Cardiology,Atrial fibrillation,3.1,8,1,1,0,0,0,0,1,0,5,Moderate,0
+E0004178,P00749,87,80+,Male,Unknown,Not Hispanic or Latino,Commercial,General Surgery,Abdominal pain,2.1,7,4,0,1,1,1,0,0,0,10,High,0
+E0004182,P00750,56,40-64,Male,White,Not Hispanic or Latino,Medicaid,Cardiology,Atrial fibrillation,2.2,1,2,0,0,0,0,0,0,0,1,Low,0
+E0004188,P00751,86,80+,Male,Black,Hispanic or Latino,Medicare,General Surgery,Postoperative wound issue,2.1,5,3,1,1,0,1,0,1,1,8,High,0
+E0004197,P00752,32,18-39,Male,Black,Not Hispanic or Latino,Medicare,General Medicine,Syncope,3.2,6,1,1,0,0,0,0,1,0,5,Moderate,0
+E0004198,P00752,33,18-39,Male,Black,Not Hispanic or Latino,Medicare,General Medicine,Cellulitis,3.3,2,4,1,0,0,0,0,1,0,4,Moderate,0
+E0004203,P00753,33,18-39,Male,Other,Not Hispanic or Latino,Self-pay,Cardiology,Atrial fibrillation,1.2,4,3,0,1,0,0,0,0,1,3,Moderate,0
+E0004204,P00753,33,18-39,Male,Other,Not Hispanic or Latino,Self-pay,Endocrinology,Hyperglycemia,3.2,1,2,0,1,0,0,0,0,0,1,Low,0
+E0004216,P00756,70,65-79,Male,Black,Not Hispanic or Latino,Medicare,General Surgery,Biliary disease,2.2,4,3,0,0,0,0,0,0,0,3,Moderate,0
+E0004217,P00756,70,65-79,Male,Black,Not Hispanic or Latino,Medicare,Pulmonary,COPD exacerbation,1.1,3,3,0,0,0,0,0,0,0,3,Moderate,0
+E0004220,P00757,53,40-64,Female,White,Not Hispanic or Latino,Medicare,General Medicine,Cellulitis,4.2,2,3,0,0,0,0,0,0,0,2,Low,0
+E0004227,P00758,30,18-39,Female,Black,Not Hispanic or Latino,Medicaid,Endocrinology,Hyperglycemia,1.4,5,5,0,1,0,0,0,0,1,3,Moderate,0
+E0004228,P00758,30,18-39,Female,Black,Not Hispanic or Latino,Medicaid,Cardiology,Atrial fibrillation,1.4,3,3,0,1,0,0,0,0,1,3,Moderate,0
+E0004234,P00759,24,18-39,Male,Black,Not Hispanic or Latino,Medicare,Pulmonary,Pneumonia,2.4,5,1,0,0,0,0,0,0,0,3,Moderate,0
+E0004235,P00759,24,18-39,Male,Black,Not Hispanic or Latino,Medicare,Pulmonary,Pneumonia,1.3,4,3,0,0,0,0,0,0,0,3,Moderate,0
+E0004236,P00759,24,18-39,Male,Black,Not Hispanic or Latino,Medicare,General Medicine,Electrolyte disorder,1.2,2,1,0,0,0,0,0,0,0,2,Low,0
+E0004241,P00760,45,40-64,Male,Black,Not Hispanic or Latino,Medicare,Endocrinology,Hypoglycemia,3.4,3,1,0,0,0,0,0,0,0,3,Moderate,0
+E0004249,P00761,47,40-64,Female,Black,Not Hispanic or Latino,Medicaid,Endocrinology,Hyperglycemia,5.4,7,2,0,1,0,0,0,0,1,4,Moderate,0
+E0004250,P00761,47,40-64,Female,Black,Not Hispanic or Latino,Medicaid,Endocrinology,Hypoglycemia,4.3,3,1,0,1,0,0,0,0,1,3,Moderate,0
+E0004251,P00761,48,40-64,Female,Black,Not Hispanic or Latino,Medicaid,Endocrinology,Diabetes complication,3.1,1,2,0,1,0,0,0,0,1,1,Low,0
+E0004262,P00763,47,40-64,Male,White,Not Hispanic or Latino,Medicaid,Cardiology,Heart failure exacerbation,5.1,5,1,0,0,0,0,0,0,0,4,Moderate,0
+E0004267,P00764,46,40-64,Female,White,Not Hispanic or Latino,Medicare,General Medicine,Syncope,1.3,3,1,0,1,0,0,0,0,0,3,Moderate,0
+E0004274,P00765,21,18-39,Female,Black,Unknown,Commercial,Endocrinology,Diabetes complication,6.3,6,5,1,0,0,0,0,1,0,6,Moderate,0
+E0004275,P00765,21,18-39,Female,Black,Unknown,Commercial,General Surgery,Postoperative wound issue,2.1,2,4,1,0,0,0,0,1,0,4,Moderate,0
+E0004282,P00766,50,40-64,Female,Other,Hispanic or Latino,Medicare,General Medicine,Syncope,1.4,4,2,0,0,0,0,0,0,0,3,Moderate,0
+E0004287,P00767,53,40-64,Female,Other,Not Hispanic or Latino,Medicare,Cardiology,Atrial fibrillation,6.2,4,3,0,0,0,0,1,0,0,6,Moderate,0
+E0004291,P00768,53,40-64,Male,White,Not Hispanic or Latino,Medicare,Cardiology,Atrial fibrillation,3.1,3,1,1,0,0,0,0,1,0,5,Moderate,0
+E0004292,P00768,53,40-64,Male,White,Not Hispanic or Latino,Medicare,General Medicine,Cellulitis,4.1,3,2,1,0,0,0,0,1,0,5,Moderate,0
+E0004302,P00770,51,40-64,Male,Black,Unknown,Medicare,Endocrinology,Diabetes complication,4.2,2,1,0,0,0,1,0,0,0,5,Moderate,0
+E0004306,P00771,43,40-64,Male,White,Not Hispanic or Latino,Medicare,General Surgery,Postoperative wound issue,2.1,3,2,0,1,0,0,0,0,1,3,Moderate,0
+E0004312,P00772,81,80+,Male,White,Not Hispanic or Latino,Medicaid,Cardiology,Chest pain,3.3,3,6,0,1,0,0,0,0,1,4,Moderate,0
+E0004313,P00772,81,80+,Male,White,Not Hispanic or Latino,Medicaid,General Medicine,Electrolyte disorder,3.2,1,3,0,1,0,0,0,0,1,1,Low,0
+E0004314,P00772,81,80+,Male,White,Not Hispanic or Latino,Medicaid,Pulmonary,Pneumonia,3.1,1,1,0,1,0,0,0,0,1,1,Low,0
+E0004317,P00773,18,18-39,Female,Other,Unknown,Medicare,General Medicine,Electrolyte disorder,5.3,2,1,1,0,0,0,0,1,0,5,Moderate,0
+E0004321,P00774,65,65-79,Female,White,Not Hispanic or Latino,Self-pay,General Medicine,Cellulitis,5.2,3,5,1,1,0,0,1,0,0,8,High,0
+E0004322,P00774,65,65-79,Female,White,Not Hispanic or Latino,Self-pay,Pulmonary,Asthma exacerbation,3.4,2,3,1,1,0,0,1,1,1,6,Moderate,0
+E0004332,P00777,47,40-64,Male,Asian,Not Hispanic or Latino,Medicare,General Medicine,Sepsis,1.2,1,2,0,1,0,0,0,0,1,1,Low,0
+E0004333,P00777,47,40-64,Male,Asian,Not Hispanic or Latino,Medicare,Cardiology,Atrial fibrillation,4.4,2,2,0,1,0,0,0,0,1,2,Low,0
+E0004337,P00778,40,40-64,Female,White,Not Hispanic or Latino,Medicare,Cardiology,Heart failure exacerbation,4.1,3,2,0,0,0,0,0,0,0,3,Moderate,0
+E0004338,P00778,40,40-64,Female,White,Not Hispanic or Latino,Medicare,General Medicine,Sepsis,2.2,1,1,0,0,0,0,0,0,0,1,Low,0
+E0004343,P00779,68,65-79,Male,White,Not Hispanic or Latino,Commercial,General Surgery,Abdominal pain,1.3,4,2,0,0,0,0,0,0,0,3,Moderate,0
+E0004344,P00779,69,65-79,Male,White,Not Hispanic or Latino,Commercial,Cardiology,Chest pain,3.1,4,1,0,0,0,0,0,0,0,3,Moderate,0
+E0004350,P00780,30,18-39,Female,White,Hispanic or Latino,Medicaid,General Medicine,Cellulitis,2.1,3,1,0,0,0,0,0,0,0,3,Moderate,0
+E0004351,P00780,30,18-39,Female,White,Hispanic or Latino,Medicaid,General Medicine,Electrolyte disorder,1.4,2,2,0,0,0,0,0,0,0,2,Low,0
+E0004353,P00781,43,40-64,Male,White,Not Hispanic or Latino,Medicare,General Medicine,Electrolyte disorder,3.3,1,2,0,1,0,0,1,0,1,3,Moderate,0
+E0004354,P00781,44,40-64,Male,White,Not Hispanic or Latino,Medicare,General Medicine,Sepsis,2.2,2,4,0,1,0,0,1,0,1,4,Moderate,0
+E0004361,P00782,18,18-39,Female,Asian,Not Hispanic or Latino,Self-pay,Cardiology,Heart failure exacerbation,2.1,6,3,0,0,1,0,0,0,0,7,High,0
+E0004362,P00782,18,18-39,Female,Asian,Not Hispanic or Latino,Self-pay,General Medicine,Electrolyte disorder,4.2,4,3,0,0,1,0,0,0,0,7,High,0
+E0004367,P00783,34,18-39,Male,Black,Hispanic or Latino,Medicare,General Medicine,Electrolyte disorder,1.1,3,3,0,1,0,0,0,0,1,3,Moderate,0
+E0004369,P00784,58,40-64,Male,White,Not Hispanic or Latino,Medicare,Cardiology,Atrial fibrillation,5.3,1,1,0,0,0,0,0,0,0,2,Low,0
+E0004370,P00784,58,40-64,Male,White,Not Hispanic or Latino,Medicare,Pulmonary,Pneumonia,1.3,2,1,0,0,0,0,0,0,0,2,Low,0
+E0004371,P00784,59,40-64,Male,White,Not Hispanic or Latino,Medicare,Cardiology,Heart failure exacerbation,4.3,3,2,0,0,0,0,0,0,0,3,Moderate,0
+E0004377,P00785,42,40-64,Male,White,Not Hispanic or Latino,Medicaid,General Medicine,Sepsis,3.4,4,1,0,0,0,0,0,0,0,3,Moderate,0
+E0004378,P00785,42,40-64,Male,White,Not Hispanic or Latino,Medicaid,General Surgery,Biliary disease,4.1,2,1,0,0,0,0,0,0,0,2,Low,0
+E0004379,P00785,42,40-64,Male,White,Not Hispanic or Latino,Medicaid,Cardiology,Chest pain,3.2,2,1,0,0,0,0,0,0,0,2,Low,0
+E0004385,P00786,20,18-39,Female,Other,Not Hispanic or Latino,Commercial,General Surgery,Biliary disease,3.3,4,1,0,0,0,0,0,0,0,3,Moderate,0
+E0004386,P00786,20,18-39,Female,Other,Not Hispanic or Latino,Commercial,Endocrinology,Diabetes complication,1.4,4,1,0,0,0,0,0,0,0,3,Moderate,0
+E0004392,P00787,58,40-64,Male,White,Not Hispanic or Latino,Medicare,Pulmonary,Asthma exacerbation,4.4,5,4,0,1,0,0,0,0,1,3,Moderate,0
+E0004397,P00788,73,65-79,Male,Black,Not Hispanic or Latino,Medicare,Endocrinology,Hypoglycemia,3.2,2,5,0,1,0,0,0,0,0,2,Low,0
+E0004398,P00788,74,65-79,Male,Black,Not Hispanic or Latino,Medicare,General Medicine,Electrolyte disorder,2.1,1,2,0,1,0,0,0,0,1,1,Low,0
+E0004400,P00789,85,80+,Male,White,Unknown,Commercial,General Surgery,Postoperative wound issue,8.3,1,2,1,0,0,0,1,1,0,6,Moderate,0
+E0004401,P00789,85,80+,Male,White,Unknown,Commercial,General Medicine,Cellulitis,3.1,1,5,1,0,0,0,1,1,0,5,Moderate,0
+E0004417,P00792,75,65-79,Male,Unknown,Not Hispanic or Latino,Medicaid,General Medicine,Cellulitis,2.4,2,3,0,0,0,0,0,0,0,2,Low,1
+E0004418,P00792,75,65-79,Male,Unknown,Not Hispanic or Latino,Medicaid,General Surgery,Abdominal pain,1.2,3,3,0,0,0,0,0,0,0,3,Moderate,0
+E0004426,P00793,27,18-39,Male,Other,Hispanic or Latino,Medicare,General Medicine,Electrolyte disorder,2.3,7,1,0,0,0,0,0,0,0,3,Moderate,1
+E0004427,P00793,27,18-39,Male,Other,Hispanic or Latino,Medicare,Cardiology,Heart failure exacerbation,3.3,8,1,0,0,0,0,0,0,0,3,Moderate,0
+E0004433,P00794,58,40-64,Female,Asian,Not Hispanic or Latino,Medicare,General Surgery,Biliary disease,1.2,5,3,0,0,0,0,0,0,0,3,Moderate,0
+E0004436,P00795,42,40-64,Female,Black,Not Hispanic or Latino,Medicare,Endocrinology,Hypoglycemia,3.4,2,6,1,1,0,0,0,1,0,5,Moderate,0
+E0004442,P00796,65,65-79,Male,Black,Not Hispanic or Latino,Medicare,General Medicine,Electrolyte disorder,1.3,2,1,0,1,0,0,0,0,1,2,Low,0
+E0004445,P00797,51,40-64,Male,Black,Not Hispanic or Latino,Medicare,General Medicine,Electrolyte disorder,3.1,2,4,0,1,0,1,1,0,1,7,High,0
+E0004446,P00797,51,40-64,Male,Black,Not Hispanic or Latino,Medicare,General Surgery,Biliary disease,3.2,3,6,0,1,0,1,1,0,1,9,High,0
+E0004453,P00798,51,40-64,Male,Black,Hispanic or Latino,Commercial,General Medicine,Cellulitis,1.4,6,4,0,0,0,0,0,0,0,3,Moderate,0
+E0004454,P00798,51,40-64,Male,Black,Hispanic or Latino,Commercial,Pulmonary,Pneumonia,5.2,5,2,0,0,0,0,0,0,0,4,Moderate,0
+E0004461,P00799,23,18-39,Male,White,Not Hispanic or Latino,Commercial,General Medicine,Cellulitis,2.1,5,1,0,0,0,0,0,0,0,3,Moderate,0
+E0004466,P00800,77,65-79,Female,Unknown,Not Hispanic or Latino,Commercial,General Medicine,Sepsis,3.2,3,4,0,0,1,0,0,0,0,7,High,0
+E0004467,P00800,77,65-79,Female,Unknown,Not Hispanic or Latino,Commercial,Cardiology,Atrial fibrillation,4.2,1,2,0,0,1,0,0,0,0,5,Moderate,0
+E0004479,P00802,80,80+,Female,Asian,Not Hispanic or Latino,Medicare,General Medicine,Electrolyte disorder,6.2,6,2,1,0,0,1,0,0,0,9,High,0
+E0004486,P00804,34,18-39,Male,White,Not Hispanic or Latino,Commercial,Endocrinology,Hypoglycemia,3.2,1,4,0,0,0,0,0,0,0,1,Low,0
+E0004489,P00805,36,18-39,Male,Black,Not Hispanic or Latino,Medicare,General Medicine,Cellulitis,3.2,1,3,1,0,0,0,0,1,0,3,Moderate,0
+E0004498,P00807,45,40-64,Male,Asian,Not Hispanic or Latino,Medicaid,General Medicine,Electrolyte disorder,3.3,4,3,1,0,0,0,0,1,0,5,Moderate,0
+E0004499,P00807,45,40-64,Male,Asian,Not Hispanic or Latino,Medicaid,Cardiology,Atrial fibrillation,3.3,1,6,1,0,0,0,0,0,0,4,Moderate,0
+E0004511,P00809,40,40-64,Female,White,Not Hispanic or Latino,Self-pay,General Medicine,Cellulitis,3.3,6,6,0,1,0,0,1,0,1,6,Moderate,0
+E0004517,P00810,75,65-79,Female,Unknown,Hispanic or Latino,Medicaid,Pulmonary,Asthma exacerbation,4.1,3,4,0,1,0,0,1,0,1,5,Moderate,0
+E0004518,P00810,75,65-79,Female,Unknown,Hispanic or Latino,Medicaid,Endocrinology,Hypoglycemia,4.2,1,3,0,1,0,0,1,0,1,3,Moderate,0
+E0004534,P00812,76,65-79,Male,Other,Not Hispanic or Latino,Self-pay,General Medicine,Sepsis,1.3,4,4,0,1,0,0,0,0,1,3,Moderate,0
+E0004538,P00813,66,65-79,Male,Unknown,Unknown,Medicare,Pulmonary,Asthma exacerbation,3.3,2,1,0,0,0,0,1,0,0,4,Moderate,0
+E0004539,P00813,67,65-79,Male,Unknown,Unknown,Medicare,General Medicine,Sepsis,3.2,2,2,0,0,0,0,1,0,0,4,Moderate,0
+E0004549,P00815,65,65-79,Female,Other,Not Hispanic or Latino,Medicaid,General Medicine,Syncope,4.2,4,3,0,1,0,0,0,0,1,3,Moderate,0
+E0004557,P00816,74,65-79,Male,Black,Not Hispanic or Latino,Medicaid,General Medicine,Sepsis,3.2,7,5,0,1,0,1,0,0,0,6,Moderate,0
+E0004558,P00816,74,65-79,Male,Black,Not Hispanic or Latino,Medicaid,Endocrinology,Hypoglycemia,5.2,6,4,0,1,0,1,0,0,1,7,High,0
+E0004566,P00817,74,65-79,Male,Black,Not Hispanic or Latino,Commercial,General Medicine,Electrolyte disorder,1.2,7,4,0,1,0,0,0,0,1,3,Moderate,0
+E0004567,P00817,75,65-79,Male,Black,Not Hispanic or Latino,Commercial,General Medicine,Syncope,1.1,1,1,0,1,0,0,0,0,0,1,Low,0
+E0004573,P00818,22,18-39,Male,White,Not Hispanic or Latino,Commercial,General Surgery,Abdominal pain,1.4,2,1,0,0,0,0,0,0,0,2,Low,0
+E0004577,P00819,62,40-64,Female,White,Not Hispanic or Latino,Medicare,Pulmonary,Pneumonia,1.2,3,4,0,1,0,0,0,0,1,3,Moderate,0
+E0004587,P00821,18,18-39,Female,White,Not Hispanic or Latino,Medicare,Pulmonary,COPD exacerbation,3.1,5,2,0,0,0,0,0,0,0,3,Moderate,0
+E0004588,P00821,18,18-39,Female,White,Not Hispanic or Latino,Medicare,General Medicine,Sepsis,4.2,3,3,0,0,0,0,0,0,0,3,Moderate,0
+E0004597,P00823,44,40-64,Female,White,Not Hispanic or Latino,Medicaid,General Medicine,Sepsis,2.1,4,1,0,0,0,0,0,0,0,3,Moderate,0
+E0004598,P00823,44,40-64,Female,White,Not Hispanic or Latino,Medicaid,Pulmonary,Pneumonia,4.3,4,2,0,0,0,0,0,0,0,3,Moderate,0
+E0004608,P00825,21,18-39,Male,White,Hispanic or Latino,Commercial,Pulmonary,Pneumonia,1.2,6,1,0,1,0,0,0,0,1,3,Moderate,0
+E0004610,P00826,59,40-64,Male,Other,Not Hispanic or Latino,Medicare,Cardiology,Chest pain,4.4,1,1,0,0,0,0,0,0,0,1,Low,0
+E0004611,P00826,59,40-64,Male,Other,Not Hispanic or Latino,Medicare,Pulmonary,Pneumonia,4.1,2,3,0,0,0,0,0,0,0,2,Low,0
+E0004612,P00826,60,40-64,Male,Other,Not Hispanic or Latino,Medicare,General Medicine,Sepsis,2.1,1,1,0,0,0,0,0,0,0,1,Low,0
+E0004619,P00827,72,65-79,Male,Black,Not Hispanic or Latino,Commercial,Pulmonary,COPD exacerbation,5.2,6,4,0,1,0,0,0,0,0,4,Moderate,0
+E0004620,P00827,72,65-79,Male,Black,Not Hispanic or Latino,Commercial,General Medicine,Cellulitis,2.1,1,4,0,1,0,0,0,0,0,1,Low,0
+E0004623,P00828,75,65-79,Male,Black,Not Hispanic or Latino,Medicare,Pulmonary,Pneumonia,2.2,2,3,0,0,0,0,0,0,0,2,Low,0
+E0004630,P00829,68,65-79,Male,Asian,Hispanic or Latino,Medicaid,Cardiology,Atrial fibrillation,4.2,6,1,0,1,0,0,0,0,0,3,Moderate,0
+E0004638,P00830,35,18-39,Male,White,Not Hispanic or Latino,Commercial,Endocrinology,Hypoglycemia,1.2,7,2,1,0,0,0,0,1,0,5,Moderate,0
+E0004644,P00831,55,40-64,Male,White,Not Hispanic or Latino,Medicaid,General Medicine,Syncope,1.2,1,1,0,0,0,0,0,0,0,1,Low,0
+E0004646,P00832,50,40-64,Female,White,Hispanic or Latino,Medicaid,General Surgery,Biliary disease,2.2,1,3,0,0,0,0,1,0,0,3,Moderate,0
+E0004658,P00834,20,18-39,Female,White,Not Hispanic or Latino,Commercial,General Medicine,Electrolyte disorder,4.4,3,3,0,1,0,0,0,0,1,3,Moderate,0
+E0004662,P00835,19,18-39,Male,White,Hispanic or Latino,Medicaid,Pulmonary,Pneumonia,5.1,3,1,0,0,0,0,0,0,0,4,Moderate,0
+E0004668,P00836,51,40-64,Female,White,Unknown,Medicare,General Surgery,Postoperative wound issue,4.2,4,2,0,0,0,0,0,0,0,3,Moderate,0
+E0004674,P00837,55,40-64,Female,White,Hispanic or Latino,Medicare,General Medicine,Sepsis,1.1,5,2,0,0,0,0,0,0,0,3,Moderate,0
+E0004681,P00838,38,18-39,Male,White,Not Hispanic or Latino,Medicaid,Pulmonary,Asthma exacerbation,1.4,5,1,0,0,0,0,0,0,0,3,Moderate,0
+E0004682,P00838,38,18-39,Male,White,Not Hispanic or Latino,Medicaid,General Surgery,Abdominal pain,3.2,1,1,0,0,0,0,0,0,0,1,Low,0
+E0004685,P00839,81,80+,Male,Black,Not Hispanic or Latino,Medicare,General Medicine,Syncope,4.1,1,2,0,0,0,0,0,0,0,1,Low,0
+E0004686,P00839,81,80+,Male,Black,Not Hispanic or Latino,Medicare,General Medicine,Cellulitis,3.2,1,1,0,0,0,0,0,0,0,1,Low,0
+E0004692,P00840,69,65-79,Male,Black,Not Hispanic or Latino,Medicaid,General Surgery,Biliary disease,2.3,5,2,0,0,0,0,0,0,0,3,Moderate,1
+E0004693,P00840,69,65-79,Male,Black,Not Hispanic or Latino,Medicaid,Pulmonary,COPD exacerbation,2.2,6,1,0,0,0,0,0,0,0,3,Moderate,0
+E0004696,P00841,68,65-79,Female,White,Hispanic or Latino,Medicaid,Pulmonary,COPD exacerbation,5.2,2,2,0,0,0,0,0,0,0,3,Moderate,0
+E0004702,P00842,63,40-64,Male,Other,Not Hispanic or Latino,Commercial,General Medicine,Electrolyte disorder,2.1,4,2,0,0,0,0,1,0,0,5,Moderate,0
+E0004707,P00843,79,65-79,Male,White,Not Hispanic or Latino,Commercial,Cardiology,Chest pain,4.3,2,5,1,1,0,0,0,1,1,4,Moderate,0
+E0004711,P00844,37,18-39,Female,Other,Not Hispanic or Latino,Commercial,Cardiology,Atrial fibrillation,3.4,3,4,0,0,0,0,0,0,0,3,Moderate,0
+E0004716,P00845,57,40-64,Male,Asian,Not Hispanic or Latino,Commercial,Cardiology,Chest pain,6.2,4,3,0,0,0,0,0,0,0,4,Moderate,0
+E0004723,P00846,76,65-79,Female,Unknown,Not Hispanic or Latino,Self-pay,Cardiology,Atrial fibrillation,2.2,6,2,0,0,0,0,0,0,0,3,Moderate,0
+E0004724,P00846,76,65-79,Female,Unknown,Not Hispanic or Latino,Self-pay,Pulmonary,Asthma exacerbation,2.4,4,1,0,0,0,0,0,0,0,3,Moderate,0
+E0004735,P00848,41,40-64,Female,White,Not Hispanic or Latino,Medicare,General Medicine,Electrolyte disorder,5.1,6,5,1,0,1,1,0,1,0,13,High,0
+E0004736,P00848,41,40-64,Female,White,Not Hispanic or Latino,Medicare,Pulmonary,COPD exacerbation,6.2,3,7,1,0,1,1,0,1,0,14,High,0
+E0004741,P00849,72,65-79,Male,White,Not Hispanic or Latino,Commercial,Cardiology,Heart failure exacerbation,4.3,4,5,0,1,1,0,0,0,1,7,High,0
+E0004746,P00850,37,18-39,Male,Black,Unknown,Medicare,General Surgery,Postoperative wound issue,2.4,3,1,0,0,0,0,0,0,0,3,Moderate,0
+E0004750,P00851,78,65-79,Male,White,Not Hispanic or Latino,Commercial,General Medicine,Syncope,2.4,2,2,0,0,0,0,0,0,0,2,Low,0
+E0004751,P00851,78,65-79,Male,White,Not Hispanic or Latino,Commercial,Cardiology,Atrial fibrillation,3.4,1,5,0,0,0,0,0,0,0,1,Low,0
+E0004767,P00854,58,40-64,Male,White,Not Hispanic or Latino,Medicare,Pulmonary,Pneumonia,3.2,6,1,0,0,0,0,0,0,0,3,Moderate,1
+E0004768,P00854,58,40-64,Male,White,Not Hispanic or Latino,Medicare,General Medicine,Sepsis,1.3,5,1,0,0,0,0,0,0,0,3,Moderate,0
+E0004769,P00854,58,40-64,Male,White,Not Hispanic or Latino,Medicare,General Surgery,Abdominal pain,1.2,5,4,0,0,0,0,0,0,0,3,Moderate,0
+E0004781,P00856,44,40-64,Female,Other,Not Hispanic or Latino,Medicare,Pulmonary,Asthma exacerbation,2.1,5,3,0,0,0,0,0,0,0,3,Moderate,0
+E0004786,P00857,58,40-64,Male,Black,Not Hispanic or Latino,Medicare,Pulmonary,Pneumonia,2.4,4,1,0,0,0,0,0,0,0,3,Moderate,0
+E0004794,P00858,52,40-64,Male,White,Not Hispanic or Latino,Medicare,General Surgery,Abdominal pain,4.3,6,2,0,0,0,0,0,0,0,3,Moderate,0
+E0004802,P00859,47,40-64,Female,Asian,Unknown,Commercial,Cardiology,Chest pain,4.1,7,4,1,0,1,0,0,1,0,9,High,0
+E0004803,P00859,48,40-64,Female,Asian,Unknown,Commercial,General Surgery,Postoperative wound issue,4.1,1,2,1,0,1,0,0,1,0,7,High,0
+E0004810,P00860,85,80+,Male,White,Not Hispanic or Latino,Medicaid,General Surgery,Abdominal pain,1.1,6,3,0,1,0,1,0,0,1,6,Moderate,0
+E0004815,P00861,60,40-64,Male,Black,Not Hispanic or Latino,Commercial,General Surgery,Biliary disease,4.4,1,2,0,0,0,0,0,0,0,1,Low,1
+E0004816,P00861,60,40-64,Male,Black,Not Hispanic or Latino,Commercial,General Medicine,Electrolyte disorder,4.2,2,5,0,0,0,0,0,0,0,2,Low,0
+E0004820,P00862,50,40-64,Female,Unknown,Hispanic or Latino,Medicaid,General Surgery,Postoperative wound issue,1.4,3,1,0,0,0,0,0,0,0,3,Moderate,0
+E0004821,P00862,50,40-64,Female,Unknown,Hispanic or Latino,Medicaid,General Medicine,Electrolyte disorder,6.1,1,3,0,0,0,0,0,0,0,2,Low,1
+E0004822,P00862,51,40-64,Female,Unknown,Hispanic or Latino,Medicaid,General Medicine,Electrolyte disorder,2.1,2,1,0,0,0,0,0,0,0,2,Low,0
+E0004825,P00863,44,40-64,Female,Black,Unknown,Self-pay,General Medicine,Cellulitis,2.2,1,1,0,1,0,0,0,0,1,1,Low,0
+E0004843,P00866,80,80+,Female,Unknown,Not Hispanic or Latino,Commercial,General Surgery,Postoperative wound issue,5.1,3,4,0,0,1,0,1,0,0,10,High,0
+E0004849,P00867,67,65-79,Female,White,Not Hispanic or Latino,Commercial,General Surgery,Abdominal pain,2.1,5,2,0,0,0,0,0,0,0,3,Moderate,0
+E0004853,P00868,51,40-64,Male,White,Not Hispanic or Latino,Medicare,General Surgery,Postoperative wound issue,3.2,3,3,0,0,0,0,0,0,0,3,Moderate,0
+E0004854,P00868,51,40-64,Male,White,Not Hispanic or Latino,Medicare,General Medicine,Cellulitis,2.1,3,1,0,0,0,0,0,0,0,3,Moderate,0
+E0004857,P00869,49,40-64,Female,Other,Not Hispanic or Latino,Self-pay,General Medicine,Cellulitis,3.4,2,1,0,0,0,0,0,0,0,2,Low,0
+E0004858,P00869,49,40-64,Female,Other,Not Hispanic or Latino,Self-pay,Pulmonary,COPD exacerbation,1.2,1,2,0,0,0,0,0,0,0,1,Low,0
+E0004861,P00870,43,40-64,Female,White,Not Hispanic or Latino,Medicaid,General Surgery,Postoperative wound issue,4.2,2,2,0,1,0,0,0,0,1,2,Low,0
+E0004868,P00871,30,18-39,Male,White,Hispanic or Latino,Commercial,General Surgery,Abdominal pain,3.4,4,2,0,0,0,0,0,0,0,3,Moderate,0
+E0004871,P00872,73,65-79,Male,Black,Not Hispanic or Latino,Medicare,Cardiology,Heart failure exacerbation,5.4,2,1,1,0,0,0,0,1,0,5,Moderate,0
+E0004872,P00872,73,65-79,Male,Black,Not Hispanic or Latino,Medicare,General Medicine,Cellulitis,4.2,3,4,1,0,0,0,0,0,0,5,Moderate,0
+E0004877,P00873,47,40-64,Female,White,Hispanic or Latino,Commercial,Cardiology,Chest pain,5.4,2,2,0,0,0,0,0,0,0,3,Moderate,0
+E0004878,P00873,47,40-64,Female,White,Hispanic or Latino,Commercial,General Medicine,Electrolyte disorder,1.2,2,1,0,0,0,0,0,0,0,2,Low,0
+E0004883,P00874,44,40-64,Female,White,Not Hispanic or Latino,Commercial,General Medicine,Syncope,2.4,4,5,1,0,0,0,0,0,0,5,Moderate,0
+E0004890,P00875,64,40-64,Female,White,Not Hispanic or Latino,Medicare,General Surgery,Abdominal pain,2.4,6,2,0,0,0,0,0,0,0,3,Moderate,0
+E0004891,P00875,64,40-64,Female,White,Not Hispanic or Latino,Medicare,General Medicine,Syncope,3.4,3,1,0,0,0,0,0,0,0,3,Moderate,0
+E0004892,P00875,64,40-64,Female,White,Not Hispanic or Latino,Medicare,Pulmonary,COPD exacerbation,3.2,2,1,0,0,0,0,0,0,0,2,Low,0
+E0004894,P00876,58,40-64,Female,White,Hispanic or Latino,Medicaid,General Surgery,Abdominal pain,2.4,1,3,0,0,0,0,0,0,0,1,Low,0
+E0004896,P00877,77,65-79,Male,White,Not Hispanic or Latino,Commercial,General Surgery,Abdominal pain,4.4,1,5,0,1,0,1,0,0,1,4,Moderate,0
+E0004901,P00878,67,65-79,Female,Unknown,Not Hispanic or Latino,Self-pay,Endocrinology,Hypoglycemia,4.4,4,2,0,0,0,0,0,0,0,3,Moderate,0
+E0004906,P00879,59,40-64,Female,White,Hispanic or Latino,Medicaid,Endocrinology,Hyperglycemia,5.3,2,2,0,0,0,0,0,0,0,3,Moderate,0
+E0004907,P00879,59,40-64,Female,White,Hispanic or Latino,Medicaid,General Medicine,Sepsis,3.3,1,4,0,0,0,0,0,0,0,1,Low,0
+E0004910,P00880,34,18-39,Female,Black,Not Hispanic or Latino,Commercial,General Medicine,Sepsis,4.2,2,1,0,0,0,0,0,0,0,2,Low,0
+E0004918,P00881,88,80+,Female,White,Not Hispanic or Latino,Medicaid,General Surgery,Postoperative wound issue,4.3,7,3,1,0,0,0,0,0,0,5,Moderate,0
+E0004925,P00882,51,40-64,Male,Black,Not Hispanic or Latino,Medicare,Endocrinology,Diabetes complication,1.3,6,4,0,1,0,0,0,0,1,3,Moderate,0
+E0004926,P00882,51,40-64,Male,Black,Not Hispanic or Latino,Medicare,Cardiology,Atrial fibrillation,1.2,4,3,0,1,0,0,0,0,0,3,Moderate,0
+E0004933,P00883,44,40-64,Female,White,Hispanic or Latino,Medicare,General Medicine,Cellulitis,3.2,4,1,0,0,0,0,0,0,0,3,Moderate,0
+E0004939,P00884,75,65-79,Male,White,Not Hispanic or Latino,Commercial,Endocrinology,Diabetes complication,5.3,5,2,1,1,0,0,0,1,1,6,Moderate,0
+E0004941,P00884,76,65-79,Male,White,Not Hispanic or Latino,Commercial,Pulmonary,Pneumonia,5.4,1,5,1,1,0,0,0,1,1,4,Moderate,0
+E0004944,P00885,39,18-39,Female,Black,Not Hispanic or Latino,Commercial,General Surgery,Postoperative wound issue,3.1,2,3,0,0,0,0,0,0,0,2,Low,0
+E0004945,P00885,39,18-39,Female,Black,Not Hispanic or Latino,Commercial,Endocrinology,Diabetes complication,3.2,1,2,0,0,0,0,0,0,0,1,Low,0
+E0004953,P00886,75,65-79,Female,Asian,Not Hispanic or Latino,Medicare,General Medicine,Syncope,4.1,5,2,1,0,0,0,0,1,0,5,Moderate,0
+E0004957,P00887,48,40-64,Male,White,Not Hispanic or Latino,Commercial,Cardiology,Chest pain,4.1,2,1,0,0,0,0,0,0,0,2,Low,0
+E0004968,P00889,55,40-64,Female,Asian,Unknown,Medicare,Pulmonary,COPD exacerbation,1.2,4,1,0,0,0,0,0,0,0,3,Moderate,0
+E0004973,P00890,82,80+,Male,Black,Not Hispanic or Latino,Commercial,Cardiology,Chest pain,2.2,4,3,0,1,0,1,0,0,0,6,Moderate,0
+E0004974,P00890,82,80+,Male,Black,Not Hispanic or Latino,Commercial,General Medicine,Sepsis,4.4,4,3,0,1,0,1,0,0,0,6,Moderate,0
+E0004975,P00890,83,80+,Male,Black,Not Hispanic or Latino,Commercial,Pulmonary,Asthma exacerbation,3.4,3,5,0,1,0,1,0,0,1,6,Moderate,0
+E0004980,P00891,87,80+,Male,Unknown,Unknown,Commercial,Cardiology,Chest pain,4.2,3,4,1,0,1,0,0,0,0,9,High,0
+E0004981,P00891,87,80+,Male,Unknown,Unknown,Commercial,Endocrinology,Hyperglycemia,7.2,2,1,1,0,1,0,0,0,0,9,High,0
+E0004986,P00892,65,65-79,Male,Asian,Not Hispanic or Latino,Medicare,Cardiology,Heart failure exacerbation,2.3,2,1,0,0,0,0,0,0,0,2,Low,0
+E0004989,P00893,48,40-64,Male,Other,Not Hispanic or Latino,Medicaid,Pulmonary,Asthma exacerbation,5.1,1,4,1,1,1,0,0,1,1,8,High,0
+E0004991,P00894,53,40-64,Female,Other,Not Hispanic or Latino,Medicare,General Surgery,Biliary disease,1.2,1,2,0,0,0,0,0,0,0,1,Low,0
+E0005001,P00896,35,18-39,Female,Unknown,Not Hispanic or Latino,Medicare,General Medicine,Syncope,5.3,5,1,0,0,0,0,0,0,0,4,Moderate,0
+E0005006,P00898,72,65-79,Female,Black,Unknown,Medicaid,General Medicine,Electrolyte disorder,2.1,2,3,0,1,0,0,0,0,1,2,Low,0
+E0005012,P00899,18,18-39,Female,Black,Not Hispanic or Latino,Medicaid,Pulmonary,Asthma exacerbation,2.2,5,1,0,0,0,0,0,0,0,3,Moderate,0
+E0005013,P00899,18,18-39,Female,Black,Not Hispanic or Latino,Medicaid,Endocrinology,Hyperglycemia,2.4,5,1,0,0,0,0,0,0,0,3,Moderate,0
+E0005019,P00900,61,40-64,Female,Asian,Not Hispanic or Latino,Medicaid,Endocrinology,Diabetes complication,1.2,4,4,0,0,0,0,0,0,0,3,Moderate,0
+E0005020,P00900,62,40-64,Female,Asian,Not Hispanic or Latino,Medicaid,General Surgery,Abdominal pain,3.2,1,2,0,0,0,0,0,0,0,1,Low,0
